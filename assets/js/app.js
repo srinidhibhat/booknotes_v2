@@ -76,7 +76,9 @@
     let t = q.text || ''
     const parts = String(t).split(/\n\s*(?:-|\u2022)\s+/)
     if (parts.length > 1) t = parts[0]
+    // Keep original text for possible truncation fallback
     textEl.textContent = t
+    textEl.dataset.originalText = t
     const byBook = bookLookup().get(q.bookId)
     const titleRaw = byBook?.title || q.bookId || 'Unknown book'
     const title = toTitleCase(titleRaw)
@@ -119,17 +121,39 @@
     textEl.style.fontSize = computed + 'px'
     const minPx = isDaily ? 16 : 12
     const pad = 24
-    const avail = container.clientHeight - (metaEl ? metaEl.clientHeight : 0) - pad
+    // Available vertical space inside the container; for browse we rely on max-height in CSS
+    let avail = container.clientHeight - (metaEl ? metaEl.clientHeight : 0) - pad
+    // Fallback if container isn't sized yet
+    if (!Number.isFinite(avail) || avail <= 0) {
+      const frac = isDaily ? 0.6 : 0.55
+      avail = Math.max(120, Math.floor(window.innerHeight * frac))
+    }
     let size = computed
     let attempts = 0
-    while (attempts < 10) {
-      const rect = textEl.getBoundingClientRect()
-      const h = rect.height
+    while (attempts < 12) {
+      const h = textEl.scrollHeight
       if (h <= avail || size <= minPx) break
       size = Math.max(minPx, Math.floor(size * 0.9))
       textEl.style.fontSize = size + 'px'
       attempts += 1
     }
+
+    // If still overflowing at minimum size, fall back to truncation
+    if (textEl.scrollHeight > avail - 2) {
+      const original = textEl.dataset.originalText || textEl.textContent || ''
+      const maxChars = isDaily ? 320 : 200
+      if (original.length > maxChars) {
+        const truncated = truncateAtWord(original, maxChars)
+        textEl.textContent = truncated + '…'
+      }
+    }
+  }
+
+  function truncateAtWord(s, max) {
+    if (s.length <= max) return s
+    const cut = s.slice(0, max)
+    const lastSpace = cut.lastIndexOf(' ')
+    return lastSpace > 40 ? cut.slice(0, lastSpace) : cut
   }
 
   function renderBrowse() {
@@ -435,10 +459,15 @@
     init()
   }
 
-  // Re-fit quotes on resize for better responsiveness
+  // Re-fit quotes on resize for better responsiveness (debounced)
+  let _resizeTimer = null
   window.addEventListener('resize', () => {
-    try { fitQuoteToContainer('daily') } catch {}
-    try { fitQuoteToContainer('browse') } catch {}
+    if (_resizeTimer) clearTimeout(_resizeTimer)
+    _resizeTimer = setTimeout(() => {
+      try { fitQuoteToContainer('daily') } catch {}
+      try { fitQuoteToContainer('browse') } catch {}
+      _resizeTimer = null
+    }, 120)
   })
 
   window.addEventListener('error', (e) => {

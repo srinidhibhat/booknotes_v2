@@ -1,4 +1,5 @@
 :root { color-scheme: light dark; --brand-start: #20c997; --brand-end: #0d6efd; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
 * { box-sizing: border-box; }
 body { margin: 0; font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; line-height: 1.6; background: linear-gradient(180deg, #ffffff, #fbfdff 40%, #fffafc); }
 .site-header { padding: 1rem; border-bottom: 1px solid #ddd; }
@@ -29,7 +30,7 @@ td, th { border: 1px solid #ddd; padding: 0.3rem 0.5rem; }
 /* Hero daily quote */
 .hero {
   position: relative;
-  min-height: calc(100vh - 90px);
+  min-height: calc(100dvh - 90px);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -62,6 +63,13 @@ td, th { border: 1px solid #ddd; padding: 0.3rem 0.5rem; }
 
 /* Quote card */
 .quote-card { background: linear-gradient(180deg, #fff, #fafafa); border: 1px solid #eee; border-radius: 0.6rem; }
+.quote-text { overflow-wrap: anywhere; word-break: break-word; }
+
+/* Constrain browse single-quote card height to a viewport fraction to avoid multi-screen overflow */
+#browse-single .card-body { max-height: 65vh; overflow: hidden; }
+@media (max-width: 640px) {
+  #browse-single .card-body { max-height: 60vh; }
+}
 
 /* Mobile tweaks */
 @media (max-width: 640px) {
