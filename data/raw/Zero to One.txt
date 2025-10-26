@@ -1,0 +1,41 @@
+Zero to One
+by Peter Thiel
+
+- Doing what we already know how to do takes the world from 'one' to 'n', adding more of something familiar. But every time we create something new, we go from 'zero' to 'one'.
+- Globalization: 'one' to 'n'. Technology: 'zero' to 'one'.
+- Lessons of business thinking:
+    1. Make incremental advances.
+    2. Stay lean and flexible (expect change).
+    3. Improve on the competition. 
+    4. Focus on product not sales.
+- Creating value is not enough. You also need to capture some of the value you create.
+- Ask yourself: "What important truth do very few people agree with you on?"
+- If you want to create and capture lasting value, don't build on undifferentiated commodity business. 
+- There are two models of companies:
+    1. Perfect competition: Compete with others, money-minded, doesn't work in long run.
+    2. Monopoly: Standalone (like Google). Once it is free from competetion, there is lot of room for innovation. 
+- All happy companies are different: each one earns a monopoly by solving a unique problem. All failed companies are the same: they failed to escape competition. 
+- Winning is better than losing, but everybody loses when the war isn't won worth fighting. 
+- The value of a business today is the sum of all the money it will make in the future.
+- Either invent something completely new, or improve an existing solution at least 10 times better. 
+- Every startup should start with a very small market. Then expand slowly. 
+- Statistics doesn't work when the sample size is 1.
+- Victory awaits him who has everything in order - luck, people call it. 
+- Progress without planning is what we call "evolution".
+- Making small changes to things that already exist might lead you to a local maximum, but it won't help you find the global maximum. 
+- Power Law: Sometimes one company is more strong (financially) or valuable than all the other companies combined. And the second valuable company better than all the others, except the first company. While investing, distribution doesn't work.
+- People always don't do new things because they think it's easy or impossible. They feel that there are no secrets left in the world. But there are secrets in this world if you look where not many people had looked. 
+- A startup messed up at its foundation cannot be fixed. 
+- If you have invented something new but you haven't invented an effective way to sell it, you have a bad business no matter how good the product.
+- Customer lifetime value (preserving a customer) costs or profits must exceed customer acquisition cost (acquiring new customer)
+- 30 years from now will there be anything left for people to do?
+- Computers are complements for humans, not substitutes.
+- No sector will ever be so important that merely participating in it will be enough to build a great company.
+- 7 questions that every business must answer:
+    1. The engineering question: Can you create breakthrough technology instead of incremental improvements?
+    2. The timing question: Is now the right time to start your particular business?
+    3. The Monopoly question: Are you starting with a big share of a small market?
+    4. The people question: Do you have the right team?
+    5. The distribution question: Do you have a way to not just create but deliver your product?
+    6. The durability question: Will your market position be defensible 10 and 20 years into the future?
+    7. The Secret question: Have you identified a unique opportunity that others don't see?
