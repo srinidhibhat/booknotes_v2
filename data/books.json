@@ -8,7 +8,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_rework-change-the-way-you-work-forever",
@@ -19,7 +19,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_walden-prometheus-classics-best-navigation-active-toc",
@@ -50,7 +50,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-dark-forest-the-three-body-problem-book-2",
@@ -61,7 +61,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_siddhartha",
@@ -72,7 +72,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_mindset-updated-edition-changing-the-way-you-think-to-fulfil-your-potential",
@@ -94,7 +94,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-overstory-the-million-copy-global-bestseller-and-winner-of-the-pulitzer-prize-for-fiction",
@@ -118,7 +118,7 @@
     "genres": [
       "read"
     ],
-    "newlyAdded": true,
+    "newlyAdded": false,
     "goodreadsId": "54898389",
     "isbn13": "9781544514208",
     "dateRead": "2020-10-07",
@@ -147,7 +147,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-richest-man-in-babylon",
@@ -158,7 +158,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-headspace-guide-to-meditation-and-mindfulness",
@@ -169,7 +169,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_fahrenheit-451-the-gripping-and-inspiring-classic-of-dystopian-science-fiction",
@@ -258,7 +258,7 @@
     "genres": [
       "read"
     ],
-    "newlyAdded": true,
+    "newlyAdded": false,
     "goodreadsId": "19723223",
     "isbn": "0718197909",
     "isbn13": "9780718197902",
@@ -277,7 +277,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_cloud-atlas-hachette-essentials",
@@ -301,7 +301,7 @@
     "genres": [
       "read"
     ],
-    "newlyAdded": true,
+    "newlyAdded": false,
     "goodreadsId": "19050513",
     "isbn": "1848944888",
     "isbn13": "9781848944886",
@@ -320,7 +320,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_to-kill-a-mockingbird-enhanced-edition",
@@ -331,7 +331,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_why-we-sleep-the-new-science-of-sleep-and-dreams",
@@ -344,7 +344,7 @@
     "genres": [
       "read"
     ],
-    "newlyAdded": true,
+    "newlyAdded": false,
     "goodreadsId": "48592299",
     "dateRead": "2021-04-21",
     "rating": 4,
@@ -363,7 +363,7 @@
     "genres": [
       "read"
     ],
-    "newlyAdded": true,
+    "newlyAdded": false,
     "goodreadsId": "40603783",
     "dateRead": "2021-09-01",
     "rating": 5,
@@ -380,7 +380,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-power-of-now-a-guide-to-spiritual-enlightenment",
@@ -393,7 +393,7 @@
     "genres": [
       "read"
     ],
-    "newlyAdded": true,
+    "newlyAdded": false,
     "goodreadsId": "6708",
     "dateRead": "2023-06-17",
     "rating": 4,
@@ -410,7 +410,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-millionaire-fastlane",
@@ -421,7 +421,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_flow-the-psychology-of-happiness",
@@ -432,7 +432,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_okinawans-live-by-the-principle-of-ichariba-chode-a-local-expression-that-means-treat-everyone-like-a-brother-even-if-you-ve-never-met-them-before",
@@ -441,7 +441,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_don-t-lose-your-mind-lose-your-weight",
@@ -454,7 +454,7 @@
     "genres": [
       "read"
     ],
-    "newlyAdded": true,
+    "newlyAdded": false,
     "goodreadsId": "6375312",
     "isbn": "8184000669",
     "isbn13": "9788184000665",
@@ -601,7 +601,8 @@
     "rating": 5,
     "shelves": [
       "read"
-    ]
+    ],
+    "newlyAdded": false
   },
   {
     "id": "bk_samskruti",
@@ -1235,7 +1236,8 @@
     "rating": 4,
     "shelves": [
       "read"
-    ]
+    ],
+    "newlyAdded": false
   },
   {
     "id": "bk_many-lives-many-masters-the-true-story-of-a-prominent-psychiatrist-his-young-patient-and-the-past-life-therapy-that-changed-both-their-lives",
@@ -1314,7 +1316,8 @@
     "rating": 4,
     "shelves": [
       "read"
-    ]
+    ],
+    "newlyAdded": false
   },
   {
     "id": "bk_crime-and-punishment_2",
@@ -1434,7 +1437,8 @@
     "rating": 4,
     "shelves": [
       "read"
-    ]
+    ],
+    "newlyAdded": false
   },
   {
     "id": "bk_a-thousand-splendid-suns",
@@ -1454,7 +1458,8 @@
     "rating": 3,
     "shelves": [
       "read"
-    ]
+    ],
+    "newlyAdded": false
   },
   {
     "id": "bk_the-ventilator-project",
@@ -1574,7 +1579,8 @@
     "rating": 4,
     "shelves": [
       "read"
-    ]
+    ],
+    "newlyAdded": false
   },
   {
     "id": "bk_the-beginning-of-infinity-explanations-that-transform-the-world",
@@ -2250,7 +2256,8 @@
     "rating": 5,
     "shelves": [
       "read"
-    ]
+    ],
+    "newlyAdded": false
   },
   {
     "id": "bk_the-secret-life-of-groceries-the-dark-miracle-of-the-american-supermarket",
@@ -3643,7 +3650,8 @@
     "rating": 5,
     "shelves": [
       "read"
-    ]
+    ],
+    "newlyAdded": false
   },
   {
     "id": "bk_the-headspace-guide-to-meditation-mindfulness",
@@ -3741,7 +3749,8 @@
     "rating": 4,
     "shelves": [
       "read"
-    ]
+    ],
+    "newlyAdded": false
   },
   {
     "id": "bk_the-selfish-gene",
@@ -3761,7 +3770,8 @@
     "rating": 4,
     "shelves": [
       "read"
-    ]
+    ],
+    "newlyAdded": false
   },
   {
     "id": "bk_the-brief-wondrous-life-of-oscar-wao",
@@ -4030,7 +4040,8 @@
     "shelves": [
       "favorites",
       "read"
-    ]
+    ],
+    "newlyAdded": false
   },
   {
     "id": "bk_shoe-dog-a-memoir-by-the-creator-of-nike",
@@ -4581,7 +4592,8 @@
     "rating": 5,
     "shelves": [
       "read"
-    ]
+    ],
+    "newlyAdded": false
   },
   {
     "id": "bk_the-complete-calvin-and-hobbes",
@@ -4722,7 +4734,8 @@
     "rating": 3,
     "shelves": [
       "read"
-    ]
+    ],
+    "newlyAdded": false
   },
   {
     "id": "bk_the-white-tiger",
@@ -4976,7 +4989,8 @@
     "rating": 4,
     "shelves": [
       "read"
-    ]
+    ],
+    "newlyAdded": false
   },
   {
     "id": "bk_the-4-hour-workweek",
@@ -5096,7 +5110,8 @@
     "rating": 3,
     "shelves": [
       "read"
-    ]
+    ],
+    "newlyAdded": false
   },
   {
     "id": "bk_the-tipping-point-how-little-things-can-make-a-big-difference",
@@ -5375,7 +5390,8 @@
     "rating": 3,
     "shelves": [
       "read"
-    ]
+    ],
+    "newlyAdded": false
   },
   {
     "id": "bk_illusions-the-adventures-of-a-reluctant-messiah",
@@ -5895,5 +5911,516 @@
     "shelves": [
       "to-read"
     ]
+  },
+  {
+    "id": "bk_the-beginning-of-infinity",
+    "title": "The Beginning of Infinity",
+    "authors": [
+      "David Deutsch"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_walden-prometheus-classics-best-navigation-active-toc_2",
+    "title": "WALDEN (PROMETHEUS CLASSICS)(BEST NAVIGATION, ACTIVE TOC)",
+    "authors": [
+      "Henry David Thoreau, Prometheus Classics"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-pshychology-of-money_2",
+    "title": "The Pshychology of Money",
+    "authors": [
+      "Morgan Housel"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_sandhyaraaga",
+    "title": "Sandhyaraaga",
+    "authors": [
+      "A Na Kru"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_guns-germs-steel",
+    "title": "Guns Germs & Steel",
+    "authors": [
+      "Jared Diamond"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_quiet",
+    "title": "Quiet",
+    "authors": [
+      "Susan Cain"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-4-hour-workweek_2",
+    "title": "The 4-Hour Workweek",
+    "authors": [
+      "Tim Ferriss"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_mindset-updated-edition-changing-the-way-you-think-to-fulfil-your-potential_2",
+    "title": "MINDSET - UPDATED EDITION: CHANGING THE WAY YOU THINK TO FULFIL YOUR POTENTIAL",
+    "authors": [
+      "Carol Dweck"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-great-gatsby_2",
+    "title": "The Great Gatsby",
+    "authors": [
+      "Scott Fitzgerald"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-overstory-the-million-copy-global-bestseller-and-winner-of-the-pulitzer-prize-for-fiction_2",
+    "title": "THE OVERSTORY: THE MILLION-COPY GLOBAL BESTSELLER AND WINNER OF THE PULITZER PRIZE FOR FICTION",
+    "authors": [
+      "Richard Powers"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_twelve-years-a-slave-amazonclassics-edition_2",
+    "title": "TWELVE YEARS A SLAVE (AMAZONCLASSICS EDITION)",
+    "authors": [
+      "Solomon Northup"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_fooled-by-randomness",
+    "title": "Fooled by Randomness",
+    "authors": [
+      "Nassim Taleb"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_inner-engineering",
+    "title": "Inner Engineering",
+    "authors": [
+      "Sadhguru Jaggi Vasudev"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_fahrenheit-451-the-gripping-and-inspiring-classic-of-dystopian-science-fiction_2",
+    "title": "FAHRENHEIT 451: THE GRIPPING AND INSPIRING CLASSIC OF DYSTOPIAN SCIENCE FICTION",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-tipping-point",
+    "title": "The Tipping Point",
+    "authors": [
+      "Malcolm Gladwell"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_tuesdays-with-morrie",
+    "title": "Tuesdays with Morrie",
+    "authors": [
+      "Mitch Albom"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_excellent-advice-for-living-wisdom-i-wish-i-d-known-earlier_2",
+    "title": "EXCELLENT ADVICE FOR LIVING: WISDOM I WISH I'D KNOWN EARLIER",
+    "authors": [
+      "Kevin Kelly"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_educated-the-international-bestselling-memoir_2",
+    "title": "EDUCATED: THE INTERNATIONAL BESTSELLING MEMOIR",
+    "authors": [
+      "Tara Westover"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_think-on-these-things_2",
+    "title": "Think on These Things",
+    "authors": [
+      "Jiddu Krishnamurty"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_a-gentleman-in-moscow-the-worldwide-bestseller_2",
+    "title": "A GENTLEMAN IN MOSCOW: THE WORLDWIDE BESTSELLER",
+    "authors": [
+      "Amor Towles"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_atomic-habits-the-life-changing-million-copy-bestseller_2",
+    "title": "ATOMIC HABITS: THE LIFE-CHANGING MILLION COPY BESTSELLER",
+    "authors": [
+      "James Clear"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_range-how-generalists-triumph-in-a-specialized-world_2",
+    "title": "RANGE: HOW GENERALISTS TRIUMPH IN A SPECIALIZED WORLD",
+    "authors": [
+      "(Journalist) David Epstein"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_six-easy-pieces",
+    "title": "Six Easy Pieces",
+    "authors": [
+      "Richard Feynman"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-7-habits-of-highly-effective-people",
+    "title": "The 7 habits of highly effective people",
+    "authors": [],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_eat-that-frog",
+    "title": "Eat that Frog",
+    "authors": [
+      "Brian Tracy"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_mostly-harmless",
+    "title": "Mostly Harmless",
+    "authors": [
+      "Douglas Adams"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-prophet_2",
+    "title": "The Prophet",
+    "authors": [],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_soundtracks",
+    "title": "Soundtracks",
+    "authors": [
+      "Jon Acuff"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_on-the-shortness-of-life",
+    "title": "On the shortness of life",
+    "authors": [
+      "Seneca"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_freakonomics",
+    "title": "Freakonomics",
+    "authors": [
+      "Steven D. Levitt, Stephen J. Dubner"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_cloud-atlas-hachette-essentials_2",
+    "title": "CLOUD ATLAS: HACHETTE ESSENTIALS",
+    "authors": [
+      "David Mitchell"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_secret-life-of-groceries",
+    "title": "Secret life of Groceries",
+    "authors": [],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_one-minute-manager",
+    "title": "One Minute Manager",
+    "authors": [
+      "Ken Blanchard and Spencer Johnson"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_can-t-hurt-me",
+    "title": "Can't Hurt Me",
+    "authors": [
+      "David Goggins"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_deep-work",
+    "title": "Deep Work",
+    "authors": [
+      "Cal Newport"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk__2",
+    "title": "ಸಂಸ್ಕೃತಿ",
+    "authors": [
+      "DVG"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_zero-to-one",
+    "title": "Zero to One",
+    "authors": [
+      "Peter Thiel"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-gene",
+    "title": "The Gene",
+    "authors": [
+      "Siddhartha Mukerjee"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_surely-you-re-joking-mr-feynman",
+    "title": "Surely You're Joking Mr Feynman",
+    "authors": [
+      "Richard Feynman"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk__3",
+    "title": "ಮಲೆನಾಡಿನ ಚಿತ್ರಗಳು",
+    "authors": [
+      "Shivaram Karanth"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_so-long-and-thanks-for-all-the-fish",
+    "title": "So Long and Thanks For All The Fish",
+    "authors": [
+      "Douglas Adams"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_rich-dad-poor-dad_2",
+    "title": "Rich Dad Poor Dad",
+    "authors": [
+      "Robert Kiyosaki and Sharon Lechter"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_four-thousand-weeks",
+    "title": "Four Thousand Weeks",
+    "authors": [
+      "Oliver Burkeman"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_life-the-universe-and-everything",
+    "title": "Life, The Universe and Everything",
+    "authors": [
+      "Douglas Adams"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_elon-musk",
+    "title": "Elon Musk",
+    "authors": [
+      "Ashlee Vance"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-lessons-of-history_2",
+    "title": "The Lessons of History",
+    "authors": [
+      "Will and Ariel Durant"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-power-of-your-subconscious-mind_2",
+    "title": "The Power of your Subconscious Mind",
+    "authors": [
+      "Dr. Joseph Murphy"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
   }
 ]
