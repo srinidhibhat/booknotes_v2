@@ -1,4 +1,4 @@
-REWORK: CHANGE THE WAY YOU WORK FOREVER
+REWORK
 by Jason Fried, David Heinemeier Hansson
 - Small is not just a stepping-stone. Small is a great destination in itself.
 - You want to get into the rhythm of making choices. When you get in that flow of making decision after decision, you build momentum and boost morale. Decisions are progress. Each one you make is a brick in your foundation. You can’t build on top of “We’ll decide later,” but you can build on top of “Done.”

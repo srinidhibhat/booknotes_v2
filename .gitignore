@@ -27,13 +27,16 @@ build/
 # Windows alternate data stream sidecars occasionally appear as separate files
 *Zone.Identifier
 *Zone.Identifier
+checklist/
 
 # Goodreads export raw dump (user-provided data)
 data/goodreads/export.csv
 
-# Raw CSV highlights (prefer converted .txt)
+# Raw data
 data/raw/*.csv
+data/backup/
+data/cache/
 
 # Git internals (normally not needed, but kept explicit per request)
 .git/
-
+*.gitkeep

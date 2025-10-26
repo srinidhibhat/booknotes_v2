@@ -1,5916 +1,14 @@
 [
   {
-    "id": "bk_the-body-keeps-the-score-mind-brain-and-body-in-the-transformation-of-trauma",
-    "title": "THE BODY KEEPS THE SCORE: MIND, BRAIN AND BODY IN THE TRANSFORMATION OF TRAUMA",
+    "id": "bk_the-body-keeps-the-score",
+    "title": "THE BODY KEEPS THE SCORE",
     "authors": [
       "Bessel van der Kolk"
     ],
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_rework-change-the-way-you-work-forever",
-    "title": "REWORK: CHANGE THE WAY YOU WORK FOREVER",
-    "authors": [
-      "Jason Fried, David Heinemeier Hansson"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_walden-prometheus-classics-best-navigation-active-toc",
-    "title": "WALDEN",
-    "authors": [
-      "Henry David Thoreau"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
     "newlyAdded": true
-  },
-  {
-    "id": "bk_the-pshychology-of-money",
-    "title": "The Psychology of Money",
-    "authors": [
-      "Morgan Housel"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": true
-  },
-  {
-    "id": "bk_how-to-skillfully-agree-with-people",
-    "title": "How to Skillfully Agree with People?",
-    "authors": [],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_the-dark-forest-the-three-body-problem-book-2",
-    "title": "THE DARK FOREST (THE THREE-BODY PROBLEM BOOK 2)",
-    "authors": [
-      "Cixin Liu, Joel Martinsen"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_siddhartha",
-    "title": "SIDDHARTHA",
-    "authors": [
-      "Hermann Hesse, Digital Fire"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_mindset-updated-edition-changing-the-way-you-think-to-fulfil-your-potential",
-    "title": "MINDSET",
-    "authors": [
-      "Carol Dweck"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": true
-  },
-  {
-    "id": "bk_the-war-of-art",
-    "title": "THE WAR OF ART",
-    "authors": [
-      "Steven Pressfield, Shawn Coyne"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_the-overstory-the-million-copy-global-bestseller-and-winner-of-the-pulitzer-prize-for-fiction",
-    "title": "THE OVERSTORY",
-    "authors": [
-      "Richard Powers"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": true
-  },
-  {
-    "id": "bk_the-almanack-of-naval-ravikant-a-guide-to-wealth-and-happiness",
-    "title": "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness",
-    "authors": [
-      "Eric Jorgenson"
-    ],
-    "year": 2020,
-    "pages": 244,
-    "genres": [
-      "read"
-    ],
-    "newlyAdded": false,
-    "goodreadsId": "54898389",
-    "isbn13": "9781544514208",
-    "dateRead": "2020-10-07",
-    "rating": 5,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_twelve-years-a-slave-amazonclassics-edition",
-    "title": "TWELVE YEARS A SLAVE",
-    "authors": [
-      "Solomon Northup"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": true
-  },
-  {
-    "id": "bk_death-s-end-the-three-body-problem-book-3",
-    "title": "DEATH'S END (THE THREE-BODY PROBLEM BOOK 3)",
-    "authors": [
-      "Cixin Liu, Ken Liu"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_the-richest-man-in-babylon",
-    "title": "THE RICHEST MAN IN BABYLON",
-    "authors": [
-      "George S Classon"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_the-headspace-guide-to-meditation-and-mindfulness",
-    "title": "The Headspace Guide to Meditation and Mindfulness",
-    "authors": [
-      "Andy Puddicombe"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_fahrenheit-451-the-gripping-and-inspiring-classic-of-dystopian-science-fiction",
-    "title": "FAHRENHEIT 451",
-    "authors": [
-      "Ray Bradbury"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": true
-  },
-  {
-    "id": "bk_excellent-advice-for-living-wisdom-i-wish-i-d-known-earlier",
-    "title": "EXCELLENT ADVICE FOR LIVING",
-    "authors": [
-      "Kevin Kelly"
-    ],
-    "year": 2023,
-    "pages": 221,
-    "genres": [
-      "read"
-    ],
-    "newlyAdded": true,
-    "goodreadsId": "63101004",
-    "isbn": "0593654536",
-    "isbn13": "9780593654538",
-    "dateRead": "2024-07-07",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_educated-the-international-bestselling-memoir",
-    "title": "EDUCATED",
-    "authors": [
-      "Tara Westover"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": true
-  },
-  {
-    "id": "bk_a-gentleman-in-moscow-the-worldwide-bestseller",
-    "title": "A GENTLEMAN IN MOSCOW",
-    "authors": [
-      "Amor Towles"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": true
-  },
-  {
-    "id": "bk_atomic-habits-the-life-changing-million-copy-bestseller",
-    "title": "ATOMIC HABITS",
-    "authors": [
-      "James Clear"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": true
-  },
-  {
-    "id": "bk_range-how-generalists-triumph-in-a-specialized-world",
-    "title": "RANGE",
-    "authors": [
-      "(Journalist) David Epstein"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": true
-  },
-  {
-    "id": "bk_antifragile-things-that-gain-from-disorder",
-    "title": "ANTIFRAGILE: THINGS THAT GAIN FROM DISORDER",
-    "authors": [
-      "Nassim Nicholas Taleb"
-    ],
-    "year": 2012,
-    "pages": 493,
-    "genres": [
-      "read"
-    ],
-    "newlyAdded": false,
-    "goodreadsId": "19723223",
-    "isbn": "0718197909",
-    "isbn13": "9780718197902",
-    "dateRead": "2021-01-29",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_crime-and-punishment",
-    "title": "CRIME AND PUNISHMENT",
-    "authors": [
-      "Fyodor Dostoyevsky"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_cloud-atlas-hachette-essentials",
-    "title": "CLOUD ATLAS",
-    "authors": [
-      "David Mitchell"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": true
-  },
-  {
-    "id": "bk_i-will-teach-you-to-be-rich-no-guilt-no-excuses-just-a-6-week-programme-that-works",
-    "title": "I WILL TEACH YOU TO BE RICH: NO GUILT, NO EXCUSES - JUST A 6-WEEK PROGRAMME THAT WORKS",
-    "authors": [
-      "Ramit Sethi"
-    ],
-    "year": 2009,
-    "pages": 352,
-    "genres": [
-      "read"
-    ],
-    "newlyAdded": false,
-    "goodreadsId": "19050513",
-    "isbn": "1848944888",
-    "isbn13": "9781848944886",
-    "dateRead": "2020-06-07",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-little-prince-df-children-s-classics-book-4",
-    "title": "The Little Prince (DF Children's Classics Book 4)",
-    "authors": [
-      "Antoine de Saint-Exupéry"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_to-kill-a-mockingbird-enhanced-edition",
-    "title": "TO KILL A MOCKINGBIRD: ENHANCED EDITION",
-    "authors": [
-      "Harper Lee"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_why-we-sleep-the-new-science-of-sleep-and-dreams",
-    "title": "WHY WE SLEEP: THE NEW SCIENCE OF SLEEP AND DREAMS",
-    "authors": [
-      "Matthew Walker"
-    ],
-    "year": 2017,
-    "pages": 341,
-    "genres": [
-      "read"
-    ],
-    "newlyAdded": false,
-    "goodreadsId": "48592299",
-    "dateRead": "2021-04-21",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-defining-decade-why-your-twenties-matter-and-how-to-make-the-most-of-them-now",
-    "title": "THE DEFINING DECADE: WHY YOUR TWENTIES MATTER AND HOW TO MAKE THE MOST OF THEM NOW",
-    "authors": [
-      "Meg Jay"
-    ],
-    "year": 2012,
-    "pages": 273,
-    "genres": [
-      "read"
-    ],
-    "newlyAdded": false,
-    "goodreadsId": "40603783",
-    "dateRead": "2021-09-01",
-    "rating": 5,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_how-to-win-friends-and-influence-people",
-    "title": "HOW TO WIN FRIENDS AND INFLUENCE PEOPLE",
-    "authors": [
-      "Dale Carnegie"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_the-power-of-now-a-guide-to-spiritual-enlightenment",
-    "title": "THE POWER OF NOW: A GUIDE TO SPIRITUAL ENLIGHTENMENT",
-    "authors": [
-      "Eckhart Tolle"
-    ],
-    "year": 1997,
-    "pages": 229,
-    "genres": [
-      "read"
-    ],
-    "newlyAdded": false,
-    "goodreadsId": "6708",
-    "dateRead": "2023-06-17",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-three-body-problem",
-    "title": "THE THREE-BODY PROBLEM",
-    "authors": [
-      "Cixin Liu, Ken Liu"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_the-millionaire-fastlane",
-    "title": "THE MILLIONAIRE FASTLANE",
-    "authors": [
-      "MJ DeMarco"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_flow-the-psychology-of-happiness",
-    "title": "FLOW: THE PSYCHOLOGY OF HAPPINESS",
-    "authors": [
-      "Mihaly Csikszentmihalyi"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_okinawans-live-by-the-principle-of-ichariba-chode-a-local-expression-that-means-treat-everyone-like-a-brother-even-if-you-ve-never-met-them-before",
-    "title": "Okinawans live by the principle of ichariba chode, a local expression that means “treat everyone like a brother, even if you’ve never met them before.”",
-    "authors": [],
-    "year": null,
-    "pages": null,
-    "genres": [],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_don-t-lose-your-mind-lose-your-weight",
-    "title": "DON'T LOSE YOUR MIND, LOSE YOUR WEIGHT",
-    "authors": [
-      "Rujuta Diwekar"
-    ],
-    "year": 2009,
-    "pages": 279,
-    "genres": [
-      "read"
-    ],
-    "newlyAdded": false,
-    "goodreadsId": "6375312",
-    "isbn": "8184000669",
-    "isbn13": "9788184000665",
-    "dateRead": "2020-07-10",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-school-of-life-an-emotional-education",
-    "title": "The School of Life: An Emotional Education",
-    "authors": [
-      "Alain de Botton"
-    ],
-    "year": 2019,
-    "pages": 310,
-    "genres": [
-      "currently-reading"
-    ],
-    "goodreadsId": "43264830",
-    "isbn": "0241382327",
-    "isbn13": "9780241382325",
-    "rating": 0,
-    "shelves": [
-      "currently-reading"
-    ]
-  },
-  {
-    "id": "bk_becoming-bangalore-stories-that-shaped-a-hometown",
-    "title": "Becoming Bangalore: Stories That Shaped a Hometown",
-    "authors": [
-      "Roopa Pai"
-    ],
-    "year": 2025,
-    "pages": 390,
-    "genres": [
-      "currently-reading"
-    ],
-    "goodreadsId": "222686558",
-    "isbn": "9357317236",
-    "isbn13": "9789357317238",
-    "rating": 0,
-    "shelves": [
-      "currently-reading"
-    ]
-  },
-  {
-    "id": "bk_80-000-hours",
-    "title": "80,000 Hours",
-    "authors": [
-      "Benjamin Todd"
-    ],
-    "year": 2016,
-    "pages": 342,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "33844107",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-man-who-mistook-his-wife-for-a-hat-and-other-clinical-tales",
-    "title": "The Man Who Mistook His Wife for a Hat and Other Clinical Tales",
-    "authors": [
-      "Oliver Sacks"
-    ],
-    "year": 1985,
-    "pages": 243,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "63697",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2025-09-15",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_outlive-the-science-and-art-of-longevity-the-million-copy-bestseller",
-    "title": "Outlive: The Science and Art of Longevity: The Million-Copy Bestseller",
-    "authors": [
-      "Peter Attia",
-      "Bill Gifford"
-    ],
-    "year": 2023,
-    "pages": 482,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "74841232",
-    "isbn": "1529910897",
-    "isbn13": "9781529910896",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_do-it-today-overcome-procrastination-improve-productivity-and-achieve-more-meaningful-things",
-    "title": "Do It Today: Overcome Procrastination, Improve Productivity, and Achieve More Meaningful Things",
-    "authors": [
-      "Darius Foroux"
-    ],
-    "year": 2018,
-    "pages": 171,
-    "genres": [
-      "currently-reading"
-    ],
-    "goodreadsId": "40601527",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "currently-reading"
-    ]
-  },
-  {
-    "id": "bk_man-s-search-for-meaning",
-    "title": "Man's Search for Meaning",
-    "authors": [
-      "Viktor E. Frankl",
-      "Isle Lasch",
-      "William J. Winslade",
-      "Harold S. Kushner"
-    ],
-    "year": 1946,
-    "pages": 165,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "4069",
-    "isbn": "080701429X",
-    "isbn13": "9780807014295",
-    "dateRead": "2025-08-23",
-    "rating": 5,
-    "shelves": [
-      "read"
-    ],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_samskruti",
-    "title": "Samskruti",
-    "authors": [
-      "D.V.G."
-    ],
-    "year": null,
-    "pages": 130,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "17252073",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2025-07-14",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-myth-of-normal-trauma-illness-and-healing-in-a-toxic-culture",
-    "title": "The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture",
-    "authors": [
-      "Gabor Maté",
-      "Daniel Maté"
-    ],
-    "year": 2022,
-    "pages": 576,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "58537332",
-    "isbn": "0593083881",
-    "isbn13": "9780593083888",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_how-to-do-the-work-recognize-your-patterns-heal-from-your-past-and-create-your-self",
-    "title": "How to Do the Work: Recognize Your Patterns, Heal from Your Past, and Create Your Self",
-    "authors": [
-      "Nicole LePera"
-    ],
-    "year": 2021,
-    "pages": 320,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "50997029",
-    "isbn": "0063012103",
-    "isbn13": "9780063012103",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-dictionary-of-obscure-sorrows",
-    "title": "The Dictionary of Obscure Sorrows",
-    "authors": [
-      "John Koenig"
-    ],
-    "year": 2021,
-    "pages": 272,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "56897474",
-    "isbn": "1501153641",
-    "isbn13": "9781501153648",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-prophet",
-    "title": "The Prophet",
-    "authors": [
-      "Kahlil Gibran"
-    ],
-    "year": 1923,
-    "pages": 127,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "2547",
-    "isbn": "000100039X",
-    "isbn13": "9780001000391",
-    "dateRead": "2025-07-29",
-    "rating": 5,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_meditations",
-    "title": "Meditations",
-    "authors": [
-      "Marcus Aurelius",
-      "Martin Hammond"
-    ],
-    "year": 180,
-    "pages": 254,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "30659",
-    "isbn": "0140449337",
-    "isbn13": "9780140449334",
-    "dateRead": "2025-06-02",
-    "rating": 5,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_fooled-by-randomness-the-hidden-role-of-chance-in-life-and-in-the-markets-incerto",
-    "title": "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto)",
-    "authors": [
-      "Nassim Nicholas Taleb"
-    ],
-    "year": 2001,
-    "pages": 368,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "38315",
-    "isbn": "0812975219",
-    "isbn13": "9780812975215",
-    "dateRead": "2025-06-30",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_project-hail-mary",
-    "title": "Project Hail Mary",
-    "authors": [
-      "Andy Weir"
-    ],
-    "year": 2021,
-    "pages": 496,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "54493401",
-    "isbn": "0593135202",
-    "isbn13": "9780593135204",
-    "dateRead": "2025-07-06",
-    "rating": 5,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-housekeeper-and-the-professor",
-    "title": "The Housekeeper and the Professor",
-    "authors": [
-      "Yōko Ogawa",
-      "Stephen    Snyder"
-    ],
-    "year": 2005,
-    "pages": 180,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "3181564",
-    "isbn": "0312427808",
-    "isbn13": "9780312427801",
-    "dateRead": "2025-05-25",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_nanna-tamma-shankara",
-    "title": "ನನ್ನ ತಮ್ಮ ಶಂಕರ [Nanna Tamma Shankara]",
-    "authors": [
-      "Anant Nag"
-    ],
-    "year": 2001,
-    "pages": 220,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "13504305",
-    "isbn": "8192226905",
-    "isbn13": "9788192226903",
-    "dateRead": "2025-05-20",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-barefoot-coach",
-    "title": "The Barefoot Coach",
-    "authors": [
-      "Paddy Upton"
-    ],
-    "year": 2019,
-    "pages": 364,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "45301195",
-    "isbn": "9387894231",
-    "isbn13": "9789387894235",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_malenadina-chitragalu",
-    "title": "ಮಲೆನಾಡಿನ ಚಿತ್ರಗಳು | Malenadina Chitragalu",
-    "authors": [
-      "Kuvempu"
-    ],
-    "year": null,
-    "pages": 108,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "18056806",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2025-05-06",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-laws-of-human-nature",
-    "title": "The Laws of Human Nature",
-    "authors": [
-      "Robert Greene"
-    ],
-    "year": 2018,
-    "pages": 624,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "39330937",
-    "isbn": "0698184548",
-    "isbn13": "9780698184541",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_guns-germs-and-steel-the-fates-of-human-societies",
-    "title": "Guns, Germs, and Steel: The Fates of Human Societies",
-    "authors": [
-      "Jared Diamond"
-    ],
-    "year": 1997,
-    "pages": 498,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "1842",
-    "isbn": "0739467352",
-    "isbn13": "9780739467350",
-    "dateRead": "2025-05-02",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-nightingale",
-    "title": "The Nightingale",
-    "authors": [
-      "Kristin Hannah"
-    ],
-    "year": 2015,
-    "pages": 440,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "21853621",
-    "isbn": "0312577222",
-    "isbn13": "9780312577223",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_dark-matter",
-    "title": "Dark Matter",
-    "authors": [
-      "Blake Crouch"
-    ],
-    "year": 2016,
-    "pages": 342,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "27833670",
-    "isbn": "1101904224",
-    "isbn13": "9781101904220",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_anxious-people",
-    "title": "Anxious People",
-    "authors": [
-      "Fredrik Backman",
-      "Neil   Smith"
-    ],
-    "year": 2019,
-    "pages": 336,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "49127718",
-    "isbn": "198216963X",
-    "isbn13": "9781982169633",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_on-earth-we-re-briefly-gorgeous",
-    "title": "On Earth We're Briefly Gorgeous",
-    "authors": [
-      "Ocean Vuong"
-    ],
-    "year": 2019,
-    "pages": 246,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "41880609",
-    "isbn": "0525562028",
-    "isbn13": "9780525562023",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_where-the-crawdads-sing",
-    "title": "Where the Crawdads Sing",
-    "authors": [
-      "Delia Owens"
-    ],
-    "year": 2018,
-    "pages": 384,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "36809135",
-    "isbn": "0735219117",
-    "isbn13": "9780735219113",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_on-the-genealogy-of-morals",
-    "title": "On the Genealogy of Morals",
-    "authors": [
-      "Friedrich Nietzsche",
-      "Douglas Smith"
-    ],
-    "year": 1887,
-    "pages": 208,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "80449",
-    "isbn": "019283617X",
-    "isbn13": "9780192836175",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-outsider",
-    "title": "The Outsider",
-    "authors": [
-      "Albert Camus",
-      "Joseph Laredo"
-    ],
-    "year": 1942,
-    "pages": 119,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "15686",
-    "isbn": "0141182504",
-    "isbn13": "9780141182506",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_wonder-wonder-1",
-    "title": "Wonder (Wonder, #1)",
-    "authors": [
-      "R.J. Palacio"
-    ],
-    "year": 2012,
-    "pages": 315,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "11387515",
-    "isbn": "0375869026",
-    "isbn13": "9780375869020",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_awareness-the-perils-and-opportunities-of-reality",
-    "title": "Awareness: The Perils and Opportunities of Reality",
-    "authors": [
-      "Anthony de Mello",
-      "J. Francis Stroud"
-    ],
-    "year": 1990,
-    "pages": 184,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "94318",
-    "isbn": "0385249373",
-    "isbn13": "9780385249379",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_blink",
-    "title": "Blink",
-    "authors": [
-      "Malcolm Gladwell"
-    ],
-    "year": 2005,
-    "pages": 277,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "11317520",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2025-02-08",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-well-of-ascension-mistborn-2",
-    "title": "The Well of Ascension (Mistborn, #2)",
-    "authors": [
-      "Brandon Sanderson"
-    ],
-    "year": 2007,
-    "pages": 590,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "68429",
-    "isbn": "0765316889",
-    "isbn13": "9780765316882",
-    "dateRead": "2025-01-16",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_white-nights",
-    "title": "White Nights",
-    "authors": [
-      "Fyodor Dostoevsky",
-      "Olga Shartse",
-      "Fyodor Dostoyevsky"
-    ],
-    "year": 1848,
-    "pages": 82,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "1772910",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-little-prince",
-    "title": "The Little Prince",
-    "authors": [
-      "Antoine de Saint-Exupéry",
-      "Digital Fire"
-    ],
-    "year": 1943,
-    "pages": 141,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "45708985",
-    "isbn": "9388760883",
-    "isbn13": "9789388760881",
-    "dateRead": "2024-12-15",
-    "rating": 5,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_so-good-they-can-t-ignore-you",
-    "title": "So Good They Can't Ignore You",
-    "authors": [
-      "Cal Newport"
-    ],
-    "year": 2012,
-    "pages": 305,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "32501719",
-    "isbn": "0349415870",
-    "isbn13": "9780349415871",
-    "dateRead": "2024-12-14",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-body-a-guide-for-occupants",
-    "title": "The Body: A Guide for Occupants",
-    "authors": [
-      "Bill Bryson"
-    ],
-    "year": 2019,
-    "pages": 450,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "43582376",
-    "isbn": "0385539304",
-    "isbn13": "9780385539302",
-    "dateRead": "2024-11-29",
-    "rating": 5,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_pet-sematary",
-    "title": "Pet Sematary",
-    "authors": [
-      "Stephen King"
-    ],
-    "year": 1983,
-    "pages": 0,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "130669387",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_brave-new-world",
-    "title": "Brave New World",
-    "authors": [
-      "Aldous Huxley"
-    ],
-    "year": 1932,
-    "pages": 268,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "5129",
-    "isbn": "0060929871",
-    "isbn13": "9780060929879",
-    "dateRead": "2024-11-10",
-    "rating": 0,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_long-walk-to-freedom",
-    "title": "Long Walk to Freedom",
-    "authors": [
-      "Nelson Mandela"
-    ],
-    "year": 1994,
-    "pages": 656,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "318431",
-    "isbn": "0316548189",
-    "isbn13": "9780316548182",
-    "dateRead": "2024-10-25",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_many-lives-many-masters-the-true-story-of-a-prominent-psychiatrist-his-young-patient-and-the-past-life-therapy-that-changed-both-their-lives",
-    "title": "Many Lives, Many Masters: The True Story of a Prominent Psychiatrist, His Young Patient, and the Past Life Therapy That Changed Both Their Lives",
-    "authors": [
-      "Brian L. Weiss"
-    ],
-    "year": 1988,
-    "pages": 224,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "34452",
-    "isbn": "0446520594",
-    "isbn13": "9780446520591",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_mistborn-the-final-empire-mistborn-1",
-    "title": "Mistborn: The Final Empire (Mistborn, #1)",
-    "authors": [
-      "Brandon Sanderson"
-    ],
-    "year": 2006,
-    "pages": 541,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "68428",
-    "isbn": null,
-    "isbn13": "9780765311788",
-    "dateRead": "2024-08-15",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_four-thousand-weeks-time-management-for-mortals",
-    "title": "Four Thousand Weeks: Time Management for Mortals",
-    "authors": [
-      "Oliver Burkeman"
-    ],
-    "year": 2021,
-    "pages": 245,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "54785515",
-    "isbn": "0374159122",
-    "isbn13": "9780374159122",
-    "dateRead": "2024-07-30",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_astrophysics-for-people-in-a-hurry",
-    "title": "Astrophysics for People in a Hurry",
-    "authors": [
-      "Neil deGrasse Tyson"
-    ],
-    "year": 2017,
-    "pages": 223,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "32191710",
-    "isbn": "0393609391",
-    "isbn13": "9780393609394",
-    "dateRead": "2024-07-04",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_crime-and-punishment_2",
-    "title": "Crime and Punishment",
-    "authors": [
-      "Fyodor Dostoevsky",
-      "Joseph Frank",
-      "David McDuff"
-    ],
-    "year": 1866,
-    "pages": 671,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "7144",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2024-06-14",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-book-of-laughter-and-forgetting",
-    "title": "The Book of Laughter and Forgetting",
-    "authors": [
-      "Milan Kundera"
-    ],
-    "year": 1979,
-    "pages": 313,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "240976",
-    "isbn": "0060932147",
-    "isbn13": "9780060932145",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_deep-work-rules-for-focused-success-in-a-distracted-world",
-    "title": "Deep Work: Rules for Focused Success in a Distracted World",
-    "authors": [
-      "Cal Newport"
-    ],
-    "year": 2016,
-    "pages": 296,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "25744928",
-    "isbn": "1455586692",
-    "isbn13": "9781455586691",
-    "dateRead": "2019-09-28",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_can-t-hurt-me-master-your-mind-and-defy-the-odds",
-    "title": "Can't Hurt Me: Master Your Mind and Defy the Odds",
-    "authors": [
-      "David Goggins"
-    ],
-    "year": 2018,
-    "pages": 366,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "41721428",
-    "isbn": "1544512260",
-    "isbn13": null,
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-silent-patient",
-    "title": "The Silent Patient",
-    "authors": [
-      "Alex Michaelides"
-    ],
-    "year": 2019,
-    "pages": 336,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "40097951",
-    "isbn": "1250301696",
-    "isbn13": "9781250301697",
-    "dateRead": "2024-03-08",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_steve-jobs",
-    "title": "Steve Jobs",
-    "authors": [
-      "Walter Isaacson"
-    ],
-    "year": 2011,
-    "pages": 630,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "11084145",
-    "isbn": "1451648537",
-    "isbn13": "9781451648539",
-    "dateRead": "2024-02-28",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_a-thousand-splendid-suns",
-    "title": "A Thousand Splendid Suns",
-    "authors": [
-      "Khaled Hosseini"
-    ],
-    "year": 2007,
-    "pages": 372,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "128029",
-    "isbn": "1594489505",
-    "isbn13": "9781594489501",
-    "dateRead": "2023-12-31",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_the-ventilator-project",
-    "title": "The Ventilator Project",
-    "authors": [
-      "S Srikant Sastri",
-      "Amitabha Bandyopadhyay"
-    ],
-    "year": 2021,
-    "pages": 248,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "57475769",
-    "isbn": "9389104661",
-    "isbn13": "9789389104660",
-    "dateRead": "2024-01-16",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-lessons-of-history",
-    "title": "The Lessons of History",
-    "authors": [
-      "Will Durant",
-      "Ariel Durant"
-    ],
-    "year": 1997,
-    "pages": 119,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "174713",
-    "isbn": "1567310249",
-    "isbn13": "9781567310245",
-    "dateRead": "2023-12-13",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_maybe-you-should-talk-to-someone-a-therapist-her-therapist-and-our-lives-revealed",
-    "title": "Maybe You Should Talk to Someone: A Therapist, Her Therapist, and Our Lives Revealed",
-    "authors": [
-      "Lori Gottlieb"
-    ],
-    "year": 2019,
-    "pages": 415,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "37570546",
-    "isbn": "1328662055",
-    "isbn13": "9781328662057",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-first-fifteen-lives-of-harry-august",
-    "title": "The First Fifteen Lives of Harry August",
-    "authors": [
-      "Claire North"
-    ],
-    "year": 2014,
-    "pages": 417,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "35066358",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_skill-with-people",
-    "title": "Skill With People",
-    "authors": [
-      "Les Giblin"
-    ],
-    "year": 1965,
-    "pages": 44,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "1249080",
-    "isbn": "0961641606",
-    "isbn13": "9780961641603",
-    "dateRead": "2023-01-18",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_as-a-man-thinketh",
-    "title": "As a Man Thinketh",
-    "authors": [
-      "James Allen"
-    ],
-    "year": 1902,
-    "pages": 80,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "81959",
-    "isbn": "1585425648",
-    "isbn13": "9781585425648",
-    "dateRead": "2023-11-21",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_the-beginning-of-infinity-explanations-that-transform-the-world",
-    "title": "The Beginning of Infinity: Explanations That Transform the World",
-    "authors": [
-      "David Deutsch"
-    ],
-    "year": 2011,
-    "pages": 487,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "10483171",
-    "isbn": "0670022756",
-    "isbn13": "9780670022755",
-    "dateRead": "2023-05-01",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-compound-effect-jumpstart-your-income-your-life-your-success",
-    "title": "The Compound Effect: Jumpstart Your Income, Your Life, Your Success",
-    "authors": [
-      "Darren Hardy"
-    ],
-    "year": 2010,
-    "pages": 162,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "9420697",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2023-09-17",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-overstory",
-    "title": "The Overstory",
-    "authors": [
-      "Richard Powers"
-    ],
-    "year": 2018,
-    "pages": 502,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "40180098",
-    "isbn": "039335668X",
-    "isbn13": "9780393356687",
-    "dateRead": "2023-11-13",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-noonday-demon-an-atlas-of-depression",
-    "title": "The Noonday Demon: An Atlas of Depression",
-    "authors": [
-      "Andrew Solomon"
-    ],
-    "year": 2000,
-    "pages": 576,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "13932",
-    "isbn": "0684854678",
-    "isbn13": "9780684854670",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_death-s-end-remembrance-of-earth-s-past-3",
-    "title": "Death's End (Remembrance of Earth’s Past, #3)",
-    "authors": [
-      "Liu Cixin",
-      "Ken Liu"
-    ],
-    "year": 2010,
-    "pages": 604,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "25451264",
-    "isbn": "0765377101",
-    "isbn13": "9780765377104",
-    "dateRead": "2023-08-20",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_my-man-jeeves-jeeves-1",
-    "title": "My Man Jeeves (Jeeves, #1)",
-    "authors": [
-      "P.G. Wodehouse"
-    ],
-    "year": 1919,
-    "pages": 256,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "200572",
-    "isbn": "1585678759",
-    "isbn13": "9781585678754",
-    "dateRead": "2023-05-13",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_this-is-how-you-lose-the-time-war",
-    "title": "This Is How You Lose the Time War",
-    "authors": [
-      "Amal El-Mohtar",
-      "Max Gladstone"
-    ],
-    "year": 2019,
-    "pages": 209,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "43352954",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_stoner",
-    "title": "Stoner",
-    "authors": [
-      "John  Williams",
-      "John McGahern"
-    ],
-    "year": 1965,
-    "pages": 292,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "166997",
-    "isbn": "1590171993",
-    "isbn13": "9781590171998",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_do-no-harm-stories-of-life-death-and-brain-surgery",
-    "title": "Do No Harm: Stories of Life, Death and Brain Surgery",
-    "authors": [
-      "Henry Marsh"
-    ],
-    "year": 2014,
-    "pages": 278,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "21086818",
-    "isbn": "0297869876",
-    "isbn13": "9780297869870",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_good-omens-the-nice-and-accurate-prophecies-of-agnes-nutter-witch",
-    "title": "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",
-    "authors": [
-      "Terry Pratchett",
-      "Neil Gaiman"
-    ],
-    "year": 1990,
-    "pages": 491,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "12067",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_getting-to-yes-negotiating-agreement-without-giving-in",
-    "title": "Getting to Yes: Negotiating Agreement Without Giving In",
-    "authors": [
-      "Roger Fisher",
-      "William Ury",
-      "Bruce Patton"
-    ],
-    "year": 1981,
-    "pages": 200,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "313605",
-    "isbn": "0140157352",
-    "isbn13": "9780140157352",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_poor-charlie-s-almanack-the-wit-and-wisdom-of-charles-t-munger",
-    "title": "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger",
-    "authors": [
-      "Charles T. Munger",
-      "Peter E. Kaufman"
-    ],
-    "year": 2005,
-    "pages": 512,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "944652",
-    "isbn": "157864366X",
-    "isbn13": "9781578643660",
-    "dateRead": "2023-02-12",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_influence-the-psychology-of-persuasion",
-    "title": "Influence: The Psychology of Persuasion",
-    "authors": [
-      "Robert B. Cialdini"
-    ],
-    "year": 1984,
-    "pages": 320,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "28815",
-    "isbn": "006124189X",
-    "isbn13": "9780061241895",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-untethered-soul-the-journey-beyond-yourself",
-    "title": "The Untethered Soul: The Journey Beyond Yourself",
-    "authors": [
-      "Michael A. Singer"
-    ],
-    "year": 2007,
-    "pages": 183,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "1963638",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-art-of-dealing-with-people",
-    "title": "The Art Of Dealing With People",
-    "authors": [
-      "Les Giblin"
-    ],
-    "year": 1899,
-    "pages": 48,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "1423393",
-    "isbn": "0937539589",
-    "isbn13": "9780937539583",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_21-lessons-for-the-21st-century",
-    "title": "21 Lessons for the 21st Century",
-    "authors": [
-      "Yuval Noah Harari"
-    ],
-    "year": 2018,
-    "pages": 372,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "38820046",
-    "isbn": "0525512179",
-    "isbn13": "9780525512172",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_no-longer-human",
-    "title": "No Longer Human",
-    "authors": [
-      "Osamu Dazai",
-      "Donald Keene"
-    ],
-    "year": 1948,
-    "pages": 176,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "194746",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_marali-mannige",
-    "title": "ಮರಳಿ ಮಣ್ಣಿಗೆ [Marali Mannige]",
-    "authors": [
-      "Kota Shivarama Karanth"
-    ],
-    "year": 1941,
-    "pages": null,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "15818756",
-    "isbn": "8128010794",
-    "isbn13": "9788128010798",
-    "dateRead": "2023-01-07",
-    "rating": 5,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_exhalation",
-    "title": "Exhalation",
-    "authors": [
-      "Ted Chiang"
-    ],
-    "year": 2019,
-    "pages": 368,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "41160292",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_one-hundred-years-of-solitude",
-    "title": "One Hundred Years of Solitude",
-    "authors": [
-      "Gabriel García Márquez",
-      "Gregory Rabassa"
-    ],
-    "year": 1967,
-    "pages": 417,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "320",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-dark-forest-remembrance-of-earth-s-past-2",
-    "title": "The Dark Forest (Remembrance of Earth’s Past, #2)",
-    "authors": [
-      "Liu Cixin",
-      "Joel Martinsen"
-    ],
-    "year": 2008,
-    "pages": 512,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "23168817",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2022-12-05",
-    "rating": 5,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_what-do-you-care-what-other-people-think-further-adventures-of-a-curious-character",
-    "title": "\"What Do You Care What Other People Think?\": Further Adventures of a Curious Character",
-    "authors": [
-      "Richard P. Feynman",
-      "Ralph Leighton"
-    ],
-    "year": 1988,
-    "pages": 288,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "35167718",
-    "isbn": "0393355640",
-    "isbn13": "9780393355642",
-    "dateRead": "2022-07-23",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_cloud-cuckoo-land",
-    "title": "Cloud Cuckoo Land",
-    "authors": [
-      "Anthony Doerr"
-    ],
-    "year": 2021,
-    "pages": 626,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "56783258",
-    "isbn": "1982168439",
-    "isbn13": "9781982168438",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_stories-of-your-life-and-others",
-    "title": "Stories of Your Life and Others",
-    "authors": [
-      "Ted Chiang"
-    ],
-    "year": 2002,
-    "pages": 281,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "223380",
-    "isbn": "0330426648",
-    "isbn13": "9780330426640",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_animal-farm",
-    "title": "Animal Farm",
-    "authors": [
-      "George Orwell",
-      "Russell Baker",
-      "C.M. Woodhouse"
-    ],
-    "year": 1945,
-    "pages": 141,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "170448",
-    "isbn": "0451526341",
-    "isbn13": "9780451526342",
-    "dateRead": "2022-04-19",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-psychology-of-money",
-    "title": "The Psychology of Money",
-    "authors": [
-      "Morgan Housel"
-    ],
-    "year": 2020,
-    "pages": 242,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "41881472",
-    "isbn": "0857197681",
-    "isbn13": "9780857197689",
-    "dateRead": "2022-10-22",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_into-the-magic-shop-a-neurosurgeon-s-quest-to-discover-the-mysteries-of-the-brain-and-the-secrets-of-the-heart",
-    "title": "Into the Magic Shop: A Neurosurgeon's Quest to Discover the Mysteries of the Brain and the Secrets of the Heart",
-    "authors": [
-      "James R. Doty"
-    ],
-    "year": 2016,
-    "pages": 288,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "25733658",
-    "isbn": "1594632987",
-    "isbn13": "9781594632983",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-unseen-body-a-doctor-s-journey-through-the-hidden-wonders-of-human-anatomy",
-    "title": "The Unseen Body: A Doctor's Journey Through the Hidden Wonders of Human Anatomy",
-    "authors": [
-      "Jonathan Reisman"
-    ],
-    "year": 2021,
-    "pages": 224,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "56268968",
-    "isbn": "1250246628",
-    "isbn13": "9781250246622",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-complete-adventures-of-feluda-vol-1-feluda-1-16",
-    "title": "The Complete Adventures of Feluda, Vol. 1 (Feluda #1-16)",
-    "authors": [
-      "Satyajit Ray",
-      "Gopa Majumdar"
-    ],
-    "year": 2005,
-    "pages": 788,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "244524",
-    "isbn": "0141000147",
-    "isbn13": "9780141000145",
-    "dateRead": "2022-10-02",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_legends-lattes-legends-lattes-1",
-    "title": "Legends & Lattes (Legends & Lattes, #1)",
-    "authors": [
-      "Travis Baldree"
-    ],
-    "year": 2022,
-    "pages": 296,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "60222807",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-hero-of-ages-mistborn-3",
-    "title": "The Hero of Ages (Mistborn, #3)",
-    "authors": [
-      "Brandon Sanderson"
-    ],
-    "year": 2008,
-    "pages": 572,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "2767793",
-    "isbn": "0765316897",
-    "isbn13": "9780765316899",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-beekeeper-of-aleppo",
-    "title": "The Beekeeper of Aleppo",
-    "authors": [
-      "Christy Lefteri"
-    ],
-    "year": 2019,
-    "pages": 317,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "43124137",
-    "isbn": "1984821210",
-    "isbn13": "9781984821218",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_rework",
-    "title": "Rework",
-    "authors": [
-      "Jason Fried",
-      "David Heinemeier Hansson"
-    ],
-    "year": 2010,
-    "pages": 279,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "6732019",
-    "isbn": "0307463745",
-    "isbn13": "9780307463746",
-    "dateRead": "2022-06-20",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_tejo-tungabhadra",
-    "title": "ತೇಜೋ-ತುಂಗಭದ್ರಾ [tejo-tungabhadra]",
-    "authors": [
-      "Vasudhendra",
-      "ವಸುಧೇಂದ್ರ"
-    ],
-    "year": 2019,
-    "pages": 476,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "52368290",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2022-06-12",
-    "rating": 5,
-    "shelves": [
-      "read"
-    ],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_the-secret-life-of-groceries-the-dark-miracle-of-the-american-supermarket",
-    "title": "The Secret Life of Groceries: The Dark Miracle of the American Supermarket",
-    "authors": [
-      "Benjamin Lorr"
-    ],
-    "year": 2020,
-    "pages": 328,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "50548165",
-    "isbn": "0553459392",
-    "isbn13": "9780553459395",
-    "dateRead": "2022-05-06",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-case-against-reality-why-evolution-hid-the-truth-from-our-eyes",
-    "title": "The Case Against Reality: Why Evolution Hid the Truth from Our Eyes",
-    "authors": [
-      "Donald D. Hoffman"
-    ],
-    "year": 2019,
-    "pages": 272,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "41817484",
-    "isbn": "0393254690",
-    "isbn13": "9780393254693",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-sword-of-kaigen",
-    "title": "The Sword of Kaigen",
-    "authors": [
-      "M.L. Wang"
-    ],
-    "year": 2019,
-    "pages": 651,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "41886271",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-three-body-problem-remembrance-of-earth-s-past-1",
-    "title": "The Three-Body Problem (Remembrance of Earth’s Past, #1)",
-    "authors": [
-      "Liu Cixin",
-      "Ken Liu"
-    ],
-    "year": 2006,
-    "pages": 472,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "20518872",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2022-04-28",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_benjamin-franklin-an-american-life",
-    "title": "Benjamin Franklin: An American Life",
-    "authors": [
-      "Walter Isaacson"
-    ],
-    "year": 2003,
-    "pages": 586,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "10883",
-    "isbn": "074325807X",
-    "isbn13": "9780743258074",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_einstein-his-life-and-universe",
-    "title": "Einstein: His Life and Universe",
-    "authors": [
-      "Walter Isaacson"
-    ],
-    "year": 2007,
-    "pages": 675,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "10884",
-    "isbn": "0743264738",
-    "isbn13": "9780743264730",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-primal-blueprint-primal-blueprint-series",
-    "title": "The Primal Blueprint (Primal Blueprint Series)",
-    "authors": [
-      "Mark Sisson"
-    ],
-    "year": 2009,
-    "pages": 283,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "6515468",
-    "isbn": "0982207700",
-    "isbn13": "9780982207703",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_think-on-these-things",
-    "title": "Think on These Things",
-    "authors": [
-      "J. Krishnamurti"
-    ],
-    "year": 1964,
-    "pages": 258,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "13470",
-    "isbn": "0060916095",
-    "isbn13": "9780060916091",
-    "dateRead": "2022-04-03",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-millionaire-fastlane-crack-the-code-to-wealth-and-live-rich-for-a-lifetime",
-    "title": "The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime!",
-    "authors": [
-      "M.J. DeMarco"
-    ],
-    "year": 2010,
-    "pages": 322,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "18872437",
-    "isbn": "0984358102",
-    "isbn13": "9780984358106",
-    "dateRead": "2022-03-27",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_what-color-is-your-parachute-a-practical-manual-for-job-hunters-and-career-changers",
-    "title": "What Color Is Your Parachute? A Practical Manual for Job-Hunters and Career-Changers",
-    "authors": [
-      "Richard Nelson Bolles"
-    ],
-    "year": 1970,
-    "pages": 382,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "6932",
-    "isbn": "1580087949",
-    "isbn13": "9781580087940",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_chigurida-kanasu",
-    "title": "ಚಿಗುರಿದ ಕನಸು | Chigurida Kanasu",
-    "authors": [
-      "Kota Shivarama Karanth"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "13625023",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2022-03-05",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_soundtracks-the-surprising-solution-to-overthinking-overcome-toxic-thought-patterns-and-take-control-of-your-mindset",
-    "title": "Soundtracks: The Surprising Solution to Overthinking (Overcome Toxic Thought Patterns and Take Control of Your Mindset)",
-    "authors": [
-      "Jon Acuff"
-    ],
-    "year": 2021,
-    "pages": 240,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "54232793",
-    "isbn": "1540900800",
-    "isbn13": "9781540900807",
-    "dateRead": "2022-02-16",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_12-rules-for-life-an-antidote-to-chaos",
-    "title": "12 Rules for Life: An Antidote to Chaos",
-    "authors": [
-      "Jordan B. Peterson"
-    ],
-    "year": 2018,
-    "pages": 409,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "30257963",
-    "isbn": "0345816021",
-    "isbn13": "9780345816023",
-    "dateRead": "2022-03-02",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_chaos-making-a-new-science",
-    "title": "Chaos: Making a New Science",
-    "authors": [
-      "James Gleick"
-    ],
-    "year": 1987,
-    "pages": 352,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "64582",
-    "isbn": "0140092501",
-    "isbn13": "9780140092509",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_ikigai-the-japanese-secret-to-a-long-and-happy-life",
-    "title": "Ikigai: The Japanese Secret to a Long and Happy Life",
-    "authors": [
-      "Héctor  García",
-      "Francesc Miralles"
-    ],
-    "year": 2016,
-    "pages": 208,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "58342375",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2022-01-08",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_six-easy-pieces-essentials-of-physics-explained-by-its-most-brilliant-teacher",
-    "title": "Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher",
-    "authors": [
-      "Richard P. Feynman",
-      "Paul C.W. Davies"
-    ],
-    "year": 1994,
-    "pages": 138,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "5553",
-    "isbn": "0465023924",
-    "isbn13": "9780465023929",
-    "dateRead": "2022-02-04",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_psycho-cybernetics-a-new-way-to-get-more-living-out-of-life",
-    "title": "Psycho-Cybernetics: A New Way to Get More Living Out of Life",
-    "authors": [
-      "Maxwell Maltz"
-    ],
-    "year": 1960,
-    "pages": 288,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "155981",
-    "isbn": "0671700758",
-    "isbn13": "9780671700751",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_fahrenheit-451",
-    "title": "Fahrenheit 451",
-    "authors": [
-      "Ray Bradbury"
-    ],
-    "year": 1953,
-    "pages": 243,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "42424088",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2022-01-15",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_how-to-win-friends-influence-people",
-    "title": "How to Win Friends & Influence People",
-    "authors": [
-      "Dale Carnegie"
-    ],
-    "year": 1936,
-    "pages": 288,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "4865",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2018-12-30",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma",
-    "title": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",
-    "authors": [
-      "Bessel van der Kolk"
-    ],
-    "year": 2014,
-    "pages": 464,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "18693771",
-    "isbn": "0670785938",
-    "isbn13": "9780670785933",
-    "dateRead": "2021-12-29",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_head-first-design-patterns",
-    "title": "Head First Design Patterns",
-    "authors": [
-      "Eric Freeman",
-      "Bert Bates",
-      "Kathy Sierra",
-      "Elisabeth Robson"
-    ],
-    "year": 2004,
-    "pages": 638,
-    "genres": [
-      "to-read",
-      "work"
-    ],
-    "goodreadsId": "58128",
-    "isbn": "0596007124",
-    "isbn13": "9780596007126",
-    "rating": 0,
-    "shelves": [
-      "to-read",
-      "work"
-    ]
-  },
-  {
-    "id": "bk_design-patterns-elements-of-reusable-object-oriented-software",
-    "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
-    "authors": [
-      "Erich Gamma",
-      "Grady Booch",
-      "Richard Helm",
-      "Ralph Johnson",
-      "John Vlissides"
-    ],
-    "year": 1994,
-    "pages": 416,
-    "genres": [
-      "to-read",
-      "work"
-    ],
-    "goodreadsId": "85009",
-    "isbn": "0201633612",
-    "isbn13": "9780201633610",
-    "rating": 0,
-    "shelves": [
-      "to-read",
-      "work"
-    ]
-  },
-  {
-    "id": "bk_the-pragmatic-programmer-from-journeyman-to-master",
-    "title": "The Pragmatic Programmer: From Journeyman to Master",
-    "authors": [
-      "Andy   Hunt",
-      "Dave         Thomas",
-      "Ward Cunningham"
-    ],
-    "year": 1999,
-    "pages": 321,
-    "genres": [
-      "to-read",
-      "work"
-    ],
-    "goodreadsId": "4099",
-    "isbn": "020161622X",
-    "isbn13": "9780201616224",
-    "rating": 0,
-    "shelves": [
-      "to-read",
-      "work"
-    ]
-  },
-  {
-    "id": "bk_the-mythical-man-month-essays-on-software-engineering",
-    "title": "The Mythical Man-Month: Essays on Software Engineering",
-    "authors": [
-      "Frederick P. Brooks Jr."
-    ],
-    "year": 1975,
-    "pages": 322,
-    "genres": [
-      "to-read",
-      "work"
-    ],
-    "goodreadsId": "13629",
-    "isbn": "0201835959",
-    "isbn13": "9780201835953",
-    "rating": 0,
-    "shelves": [
-      "to-read",
-      "work"
-    ]
-  },
-  {
-    "id": "bk_introduction-to-algorithms",
-    "title": "Introduction to Algorithms",
-    "authors": [
-      "Thomas H. Cormen",
-      "Charles E. Leiserson",
-      "Ronald L. Rivest",
-      "Clifford Stein"
-    ],
-    "year": 1989,
-    "pages": 1184,
-    "genres": [
-      "to-read",
-      "work"
-    ],
-    "goodreadsId": "108986",
-    "isbn": "0262032937",
-    "isbn13": "9780262032933",
-    "rating": 0,
-    "shelves": [
-      "to-read",
-      "work"
-    ]
-  },
-  {
-    "id": "bk_clean-code-a-handbook-of-agile-software-craftsmanship",
-    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
-    "authors": [
-      "Robert C. Martin"
-    ],
-    "year": 2007,
-    "pages": 464,
-    "genres": [
-      "to-read",
-      "work"
-    ],
-    "goodreadsId": "3735293",
-    "isbn": "0132350882",
-    "isbn13": "9780132350884",
-    "rating": 0,
-    "shelves": [
-      "to-read",
-      "work"
-    ]
-  },
-  {
-    "id": "bk_code-complete-a-practical-handbook-of-software-construction",
-    "title": "Code Complete: A Practical Handbook of Software Construction",
-    "authors": [
-      "Steve McConnell"
-    ],
-    "year": 1993,
-    "pages": 914,
-    "genres": [
-      "to-read",
-      "work"
-    ],
-    "goodreadsId": "4845",
-    "isbn": "0735619670",
-    "isbn13": "9780735619678",
-    "rating": 0,
-    "shelves": [
-      "to-read",
-      "work"
-    ]
-  },
-  {
-    "id": "bk_cracking-the-coding-interview-150-programming-questions-and-solutions",
-    "title": "Cracking the Coding Interview: 150 Programming Questions and Solutions",
-    "authors": [
-      "Gayle Laakmann McDowell"
-    ],
-    "year": 2008,
-    "pages": 500,
-    "genres": [
-      "to-read",
-      "work"
-    ],
-    "goodreadsId": "12544648",
-    "isbn": "1466208686",
-    "isbn13": "9781466208681",
-    "rating": 0,
-    "shelves": [
-      "to-read",
-      "work"
-    ]
-  },
-  {
-    "id": "bk_tuesdays-with-morrie-an-old-man-a-young-man-and-life-s-greatest-lesson",
-    "title": "Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",
-    "authors": [
-      "Mitch Albom"
-    ],
-    "year": 1997,
-    "pages": 210,
-    "genres": [
-      "favorites",
-      "read"
-    ],
-    "goodreadsId": "6900",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2016-10-31",
-    "rating": 5,
-    "shelves": [
-      "favorites",
-      "read"
-    ]
-  },
-  {
-    "id": "bk_mindset-the-new-psychology-of-success",
-    "title": "Mindset: The New Psychology of Success",
-    "authors": [
-      "Carol S. Dweck"
-    ],
-    "year": 2006,
-    "pages": 276,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "40745",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2021-11-11",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_surely-you-re-joking-mr-feynman-adventures-of-a-curious-character",
-    "title": "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character",
-    "authors": [
-      "Richard P. Feynman",
-      "Ralph Leighton",
-      "Edward Hutchings"
-    ],
-    "year": 1985,
-    "pages": 400,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "35167685",
-    "isbn": "0393355624",
-    "isbn13": "9780393355628",
-    "dateRead": "2021-09-30",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-richest-man-in-babylon_2",
-    "title": "The Richest Man in Babylon",
-    "authors": [
-      "George S. Clason"
-    ],
-    "year": 1926,
-    "pages": 194,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "1052",
-    "isbn": "0451205367",
-    "isbn13": "9780451205360",
-    "dateRead": "2021-07-31",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_i-too-had-a-love-story",
-    "title": "I Too Had a Love Story",
-    "authors": [
-      "Ravinder Singh"
-    ],
-    "year": 2007,
-    "pages": 212,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "19427193",
-    "isbn": "8188575704",
-    "isbn13": "9788188575701",
-    "dateRead": "2016-08-15",
-    "rating": 2,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-war-of-art_2",
-    "title": "The War of Art",
-    "authors": [
-      "Steven Pressfield",
-      "Robert McKee"
-    ],
-    "year": 2002,
-    "pages": 168,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "1319",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2021-05-29",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_a-gentleman-in-moscow",
-    "title": "A Gentleman in Moscow",
-    "authors": [
-      "Amor Towles"
-    ],
-    "year": 2016,
-    "pages": 462,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "34066798",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2021-07-21",
-    "rating": 5,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_in-defense-of-food-an-eater-s-manifesto",
-    "title": "In Defense of Food: An Eater's Manifesto",
-    "authors": [
-      "Michael Pollan"
-    ],
-    "year": 2008,
-    "pages": 205,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "315425",
-    "isbn": "1594201455",
-    "isbn13": "9781594201455",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_how-to-stop-worrying-and-start-living-time-tested-methods-for-conquering-worry",
-    "title": "How to Stop Worrying and Start Living: Time-Tested Methods for Conquering Worry",
-    "authors": [
-      "Dale Carnegie"
-    ],
-    "year": 1944,
-    "pages": 358,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "4866",
-    "isbn": "0671035975",
-    "isbn13": "9780671035976",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_lila-an-inquiry-into-morals-phaedrus-2",
-    "title": "Lila: An Inquiry Into Morals (Phaedrus, #2)",
-    "authors": [
-      "Robert M. Pirsig"
-    ],
-    "year": 1991,
-    "pages": 480,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "31093",
-    "isbn": "0553299611",
-    "isbn13": "9780553299618",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_aavarana",
-    "title": "ಆವರಣ [Aavarana]",
-    "authors": [
-      "S.L. Bhyrappa",
-      "Dr. Vishwasa",
-      "Jaya Venkatraman"
-    ],
-    "year": 2007,
-    "pages": 380,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "12327052",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2021-05-20",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_human-action-scholar-s-edition-lvmi",
-    "title": "Human Action: Scholar's Edition (LvMI)",
-    "authors": [
-      "Ludwig von Mises"
-    ],
-    "year": 1940,
-    "pages": 924,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "9207437",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_siddhartha_2",
-    "title": "Siddhartha",
-    "authors": [
-      "Hermann Hesse"
-    ],
-    "year": 1922,
-    "pages": 170,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "52981750",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2021-05-02",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_rich-dad-poor-dad",
-    "title": "Rich Dad, Poor Dad",
-    "authors": [
-      "Robert T. Kiyosaki"
-    ],
-    "year": 1997,
-    "pages": 195,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "69571",
-    "isbn": "0751532711",
-    "isbn13": "9780751532715",
-    "dateRead": "2021-03-24",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_range-why-generalists-triumph-in-a-specialized-world",
-    "title": "Range: Why Generalists Triumph in a Specialized World",
-    "authors": [
-      "David   Epstein"
-    ],
-    "year": 2019,
-    "pages": 339,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "41795733",
-    "isbn": "0735214484",
-    "isbn13": "9780735214484",
-    "dateRead": "2021-03-11",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_think-and-grow-rich",
-    "title": "Think and Grow Rich",
-    "authors": [
-      "Napoleon Hill",
-      "Muhammad Ghous Siddiqui",
-      "Ben Holden-Crowther",
-      "Ann Hartley",
-      "Bill Hartley"
-    ],
-    "year": 2016,
-    "pages": 233,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "30186948",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-monk-who-sold-his-ferrari",
-    "title": "The Monk Who Sold His Ferrari",
-    "authors": [
-      "Robin Sharma"
-    ],
-    "year": 1996,
-    "pages": 324,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "28693148",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_revolution-2020-love-corruption-ambition",
-    "title": "Revolution 2020: Love, Corruption, Ambition",
-    "authors": [
-      "Chetan Bhagat"
-    ],
-    "year": 2011,
-    "pages": 296,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "12615008",
-    "isbn": "8129118807",
-    "isbn13": "9788129118806",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-miracle-morning-the-not-so-obvious-secret-guaranteed-to-transform-your-life-before-8am",
-    "title": "The Miracle Morning: The Not-So-Obvious Secret Guaranteed to Transform Your Life: Before 8AM",
-    "authors": [
-      "Hal Elrod"
-    ],
-    "year": 2012,
-    "pages": 172,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "17166225",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2019-04-16",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_catch-22",
-    "title": "Catch-22",
-    "authors": [
-      "Joseph Heller"
-    ],
-    "year": 1961,
-    "pages": 453,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "168668",
-    "isbn": "0684833395",
-    "isbn13": "9780684833392",
-    "dateRead": "2016-10-16",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_kannada-emme",
-    "title": "ಕನ್ನಡ ಎಮ್ಮೆ | Kannada Emme",
-    "authors": [
-      "Beechi"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "18375657",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2016-12-10",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_karvalo",
-    "title": "ಕರ್ವಾಲೊ | Karvalo",
-    "authors": [
-      "K.P. Poornachandra Tejaswi"
-    ],
-    "year": 1980,
-    "pages": 146,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "5298977",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_sandhyaraga",
-    "title": "ಸಂಧ್ಯಾರಾಗ | Sandhyaraga",
-    "authors": [
-      "A.N. Krishnarao",
-      "G.S. Amur"
-    ],
-    "year": 1935,
-    "pages": 146,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "13613392",
-    "isbn": "8126027886",
-    "isbn13": null,
-    "dateRead": "2021-02-18",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_educated",
-    "title": "Educated",
-    "authors": [
-      "Tara Westover"
-    ],
-    "year": 2018,
-    "pages": 382,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "37826561",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2021-02-10",
-    "rating": 5,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-book-of-life-daily-meditations-with-krishnamurti",
-    "title": "The Book of Life: Daily Meditations with Krishnamurti",
-    "authors": [
-      "J. Krishnamurti"
-    ],
-    "year": 1995,
-    "pages": 400,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "143880",
-    "isbn": "0060648791",
-    "isbn13": "9780060648794",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_thinking-physics-understandable-practical-reality",
-    "title": "Thinking Physics: Understandable Practical Reality",
-    "authors": [
-      "Lewis Carroll Epstein"
-    ],
-    "year": 1989,
-    "pages": 582,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "268266",
-    "isbn": "0935218084",
-    "isbn13": "9780935218084",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-midnight-library",
-    "title": "The Midnight Library",
-    "authors": [
-      "Matt Haig"
-    ],
-    "year": 2020,
-    "pages": 288,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "52578297",
-    "isbn": "0525559477",
-    "isbn13": "9780525559474",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_talking-to-strangers-what-we-should-know-about-the-people-we-don-t-know",
-    "title": "Talking to Strangers: What We Should Know About the People We Don't Know",
-    "authors": [
-      "Malcolm Gladwell"
-    ],
-    "year": 2019,
-    "pages": 388,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "43848929",
-    "isbn": "0316478520",
-    "isbn13": "9780316478526",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_skin-in-the-game-the-hidden-asymmetries-in-daily-life",
-    "title": "Skin in the Game: The Hidden Asymmetries in Daily Life",
-    "authors": [
-      "Nassim Nicholas Taleb"
-    ],
-    "year": 2018,
-    "pages": 272,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "36064445",
-    "isbn": "0241300657",
-    "isbn13": "9780241300657",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-bed-of-procrustes-philosophical-and-practical-aphorisms",
-    "title": "The Bed of Procrustes: Philosophical and Practical Aphorisms",
-    "authors": [
-      "Nassim Nicholas Taleb"
-    ],
-    "year": 2010,
-    "pages": 112,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "9402297",
-    "isbn": "1400069971",
-    "isbn13": "9781400069972",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-black-swan-the-impact-of-the-highly-improbable",
-    "title": "The Black Swan: The Impact of the Highly Improbable",
-    "authors": [
-      "Nassim Nicholas Taleb"
-    ],
-    "year": 2007,
-    "pages": 480,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "242472",
-    "isbn": "1400063515",
-    "isbn13": "9781400063512",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_six-not-so-easy-pieces-einstein-s-relativity-symmetry-and-space-time",
-    "title": "Six Not So Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time",
-    "authors": [
-      "Richard P. Feynman",
-      "Roger Penrose"
-    ],
-    "year": 1963,
-    "pages": 184,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "6779",
-    "isbn": "0465023932",
-    "isbn13": "9780465023936",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_twelve-years-a-slave",
-    "title": "Twelve Years a Slave",
-    "authors": [
-      "Solomon Northup"
-    ],
-    "year": 1853,
-    "pages": 209,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "36277432",
-    "isbn": "1542099617",
-    "isbn13": "9781542099615",
-    "dateRead": "2020-12-19",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-alchemist",
-    "title": "The Alchemist",
-    "authors": [
-      "Paulo Coelho",
-      "Alan R. Clarke"
-    ],
-    "year": 1988,
-    "pages": 197,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "865",
-    "isbn": "0061122416",
-    "isbn13": "9780061122415",
-    "dateRead": "2016-01-01",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_mookajjiya-kanasugalu",
-    "title": "ಮೂಕಜ್ಜಿಯ ಕನಸುಗಳು [Mookajjiya Kanasugalu]",
-    "authors": [
-      "Kota Shivarama Karanth"
-    ],
-    "year": 1968,
-    "pages": 272,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "15734967",
-    "isbn": "817285062X",
-    "isbn13": "9788172850623",
-    "dateRead": "2016-09-02",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-7-habits-of-highly-effective-people-powerful-lessons-in-personal-change",
-    "title": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
-    "authors": [
-      "Stephen R. Covey",
-      "Jim Collins"
-    ],
-    "year": 1989,
-    "pages": 372,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "36072",
-    "isbn": "0743269519",
-    "isbn13": "9780743269513",
-    "dateRead": "2017-02-02",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_to-kill-a-mockingbird",
-    "title": "To Kill a Mockingbird",
-    "authors": [
-      "Harper Lee"
-    ],
-    "year": 1960,
-    "pages": 323,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "2657",
-    "isbn": "0060935464",
-    "isbn13": "9780060935467",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_flow-the-psychology-of-optimal-experience",
-    "title": "Flow: The Psychology of Optimal Experience",
-    "authors": [
-      "Mihály Csíkszentmihályi"
-    ],
-    "year": 1990,
-    "pages": 303,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "66354",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2020-12-04",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_mostly-harmless-hitchhiker-s-guide-to-the-galaxy-5",
-    "title": "Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)",
-    "authors": [
-      "Douglas Adams"
-    ],
-    "year": 1992,
-    "pages": 240,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "360",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2020-11-02",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future",
-    "title": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
-    "authors": [
-      "Ashlee Vance"
-    ],
-    "year": 2015,
-    "pages": 392,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "25541028",
-    "isbn": "0062301233",
-    "isbn13": "9780062301239",
-    "dateRead": "2017-06-01",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_all-the-light-we-cannot-see",
-    "title": "All the Light We Cannot See",
-    "authors": [
-      "Anthony Doerr"
-    ],
-    "year": 2014,
-    "pages": 531,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "18143977",
-    "isbn": "1476746583",
-    "isbn13": "9781476746586",
-    "dateRead": "2020-10-23",
-    "rating": 5,
-    "shelves": [
-      "read"
-    ],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_the-headspace-guide-to-meditation-mindfulness",
-    "title": "The Headspace Guide to Meditation & Mindfulness",
-    "authors": [
-      "Andy Puddicombe"
-    ],
-    "year": 2011,
-    "pages": 224,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "27414493",
-    "isbn": "1250104904",
-    "isbn13": "9781250104908",
-    "dateRead": "2020-10-01",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_life-3-0-being-human-in-the-age-of-artificial-intelligence",
-    "title": "Life 3.0: Being Human in the Age of Artificial Intelligence",
-    "authors": [
-      "Max Tegmark",
-      "Rob Shapiro"
-    ],
-    "year": 2017,
-    "pages": 384,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "34272565",
-    "isbn": "0451485076",
-    "isbn13": "9780451485076",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_one-two-three-infinity-facts-and-speculations-of-science",
-    "title": "One, Two, Three...Infinity: Facts and Speculations of Science",
-    "authors": [
-      "George Gamow"
-    ],
-    "year": 1947,
-    "pages": 384,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "52670",
-    "isbn": "0486256642",
-    "isbn13": "9780486256641",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-tyranny-of-metrics",
-    "title": "The Tyranny of Metrics",
-    "authors": [
-      "Jerry Z. Muller"
-    ],
-    "year": 2017,
-    "pages": 240,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "36644895",
-    "isbn": "0691174954",
-    "isbn13": "9780691174952",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_cloud-atlas",
-    "title": "Cloud Atlas",
-    "authors": [
-      "David  Mitchell"
-    ],
-    "year": 2004,
-    "pages": 509,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "49628",
-    "isbn": "0375507256",
-    "isbn13": "9780375507250",
-    "dateRead": "2020-09-22",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_the-selfish-gene",
-    "title": "The Selfish Gene",
-    "authors": [
-      "Richard Dawkins"
-    ],
-    "year": 1976,
-    "pages": 360,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "61535",
-    "isbn": "0199291152",
-    "isbn13": "9780199291151",
-    "dateRead": "2020-08-30",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_the-brief-wondrous-life-of-oscar-wao",
-    "title": "The Brief Wondrous Life of Oscar Wao",
-    "authors": [
-      "Junot Díaz"
-    ],
-    "year": 2007,
-    "pages": 335,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "297673",
-    "isbn": "1594489580",
-    "isbn13": "9781594489587",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_so-long-and-thanks-for-all-the-fish-the-hitchhiker-s-guide-to-the-galaxy-4",
-    "title": "So Long, and Thanks for All the Fish (The Hitchhiker's Guide to the Galaxy, #4)",
-    "authors": [
-      "Douglas Adams"
-    ],
-    "year": 1984,
-    "pages": 225,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "6091075",
-    "isbn": "0307497909",
-    "isbn13": "9780307497901",
-    "dateRead": "2020-08-06",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_walden-or-life-in-the-woods",
-    "title": "Walden or, Life in the Woods",
-    "authors": [
-      "Henry David Thoreau",
-      "Bill McKibben"
-    ],
-    "year": 1854,
-    "pages": 352,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "16902",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2020-07-29",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_ignited-minds-unleashing-the-power-within-india",
-    "title": "Ignited Minds: Unleashing the Power Within India",
-    "authors": [
-      "A.P.J. Abdul Kalam"
-    ],
-    "year": 2002,
-    "pages": 222,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "693771",
-    "isbn": "0143029827",
-    "isbn13": "9780143029823",
-    "dateRead": "2016-07-26",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_who-moved-my-cheese",
-    "title": "Who Moved My Cheese?",
-    "authors": [
-      "Spencer Johnson",
-      "Kenneth H. Blanchard"
-    ],
-    "year": 1999,
-    "pages": 98,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "4894",
-    "isbn": "0091883768",
-    "isbn13": "9780091883768",
-    "dateRead": "2016-12-15",
-    "rating": 1,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-old-man-and-the-sea",
-    "title": "The Old Man and the Sea",
-    "authors": [
-      "Ernest Hemingway"
-    ],
-    "year": 1952,
-    "pages": 96,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "2165",
-    "isbn": "0684830493",
-    "isbn13": "9780684830490",
-    "dateRead": "2016-12-03",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_wings-of-fire-an-autobiography",
-    "title": "Wings of Fire: An Autobiography",
-    "authors": [
-      "A.P.J. Abdul Kalam",
-      "Arun Tiwari"
-    ],
-    "year": 1999,
-    "pages": 180,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "634583",
-    "isbn": "8173711461",
-    "isbn13": "9788173711466",
-    "dateRead": "2016-05-10",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_who-will-cry-when-you-die",
-    "title": "Who Will Cry When You Die?",
-    "authors": [
-      "Robin Sharma"
-    ],
-    "year": 1999,
-    "pages": 204,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "289029",
-    "isbn": "1401900127",
-    "isbn13": "9781401900120",
-    "dateRead": "2016-08-08",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_believe-this-you-ll-believe-anything",
-    "title": "Believe This... You'll Believe Anything",
-    "authors": [
-      "James Hadley Chase"
-    ],
-    "year": 1975,
-    "pages": null,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "31308588",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2016-06-04",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_she-swiped-right-into-my-heart",
-    "title": "She Swiped Right Into My Heart",
-    "authors": [
-      "Sudeep Nagarkar"
-    ],
-    "year": 2016,
-    "pages": 226,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "29772476",
-    "isbn": "8184007450",
-    "isbn13": "9788184007459",
-    "dateRead": "2016-09-09",
-    "rating": 2,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_bettada-jeeva",
-    "title": "ಬೆಟ್ಟದ ಜೀವ | Bettada Jeeva",
-    "authors": [
-      "Kota Shivarama Karanth"
-    ],
-    "year": 2014,
-    "pages": 150,
-    "genres": [
-      "favorites",
-      "read"
-    ],
-    "goodreadsId": "13625014",
-    "isbn": "8128016695",
-    "isbn13": "9788128016691",
-    "dateRead": "2016-10-29",
-    "rating": 5,
-    "shelves": [
-      "favorites",
-      "read"
-    ]
-  },
-  {
-    "id": "bk_outliers-the-story-of-success",
-    "title": "Outliers: The Story of Success",
-    "authors": [
-      "Malcolm Gladwell"
-    ],
-    "year": 2008,
-    "pages": 309,
-    "genres": [
-      "favorites",
-      "read"
-    ],
-    "goodreadsId": "3228917",
-    "isbn": "0316017922",
-    "isbn13": "9780316017923",
-    "dateRead": "2016-01-01",
-    "rating": 5,
-    "shelves": [
-      "favorites",
-      "read"
-    ]
-  },
-  {
-    "id": "bk_when-breath-becomes-air",
-    "title": "When Breath Becomes Air",
-    "authors": [
-      "Paul Kalanithi",
-      "Abraham   Verghese"
-    ],
-    "year": 2016,
-    "pages": 208,
-    "genres": [
-      "favorites",
-      "read"
-    ],
-    "goodreadsId": "25899336",
-    "isbn": "0812988418",
-    "isbn13": "9780812988413",
-    "dateRead": "2017-07-23",
-    "rating": 5,
-    "shelves": [
-      "favorites",
-      "read"
-    ],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_shoe-dog-a-memoir-by-the-creator-of-nike",
-    "title": "Shoe Dog: A Memoir by the Creator of Nike",
-    "authors": [
-      "Phil Knight"
-    ],
-    "year": 2016,
-    "pages": 400,
-    "genres": [
-      "favorites",
-      "read"
-    ],
-    "goodreadsId": "27220736",
-    "isbn": "1501135910",
-    "isbn13": "9781501135910",
-    "dateRead": "2018-05-21",
-    "rating": 5,
-    "shelves": [
-      "favorites",
-      "read"
-    ]
-  },
-  {
-    "id": "bk_being-mortal-medicine-and-what-matters-in-the-end",
-    "title": "Being Mortal: Medicine and What Matters in the End",
-    "authors": [
-      "Atul Gawande"
-    ],
-    "year": 2014,
-    "pages": 282,
-    "genres": [
-      "favorites",
-      "read"
-    ],
-    "goodreadsId": "20696006",
-    "isbn": "0805095152",
-    "isbn13": "9780805095159",
-    "dateRead": "2019-01-23",
-    "rating": 5,
-    "shelves": [
-      "favorites",
-      "read"
-    ]
-  },
-  {
-    "id": "bk_a-man-called-ove",
-    "title": "A Man Called Ove",
-    "authors": [
-      "Fredrik Backman",
-      "Henning Koch"
-    ],
-    "year": 2012,
-    "pages": 337,
-    "genres": [
-      "favorites",
-      "read"
-    ],
-    "goodreadsId": "18774964",
-    "isbn": "1476738017",
-    "isbn13": "9781476738017",
-    "dateRead": "2019-07-05",
-    "rating": 5,
-    "shelves": [
-      "favorites",
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-great-gatsby",
-    "title": "The Great Gatsby",
-    "authors": [
-      "F. Scott Fitzgerald"
-    ],
-    "year": 1925,
-    "pages": 180,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "4671",
-    "isbn": "0743273567",
-    "isbn13": "9780743273565",
-    "dateRead": "2020-07-03",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones",
-    "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
-    "authors": [
-      "James Clear"
-    ],
-    "year": 2018,
-    "pages": 319,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "40121378",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2020-06-27",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_life-the-universe-and-everything-the-hitchhiker-s-guide-to-the-galaxy-3",
-    "title": "Life, the Universe and Everything (The Hitchhiker's Guide to the Galaxy, #3)",
-    "authors": [
-      "Douglas Adams"
-    ],
-    "year": 1982,
-    "pages": 224,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "8694",
-    "isbn": "0345418905",
-    "isbn13": "9780345418906",
-    "dateRead": "2020-05-26",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-gene-an-intimate-history",
-    "title": "The Gene: An Intimate History",
-    "authors": [
-      "Siddhartha Mukherjee"
-    ],
-    "year": 2016,
-    "pages": 592,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "27276428",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2020-05-16",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_mastery",
-    "title": "Mastery",
-    "authors": [
-      "Robert Greene"
-    ],
-    "year": 2012,
-    "pages": 318,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "13589182",
-    "isbn": "0670024961",
-    "isbn13": "9780670024964",
-    "dateRead": "2020-04-07",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-restaurant-at-the-end-of-the-universe-the-hitchhiker-s-guide-to-the-galaxy-2",
-    "title": "The Restaurant at the End of the Universe (The Hitchhiker's Guide to the Galaxy, #2)",
-    "authors": [
-      "Douglas Adams"
-    ],
-    "year": 1980,
-    "pages": 250,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "8695",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2020-03-15",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_thinking-fast-and-slow",
-    "title": "Thinking, Fast and Slow",
-    "authors": [
-      "Daniel Kahneman"
-    ],
-    "year": 2011,
-    "pages": 499,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "11468377",
-    "isbn": "0374275637",
-    "isbn13": "9780374275631",
-    "dateRead": "2020-03-03",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-rosie-project-don-tillman-1",
-    "title": "The Rosie Project (Don Tillman, #1)",
-    "authors": [
-      "Graeme Simsion"
-    ],
-    "year": 2013,
-    "pages": 292,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "16181775",
-    "isbn": "1476729085",
-    "isbn13": "9781476729084",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_jonathan-livingston-seagull",
-    "title": "Jonathan Livingston Seagull",
-    "authors": [
-      "Richard Bach",
-      "Russell Munson"
-    ],
-    "year": 1970,
-    "pages": 112,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "71728",
-    "isbn": "0743278909",
-    "isbn13": "9780743278904",
-    "dateRead": "2018-09-26",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-hitchhiker-s-guide-to-the-galaxy-hitchhiker-s-guide-to-the-galaxy-1",
-    "title": "The Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
-    "authors": [
-      "Douglas Adams"
-    ],
-    "year": 1979,
-    "pages": 216,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "11",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2019-10-26",
-    "rating": 5,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_my-gita",
-    "title": "My Gita",
-    "authors": [
-      "Devdutt Pattanaik"
-    ],
-    "year": 2015,
-    "pages": 256,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "27318490",
-    "isbn": "8129137704",
-    "isbn13": "9788129137708",
-    "dateRead": "2019-08-15",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-subtle-art-of-not-giving-a-f-ck-a-counterintuitive-approach-to-living-a-good-life",
-    "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
-    "authors": [
-      "Mark Manson"
-    ],
-    "year": 2016,
-    "pages": 212,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "28257707",
-    "isbn": null,
-    "isbn13": "9798804636129",
-    "dateRead": "2019-07-21",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-magic-of-reality-how-we-know-what-s-really-true",
-    "title": "The Magic of Reality: How We Know What's Really True",
-    "authors": [
-      "Richard Dawkins",
-      "Dave McKean"
-    ],
-    "year": 2011,
-    "pages": 271,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "11256979",
-    "isbn": "1439192812",
-    "isbn13": "9781439192818",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-biology-of-belief-unleashing-the-power-of-consciousness-matter-and-miracles",
-    "title": "The Biology Of Belief: Unleashing The Power Of Consciousness, Matter And Miracles",
-    "authors": [
-      "Bruce H. Lipton"
-    ],
-    "year": 2005,
-    "pages": 205,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "90556",
-    "isbn": "0975991477",
-    "isbn13": "9780975991473",
-    "dateRead": "2019-06-12",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_three-men-in-a-boat-three-men-1",
-    "title": "Three Men in a Boat (Three Men, #1)",
-    "authors": [
-      "Jerome K. Jerome"
-    ],
-    "year": 1889,
-    "pages": 185,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "4921",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2019-05-19",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_homo-deus-a-history-of-tomorrow",
-    "title": "Homo Deus: A History of Tomorrow",
-    "authors": [
-      "Yuval Noah Harari"
-    ],
-    "year": 2015,
-    "pages": 450,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "31138556",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2019-04-03",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-diary-of-a-young-girl",
-    "title": "The Diary of a Young Girl",
-    "authors": [
-      "Anne Frank",
-      "Eleanor Roosevelt",
-      "Otto H. Frank",
-      "Mirjam Pressler",
-      "Susan Massotty",
-      "Barbara Mooyaart-Doubleday",
-      "Γιάννης Θωμόπουλος"
-    ],
-    "year": 1947,
-    "pages": 283,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "48855",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2019-04-03",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_shantaram",
-    "title": "Shantaram",
-    "authors": [
-      "Gregory David Roberts"
-    ],
-    "year": 2003,
-    "pages": 936,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "33600",
-    "isbn": "192076920X",
-    "isbn13": "9781920769208",
-    "dateRead": "2019-01-04",
-    "rating": 5,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_inner-engineering-a-yogi-s-guide-to-joy",
-    "title": "Inner Engineering: A Yogi's Guide to Joy",
-    "authors": [
-      "Sadhguru"
-    ],
-    "year": 2016,
-    "pages": 278,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "29513878",
-    "isbn": "0812997808",
-    "isbn13": "9780812997804",
-    "dateRead": "2018-06-27",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_factfulness-ten-reasons-we-re-wrong-about-the-world-and-why-things-are-better-than-you-think",
-    "title": "Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think",
-    "authors": [
-      "Hans Rosling",
-      "Ola Rosling",
-      "Anna Rosling Rönnlund"
-    ],
-    "year": 2018,
-    "pages": 342,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "34890015",
-    "isbn": "1473637465",
-    "isbn13": "9781473637467",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_everything-happens-for-a-reason-and-other-lies-i-ve-loved",
-    "title": "Everything Happens for a Reason: And Other Lies I've Loved",
-    "authors": [
-      "Kate Bowler"
-    ],
-    "year": 2018,
-    "pages": 178,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "35133923",
-    "isbn": "0399592067",
-    "isbn13": "9780399592065",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_leonardo-da-vinci",
-    "title": "Leonardo da Vinci",
-    "authors": [
-      "Walter Isaacson"
-    ],
-    "year": 2017,
-    "pages": 600,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "34684622",
-    "isbn": "1501139150",
-    "isbn13": "9781501139154",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_before-the-dawn-recovering-the-lost-history-of-our-ancestors",
-    "title": "Before the Dawn: Recovering the Lost History of Our Ancestors",
-    "authors": [
-      "Nicholas Wade"
-    ],
-    "year": 2006,
-    "pages": 314,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "110995",
-    "isbn": "014303832X",
-    "isbn13": "9780143038320",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_sapiens-a-brief-history-of-humankind",
-    "title": "Sapiens: A Brief History of Humankind",
-    "authors": [
-      "Yuval Noah Harari"
-    ],
-    "year": 2011,
-    "pages": 512,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "23692271",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2018-03-16",
-    "rating": 5,
-    "shelves": [
-      "read"
-    ],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_the-complete-calvin-and-hobbes",
-    "title": "The Complete Calvin and Hobbes",
-    "authors": [
-      "Bill Watterson"
-    ],
-    "year": 2005,
-    "pages": 1456,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "24812",
-    "isbn": "0740748475",
-    "isbn13": "9780740748479",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-last-lecture",
-    "title": "The Last Lecture",
-    "authors": [
-      "Randy Pausch",
-      "Jeffrey Zaslow"
-    ],
-    "year": 2008,
-    "pages": 206,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "2318271",
-    "isbn": "1401323251",
-    "isbn13": "9781401323257",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_alice-s-adventures-in-wonderland-alice-s-adventures-in-wonderland-1",
-    "title": "Alice's Adventures in Wonderland (Alice's Adventures in Wonderland, #1)",
-    "authors": [
-      "Lewis Carroll",
-      "Charles Pears",
-      "T.H. Robinson"
-    ],
-    "year": 1865,
-    "pages": 96,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "6324090",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2017-12-14",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_and-then-there-were-none",
-    "title": "And Then There Were None",
-    "authors": [
-      "Agatha Christie"
-    ],
-    "year": 1939,
-    "pages": 264,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "16299",
-    "isbn": "0312330871",
-    "isbn13": "9780312330873",
-    "dateRead": "2016-11-01",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-one-minute-manager",
-    "title": "The One Minute Manager",
-    "authors": [
-      "Kenneth H. Blanchard",
-      "Spencer Johnson"
-    ],
-    "year": 1981,
-    "pages": 111,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "763362",
-    "isbn": "0688014291",
-    "isbn13": "9780688014292",
-    "dateRead": "2017-06-01",
-    "rating": 2,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-kite-runner",
-    "title": "The Kite Runner",
-    "authors": [
-      "Khaled Hosseini"
-    ],
-    "year": 2003,
-    "pages": 371,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "77203",
-    "isbn": "159463193X",
-    "isbn13": "9781594631931",
-    "rating": 5,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-art-of-thinking-clearly",
-    "title": "The Art of Thinking Clearly",
-    "authors": [
-      "Rolf Dobelli"
-    ],
-    "year": 2011,
-    "pages": 384,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "16248196",
-    "isbn": "0062219685",
-    "isbn13": "9780062219688",
-    "dateRead": "2018-01-01",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_the-white-tiger",
-    "title": "The White Tiger",
-    "authors": [
-      "Aravind Adiga"
-    ],
-    "year": 2008,
-    "pages": 288,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "1768603",
-    "isbn": "1416562591",
-    "isbn13": "9781416562597",
-    "dateRead": "2018-01-24",
-    "rating": 5,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_eleven-minutes",
-    "title": "Eleven Minutes",
-    "authors": [
-      "Paulo Coelho",
-      "Margaret Jull Costa"
-    ],
-    "year": 2003,
-    "pages": 273,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "1430",
-    "isbn": "0060589280",
-    "isbn13": "9780060589288",
-    "dateRead": "2018-01-10",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_jane-eyre",
-    "title": "Jane Eyre",
-    "authors": [
-      "Charlotte Brontë",
-      "Michael Mason"
-    ],
-    "year": 1847,
-    "pages": 532,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "10210",
-    "isbn": "0142437204",
-    "isbn13": "9780142437209",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_you-are-the-best-wife",
-    "title": "You are the Best Wife",
-    "authors": [
-      "Ajay K. Pandey"
-    ],
-    "year": 2015,
-    "pages": 250,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "30169645",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_midnight-s-children",
-    "title": "Midnight’s Children",
-    "authors": [
-      "Salman Rushdie"
-    ],
-    "year": 1981,
-    "pages": 647,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "14836",
-    "isbn": "0099578514",
-    "isbn13": "9780099578512",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-power-of-habit-why-we-do-what-we-do-in-life-and-business",
-    "title": "The Power of Habit: Why We Do What We Do in Life and Business",
-    "authors": [
-      "Charles Duhigg"
-    ],
-    "year": 2012,
-    "pages": 375,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "12609433",
-    "isbn": "1400069289",
-    "isbn13": "9781400069286",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-first-three-minutes-a-modern-view-of-the-origin-of-the-universe",
-    "title": "The First Three Minutes: A Modern View of the Origin of the Universe",
-    "authors": [
-      "Steven Weinberg"
-    ],
-    "year": 1977,
-    "pages": 224,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "150131",
-    "isbn": "0465024378",
-    "isbn13": "9780465024377",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_never-eat-alone-and-other-secrets-to-success-one-relationship-at-a-time",
-    "title": "Never Eat Alone: And Other Secrets to Success, One Relationship at a Time",
-    "authors": [
-      "Keith Ferrazzi",
-      "Tahl Raz"
-    ],
-    "year": 2005,
-    "pages": 309,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "84699",
-    "isbn": "0385512058",
-    "isbn13": "9780385512053",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_a-brief-history-of-time",
-    "title": "A Brief History of Time",
-    "authors": [
-      "Stephen Hawking"
-    ],
-    "year": 1988,
-    "pages": 226,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "3869",
-    "isbn": "0553380168",
-    "isbn13": "9780553380163",
-    "dateRead": "2017-12-21",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_into-the-water",
-    "title": "Into the Water",
-    "authors": [
-      "Paula Hawkins"
-    ],
-    "year": 2017,
-    "pages": 386,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "33151805",
-    "isbn": "0735211205",
-    "isbn13": "9780735211209",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_little-fires-everywhere",
-    "title": "Little Fires Everywhere",
-    "authors": [
-      "Celeste Ng"
-    ],
-    "year": 2017,
-    "pages": 338,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "34273236",
-    "isbn": "0735224293",
-    "isbn13": "9780735224292",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-quantum-doctor-a-physicist-s-guide-to-health-and-healing",
-    "title": "The Quantum Doctor: A Physicist's Guide to Health and Healing",
-    "authors": [
-      "Amit Goswami"
-    ],
-    "year": 2004,
-    "pages": 320,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "670169",
-    "isbn": "1571744177",
-    "isbn13": "9781571744173",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_for-one-more-day",
-    "title": "For One More Day",
-    "authors": [
-      "Mitch Albom"
-    ],
-    "year": 2006,
-    "pages": 208,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "10929",
-    "isbn": "1401303277",
-    "isbn13": "9781401303273",
-    "dateRead": "2017-12-02",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_the-4-hour-workweek",
-    "title": "The 4-Hour Workweek",
-    "authors": [
-      "Timothy Ferriss"
-    ],
-    "year": 2007,
-    "pages": 308,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "368593",
-    "isbn": "0307353133",
-    "isbn13": "9780307353139",
-    "dateRead": "2017-07-14",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_chidambara-rahasya",
-    "title": "ಚಿದಂಬರ ರಹಸ್ಯ [Chidambara Rahasya]",
-    "authors": [
-      "K.P. Poornachandra Tejaswi"
-    ],
-    "year": 1985,
-    "pages": 217,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "13633552",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2017-03-16",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_beechi-bulletsu-bombsu-bhagavadgeete",
-    "title": "Beechi: Bulletsu, Bombsu, Bhagavadgeete",
-    "authors": [
-      "Keshava Rao B.S."
-    ],
-    "year": 2002,
-    "pages": 206,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "13419938",
-    "isbn": "8187321830",
-    "isbn13": null,
-    "dateRead": "2017-01-09",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-power-of-your-subconscious-mind",
-    "title": "The Power of Your Subconscious Mind",
-    "authors": [
-      "Joseph Murphy",
-      "Ian McMahon"
-    ],
-    "year": 1963,
-    "pages": 304,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "68984",
-    "isbn": "0553583182",
-    "isbn13": "9780553583182",
-    "dateRead": "2017-11-27",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-five-people-you-meet-in-heaven",
-    "title": "The Five People You Meet in Heaven",
-    "authors": [
-      "Mitch Albom"
-    ],
-    "year": 2003,
-    "pages": 196,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "175343",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_59-seconds-think-a-little-change-a-lot",
-    "title": "59 Seconds: Think a Little, Change a Lot",
-    "authors": [
-      "Richard Wiseman"
-    ],
-    "year": 2009,
-    "pages": 357,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "6340948",
-    "isbn": "023074429X",
-    "isbn13": "9780230744295",
-    "dateRead": "2017-11-01",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_the-tipping-point-how-little-things-can-make-a-big-difference",
-    "title": "The Tipping Point: How Little Things Can Make a Big Difference",
-    "authors": [
-      "Malcolm Gladwell"
-    ],
-    "year": 2000,
-    "pages": 301,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "2612",
-    "isbn": "0316346624",
-    "isbn13": "9780316346627",
-    "dateRead": "2017-10-08",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_",
-    "title": "ಬೆಂಗಳೂರು ಬಸ್ಸು",
-    "authors": [
-      "Beechi"
-    ],
-    "year": null,
-    "pages": null,
-    "genres": [
-      "read",
-      "to-read"
-    ],
-    "goodreadsId": "26304524",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2017-08-21",
-    "rating": 3,
-    "shelves": [
-      "read",
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_freakonomics-a-rogue-economist-explores-the-hidden-side-of-everything",
-    "title": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
-    "authors": [
-      "Steven D. Levitt",
-      "Stephen J. Dubner"
-    ],
-    "year": 2005,
-    "pages": 268,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "1202",
-    "isbn": "0061234001",
-    "isbn13": "9780061234002",
-    "dateRead": "2017-06-23",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_quiet-the-power-of-introverts-in-a-world-that-can-t-stop-talking",
-    "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
-    "authors": [
-      "Susan Cain"
-    ],
-    "year": 2012,
-    "pages": 333,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "8520610",
-    "isbn": "0307352145",
-    "isbn13": "9780307352149",
-    "dateRead": "2017-06-08",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_call-me-ted",
-    "title": "Call Me Ted",
-    "authors": [
-      "Ted Turner",
-      "Bill Burke"
-    ],
-    "year": 2008,
-    "pages": 433,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "3722134",
-    "isbn": "0446581895",
-    "isbn13": "9780446581899",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_hatching-twitter-a-true-story-of-money-power-friendship-and-betrayal",
-    "title": "Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal",
-    "authors": [
-      "Nick Bilton"
-    ],
-    "year": 2013,
-    "pages": 299,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "18656827",
-    "isbn": "1591846013",
-    "isbn13": "9781591846017",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_delivering-happiness-c-mo-hacer-felices-a-tus-empleados-y-duplicar-tus-beneficios-spanish-edition",
-    "title": "Delivering Happiness: ¿Cómo hacer felices a tus empleados y duplicar tus beneficios? (Spanish Edition)",
-    "authors": [
-      "Tony Hsieh"
-    ],
-    "year": 2000,
-    "pages": 224,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "29285279",
-    "isbn": "8415505418",
-    "isbn13": "9788415505419",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_in-the-plex-how-google-thinks-works-and-shapes-our-lives",
-    "title": "In the Plex: How Google Thinks, Works, and Shapes Our Lives",
-    "authors": [
-      "Steven Levy"
-    ],
-    "year": 2011,
-    "pages": 432,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "7841446",
-    "isbn": "1416596585",
-    "isbn13": "9781416596585",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_total-recall-my-unbelievably-true-life-story",
-    "title": "Total Recall: My Unbelievably True Life Story",
-    "authors": [
-      "Arnold Schwarzenegger",
-      "Peter Petre"
-    ],
-    "year": 2012,
-    "pages": 656,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "14546626",
-    "isbn": "1451662432",
-    "isbn13": "9781451662436",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_good-to-great-why-some-companies-make-the-leap-and-others-don-t",
-    "title": "Good to Great: Why Some Companies Make the Leap... and Others Don't",
-    "authors": [
-      "Jim Collins"
-    ],
-    "year": 2001,
-    "pages": 300,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "76865",
-    "isbn": "0066620996",
-    "isbn13": "9780066620992",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-magic-of-thinking-big",
-    "title": "The Magic of Thinking Big",
-    "authors": [
-      "David J. Schwartz"
-    ],
-    "year": 1959,
-    "pages": 238,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "759945",
-    "isbn": "0671646788",
-    "isbn13": "9780671646783",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_eat-that-frog-21-great-ways-to-stop-procrastinating-and-get-more-done-in-less-time",
-    "title": "Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time",
-    "authors": [
-      "Brian Tracy"
-    ],
-    "year": 2001,
-    "pages": 144,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "95887",
-    "isbn": "1576754227",
-    "isbn13": "9781576754221",
-    "dateRead": "2017-04-11",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_zero-to-one-notes-on-startups-or-how-to-build-the-future",
-    "title": "Zero to One: Notes on Startups, or How to Build the Future",
-    "authors": [
-      "Peter Thiel",
-      "Blake  Masters"
-    ],
-    "year": 2014,
-    "pages": 195,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "18050143",
-    "isbn": "0804139296",
-    "isbn13": "9780804139298",
-    "dateRead": "2017-02-20",
-    "rating": 4,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_chanakya-s-chant",
-    "title": "Chanakya's Chant",
-    "authors": [
-      "Ashwin Sanghi"
-    ],
-    "year": 2010,
-    "pages": 448,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "10098912",
-    "isbn": "9380658672",
-    "isbn13": "9789380658674",
-    "dateRead": "2017-02-09",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ],
-    "newlyAdded": false
-  },
-  {
-    "id": "bk_illusions-the-adventures-of-a-reluctant-messiah",
-    "title": "Illusions: The Adventures of a Reluctant Messiah",
-    "authors": [
-      "Richard Bach"
-    ],
-    "year": 1977,
-    "pages": 144,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "29946",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-dip-a-little-book-that-teaches-you-when-to-quit-and-when-to-stick",
-    "title": "The Dip: A Little Book That Teaches You When to Quit (and When to Stick)",
-    "authors": [
-      "Seth Godin"
-    ],
-    "year": 2007,
-    "pages": 80,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "324748",
-    "isbn": "1591841666",
-    "isbn13": "9781591841661",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_tiny-beautiful-things-advice-on-love-and-life-from-dear-sugar",
-    "title": "Tiny Beautiful Things: Advice on Love and Life from Dear Sugar",
-    "authors": [
-      "Cheryl Strayed"
-    ],
-    "year": 2012,
-    "pages": 354,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "13152194",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_tools-of-titans-the-tactics-routines-and-habits-of-billionaires-icons-and-world-class-performers",
-    "title": "Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers",
-    "authors": [
-      "Timothy Ferriss",
-      "Arnold Schwarzenegger"
-    ],
-    "year": 2016,
-    "pages": 827,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "31823677",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-secret-of-the-nagas-shiva-trilogy-2",
-    "title": "The Secret of the Nagas (Shiva Trilogy #2)",
-    "authors": [
-      "Amish Tripathi"
-    ],
-    "year": 2011,
-    "pages": 371,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "11827808",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-oath-of-the-vayuputras-shiva-trilogy-3",
-    "title": "The Oath of the Vayuputras (Shiva Trilogy, #3)",
-    "authors": [
-      "Amish Tripathi"
-    ],
-    "year": 2013,
-    "pages": 575,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "12820793",
-    "isbn": "9382618341",
-    "isbn13": "9789382618348",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-immortals-of-meluha-shiva-trilogy-1",
-    "title": "The Immortals of Meluha (Shiva Trilogy, #1)",
-    "authors": [
-      "Amish Tripathi"
-    ],
-    "year": 2010,
-    "pages": 436,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "7913305",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_where-good-ideas-come-from-the-natural-history-of-innovation",
-    "title": "Where Good Ideas Come From: The Natural History of Innovation",
-    "authors": [
-      "Steven Johnson"
-    ],
-    "year": 2010,
-    "pages": 326,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "8034188",
-    "isbn": "1594487715",
-    "isbn13": "9781594487712",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_connect-the-dots",
-    "title": "Connect The Dots",
-    "authors": [
-      "Rashmi Bansal"
-    ],
-    "year": 2010,
-    "pages": 305,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "8142431",
-    "isbn": "8190453025",
-    "isbn13": "9788190453028",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_abachurina-post-office",
-    "title": "ಅಬಚೂರಿನ ಪೋಸ್ಟಾಫೀಸು | Abachurina Post Office",
-    "authors": [
-      "K.P. Poornachandra Tejaswi"
-    ],
-    "year": 1973,
-    "pages": 123,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "124861",
-    "isbn": null,
-    "isbn13": null,
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_alibaba-the-house-that-jack-ma-built",
-    "title": "Alibaba: The House That Jack Ma Built",
-    "authors": [
-      "Duncan Clark"
-    ],
-    "year": 2016,
-    "pages": 304,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "25817524",
-    "isbn": "0062413406",
-    "isbn13": "9780062413406",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_stay-hungry-stay-foolish",
-    "title": "Stay Hungry Stay Foolish",
-    "authors": [
-      "Rashmi Bansal"
-    ],
-    "year": 2008,
-    "pages": 324,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "4765642",
-    "isbn": "9381626715",
-    "isbn13": "9789381626719",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_rahul-dravid-timeless-steel",
-    "title": "Rahul Dravid: Timeless Steel",
-    "authors": [
-      "ESPN Cricinfo"
-    ],
-    "year": 2012,
-    "pages": 256,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "15744582",
-    "isbn": "9381810788",
-    "isbn13": "9789381810781",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-elephant-tree",
-    "title": "The Elephant Tree",
-    "authors": [
-      "R.D. Ronald"
-    ],
-    "year": 2010,
-    "pages": 252,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "9293020",
-    "isbn": "1848764561",
-    "isbn13": "9781848764569",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_one-night-at-the-call-center",
-    "title": "One Night at the Call Center",
-    "authors": [
-      "Chetan Bhagat"
-    ],
-    "year": 2005,
-    "pages": 320,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "105578",
-    "isbn": "0345498321",
-    "isbn13": "9780345498328",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_five-point-someone-what-not-to-do-at-iit",
-    "title": "Five Point Someone: What Not to Do at IIT",
-    "authors": [
-      "Chetan Bhagat"
-    ],
-    "year": 2004,
-    "pages": 267,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "105576",
-    "isbn": "8129104598",
-    "isbn13": "9788129104595",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_2-states-the-story-of-my-marriage",
-    "title": "2 States: The Story of My Marriage",
-    "authors": [
-      "Chetan Bhagat"
-    ],
-    "year": 2009,
-    "pages": 269,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "6969361",
-    "isbn": "8129115301",
-    "isbn13": "9788129115300",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_the-3-mistakes-of-my-life",
-    "title": "The 3 Mistakes of My Life",
-    "authors": [
-      "Chetan Bhagat"
-    ],
-    "year": 2008,
-    "pages": 258,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "3320520",
-    "isbn": "8129113724",
-    "isbn13": "9788129113726",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_a-short-history-of-nearly-everything",
-    "title": "A Short History of Nearly Everything",
-    "authors": [
-      "Bill Bryson"
-    ],
-    "year": 2003,
-    "pages": 544,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "21",
-    "isbn": "076790818X",
-    "isbn13": "9780767908184",
-    "rating": 5,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_1984",
-    "title": "1984",
-    "authors": [
-      "George Orwell"
-    ],
-    "year": 1949,
-    "pages": 328,
-    "genres": [
-      "read"
-    ],
-    "goodreadsId": "5470",
-    "isbn": null,
-    "isbn13": null,
-    "dateRead": "2016-01-01",
-    "rating": 3,
-    "shelves": [
-      "read"
-    ]
-  },
-  {
-    "id": "bk_cosmos",
-    "title": "Cosmos",
-    "authors": [
-      "Carl Sagan"
-    ],
-    "year": 1980,
-    "pages": 384,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "55030",
-    "isbn": "0375508325",
-    "isbn13": "9780375508325",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_what-if-serious-scientific-answers-to-absurd-hypothetical-questions",
-    "title": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
-    "authors": [
-      "Randall Munroe"
-    ],
-    "year": 2014,
-    "pages": 303,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "21413662",
-    "isbn": "0544272994",
-    "isbn13": "9780544272996",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_a-walk-in-the-woods-rediscovering-america-on-the-appalachian-trail",
-    "title": "A Walk in the Woods: Rediscovering America on the Appalachian Trail",
-    "authors": [
-      "Bill Bryson"
-    ],
-    "year": 1998,
-    "pages": 397,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "9791",
-    "isbn": "0307279464",
-    "isbn13": "9780307279460",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_lord-of-the-flies",
-    "title": "Lord of the Flies",
-    "authors": [
-      "William Golding"
-    ],
-    "year": 1954,
-    "pages": 182,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "7624",
-    "isbn": "0140283331",
-    "isbn13": "9780140283334",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_gone-with-the-wind",
-    "title": "Gone with the Wind",
-    "authors": [
-      "Margaret Mitchell"
-    ],
-    "year": 1936,
-    "pages": 1037,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "18405",
-    "isbn": "0446365386",
-    "isbn13": "9780446365383",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_les-mis-rables",
-    "title": "Les Misérables",
-    "authors": [
-      "Victor Hugo",
-      "Isabel Florence Hapgood",
-      "Charles E. Wilbour",
-      "Norman MacAfee",
-      "Lee Fahnestock"
-    ],
-    "year": 1862,
-    "pages": 1463,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "24280",
-    "isbn": "0451525264",
-    "isbn13": "9780451525260",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
-  },
-  {
-    "id": "bk_the-catcher-in-the-rye",
-    "title": "The Catcher in the Rye",
-    "authors": [
-      "J.D. Salinger"
-    ],
-    "year": 1951,
-    "pages": 277,
-    "genres": [
-      "to-read"
-    ],
-    "goodreadsId": "5107",
-    "isbn": "0316769177",
-    "isbn13": "9780316769174",
-    "rating": 0,
-    "shelves": [
-      "to-read"
-    ]
   },
   {
     "id": "bk_the-beginning-of-infinity",
@@ -5924,10 +22,10 @@
     "newlyAdded": true
   },
   {
-    "id": "bk_walden-prometheus-classics-best-navigation-active-toc_2",
-    "title": "WALDEN (PROMETHEUS CLASSICS)(BEST NAVIGATION, ACTIVE TOC)",
+    "id": "bk_rework",
+    "title": "REWORK",
     "authors": [
-      "Henry David Thoreau, Prometheus Classics"
+      "Jason Fried, David Heinemeier Hansson"
     ],
     "year": null,
     "pages": null,
@@ -5935,7 +33,18 @@
     "newlyAdded": true
   },
   {
-    "id": "bk_the-pshychology-of-money_2",
+    "id": "bk_walden",
+    "title": "WALDEN",
+    "authors": [
+      "Henry David Thoreau"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-pshychology-of-money",
     "title": "The Pshychology of Money",
     "authors": [
       "Morgan Housel"
@@ -5957,10 +66,30 @@
     "newlyAdded": true
   },
   {
+    "id": "bk_how-to-skillfully-agree-with-people",
+    "title": "How to Skillfully Agree with People?",
+    "authors": [],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
     "id": "bk_guns-germs-steel",
     "title": "Guns Germs & Steel",
     "authors": [
       "Jared Diamond"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-dark-forest-the-three-body-problem-book-2",
+    "title": "THE DARK FOREST (THE THREE-BODY PROBLEM BOOK 2)",
+    "authors": [
+      "Cixin Liu, Joel Martinsen"
     ],
     "year": null,
     "pages": null,
@@ -5979,7 +108,40 @@
     "newlyAdded": true
   },
   {
-    "id": "bk_the-4-hour-workweek_2",
+    "id": "bk_siddhartha",
+    "title": "SIDDHARTHA",
+    "authors": [
+      "Hermann Hesse"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_59-seconds-think-a-little-change-a-lot",
+    "title": "59 Seconds: Think a Little, Change a Lot",
+    "authors": [
+      "Richard Wiseman"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_cloud-atlas",
+    "title": "Cloud Atlas",
+    "authors": [
+      "David Mitchell"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-4-hour-workweek",
     "title": "The 4-Hour Workweek",
     "authors": [
       "Tim Ferriss"
@@ -5990,8 +152,8 @@
     "newlyAdded": true
   },
   {
-    "id": "bk_mindset-updated-edition-changing-the-way-you-think-to-fulfil-your-potential_2",
-    "title": "MINDSET - UPDATED EDITION: CHANGING THE WAY YOU THINK TO FULFIL YOUR POTENTIAL",
+    "id": "bk_mindset",
+    "title": "MINDSET",
     "authors": [
       "Carol Dweck"
     ],
@@ -6001,7 +163,18 @@
     "newlyAdded": true
   },
   {
-    "id": "bk_the-great-gatsby_2",
+    "id": "bk_the-war-of-art",
+    "title": "THE WAR OF ART",
+    "authors": [
+      "Steven Pressfield, Shawn Coyne"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-great-gatsby",
     "title": "The Great Gatsby",
     "authors": [
       "Scott Fitzgerald"
@@ -6012,8 +185,8 @@
     "newlyAdded": true
   },
   {
-    "id": "bk_the-overstory-the-million-copy-global-bestseller-and-winner-of-the-pulitzer-prize-for-fiction_2",
-    "title": "THE OVERSTORY: THE MILLION-COPY GLOBAL BESTSELLER AND WINNER OF THE PULITZER PRIZE FOR FICTION",
+    "id": "bk_the-overstory",
+    "title": "THE OVERSTORY",
     "authors": [
       "Richard Powers"
     ],
@@ -6023,10 +196,54 @@
     "newlyAdded": true
   },
   {
-    "id": "bk_twelve-years-a-slave-amazonclassics-edition_2",
-    "title": "TWELVE YEARS A SLAVE (AMAZONCLASSICS EDITION)",
+    "id": "bk_sapiens-a-brief-history-of-humankind",
+    "title": "Sapiens: A Brief History of Humankind",
+    "authors": [
+      "Yuval Noah Harari"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_for-one-more-day",
+    "title": "For One More Day",
+    "authors": [
+      "Mitch Albom"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-almanack-of-naval-ravikant-a-guide-to-wealth-and-happiness",
+    "title": "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness",
+    "authors": [
+      "Eric Jorgenson"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_twelve-years-a-slave",
+    "title": "TWELVE YEARS A SLAVE",
     "authors": [
       "Solomon Northup"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_death-s-end-the-three-body-problem-book-3",
+    "title": "DEATH'S END (THE THREE-BODY PROBLEM BOOK 3)",
+    "authors": [
+      "Cixin Liu, Ken Liu"
     ],
     "year": null,
     "pages": null,
@@ -6045,6 +262,50 @@
     "newlyAdded": true
   },
   {
+    "id": "bk_man-s-search-for-meaning",
+    "title": "Man's Search for Meaning",
+    "authors": [
+      "Viktor E Frankl"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_tejo-tungabhadra",
+    "title": "Tejo Tungabhadra",
+    "authors": [
+      "Vasudhendra"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-selfish-gene",
+    "title": "The Selfish Gene",
+    "authors": [
+      "Richard Dawkins"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-richest-man-in-babylon",
+    "title": "THE RICHEST MAN IN BABYLON",
+    "authors": [
+      "George S Classon"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
     "id": "bk_inner-engineering",
     "title": "Inner Engineering",
     "authors": [
@@ -6056,8 +317,19 @@
     "newlyAdded": true
   },
   {
-    "id": "bk_fahrenheit-451-the-gripping-and-inspiring-classic-of-dystopian-science-fiction_2",
-    "title": "FAHRENHEIT 451: THE GRIPPING AND INSPIRING CLASSIC OF DYSTOPIAN SCIENCE FICTION",
+    "id": "bk_the-headspace-guide-to-meditation-and-mindfulness",
+    "title": "The Headspace Guide to Meditation and Mindfulness",
+    "authors": [
+      "Andy Puddicombe"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_fahrenheit-451",
+    "title": "FAHRENHEIT 451",
     "authors": [
       "Ray Bradbury"
     ],
@@ -6089,8 +361,8 @@
     "newlyAdded": true
   },
   {
-    "id": "bk_excellent-advice-for-living-wisdom-i-wish-i-d-known-earlier_2",
-    "title": "EXCELLENT ADVICE FOR LIVING: WISDOM I WISH I'D KNOWN EARLIER",
+    "id": "bk_excellent-advice-for-living",
+    "title": "EXCELLENT ADVICE FOR LIVING",
     "authors": [
       "Kevin Kelly"
     ],
@@ -6100,8 +372,8 @@
     "newlyAdded": true
   },
   {
-    "id": "bk_educated-the-international-bestselling-memoir_2",
-    "title": "EDUCATED: THE INTERNATIONAL BESTSELLING MEMOIR",
+    "id": "bk_educated",
+    "title": "EDUCATED",
     "authors": [
       "Tara Westover"
     ],
@@ -6111,7 +383,7 @@
     "newlyAdded": true
   },
   {
-    "id": "bk_think-on-these-things_2",
+    "id": "bk_think-on-these-things",
     "title": "Think on These Things",
     "authors": [
       "Jiddu Krishnamurty"
@@ -6122,8 +394,30 @@
     "newlyAdded": true
   },
   {
-    "id": "bk_a-gentleman-in-moscow-the-worldwide-bestseller_2",
-    "title": "A GENTLEMAN IN MOSCOW: THE WORLDWIDE BESTSELLER",
+    "id": "bk_all-the-light-we-cannot-see",
+    "title": "All The Light We Cannot See",
+    "authors": [
+      "Anthony Doerr"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-art-of-thinking-clearly",
+    "title": "The Art of Thinking Clearly",
+    "authors": [
+      "Rolf Dobelli"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_a-gentleman-in-moscow",
+    "title": "A GENTLEMAN IN MOSCOW",
     "authors": [
       "Amor Towles"
     ],
@@ -6133,8 +427,8 @@
     "newlyAdded": true
   },
   {
-    "id": "bk_atomic-habits-the-life-changing-million-copy-bestseller_2",
-    "title": "ATOMIC HABITS: THE LIFE-CHANGING MILLION COPY BESTSELLER",
+    "id": "bk_atomic-habits",
+    "title": "ATOMIC HABITS",
     "authors": [
       "James Clear"
     ],
@@ -6144,8 +438,8 @@
     "newlyAdded": true
   },
   {
-    "id": "bk_range-how-generalists-triumph-in-a-specialized-world_2",
-    "title": "RANGE: HOW GENERALISTS TRIUMPH IN A SPECIALIZED WORLD",
+    "id": "bk_range",
+    "title": "RANGE",
     "authors": [
       "(Journalist) David Epstein"
     ],
@@ -6175,10 +469,32 @@
     "newlyAdded": true
   },
   {
+    "id": "bk_a-thousand-splendid-suns",
+    "title": "A Thousand Splendid Suns",
+    "authors": [
+      "Khaled Hosseini"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
     "id": "bk_eat-that-frog",
     "title": "Eat that Frog",
     "authors": [
       "Brian Tracy"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_when-breath-becomes-air",
+    "title": "When Breath Becomes Air",
+    "authors": [
+      "Paul Kalanithi"
     ],
     "year": null,
     "pages": null,
@@ -6197,9 +513,31 @@
     "newlyAdded": true
   },
   {
-    "id": "bk_the-prophet_2",
+    "id": "bk_the-prophet",
     "title": "The Prophet",
     "authors": [],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_antifragile-things-that-gain-from-disorder",
+    "title": "ANTIFRAGILE: THINGS THAT GAIN FROM DISORDER",
+    "authors": [
+      "Nassim Nicholas Taleb"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_crime-and-punishment",
+    "title": "CRIME AND PUNISHMENT",
+    "authors": [
+      "Fyodor Dostoyevsky"
+    ],
     "year": null,
     "pages": null,
     "genres": [],
@@ -6239,10 +577,10 @@
     "newlyAdded": true
   },
   {
-    "id": "bk_cloud-atlas-hachette-essentials_2",
-    "title": "CLOUD ATLAS: HACHETTE ESSENTIALS",
+    "id": "bk_i-will-teach-you-to-be-rich",
+    "title": "I WILL TEACH YOU TO BE RICH",
     "authors": [
-      "David Mitchell"
+      "Ramit Sethi"
     ],
     "year": null,
     "pages": null,
@@ -6259,10 +597,65 @@
     "newlyAdded": true
   },
   {
+    "id": "bk_the-little-prince-df-children-s-classics-book-4",
+    "title": "The Little Prince (DF Children's Classics Book 4)",
+    "authors": [
+      "Antoine de Saint-Exupéry"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
     "id": "bk_one-minute-manager",
     "title": "One Minute Manager",
     "authors": [
       "Ken Blanchard and Spencer Johnson"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_to-kill-a-mockingbird",
+    "title": "TO KILL A MOCKINGBIRD",
+    "authors": [
+      "Harper Lee"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_why-we-sleep",
+    "title": "WHY WE SLEEP",
+    "authors": [
+      "Matthew Walker"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_as-a-man-thinketh",
+    "title": "As a Man Thinketh",
+    "authors": [
+      "James Allen"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_steve-jobs",
+    "title": "Steve Jobs",
+    "authors": [
+      "Walter Isaacson"
     ],
     "year": null,
     "pages": null,
@@ -6281,6 +674,39 @@
     "newlyAdded": true
   },
   {
+    "id": "bk_chanakya-s-chant",
+    "title": "Chanakya's Chant",
+    "authors": [
+      "Ashwin Sanghi"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-defining-decade",
+    "title": "THE DEFINING DECADE",
+    "authors": [
+      "Meg Jay"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_how-to-win-friends-and-influence-people",
+    "title": "HOW TO WIN FRIENDS AND INFLUENCE PEOPLE",
+    "authors": [
+      "Dale Carnegie"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
     "id": "bk_deep-work",
     "title": "Deep Work",
     "authors": [
@@ -6292,10 +718,32 @@
     "newlyAdded": true
   },
   {
-    "id": "bk__2",
+    "id": "bk_",
     "title": "ಸಂಸ್ಕೃತಿ",
     "authors": [
       "DVG"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-power-of-now-a-guide-to-spiritual-enlightenment",
+    "title": "THE POWER OF NOW: A GUIDE TO SPIRITUAL ENLIGHTENMENT",
+    "authors": [
+      "Eckhart Tolle"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_astrophysics-for-people-in-a-hurry",
+    "title": "Astrophysics for people in a hurry",
+    "authors": [
+      "Neil deGrasse Tyson"
     ],
     "year": null,
     "pages": null,
@@ -6325,6 +773,17 @@
     "newlyAdded": true
   },
   {
+    "id": "bk_long-walk-to-freedom",
+    "title": "Long Walk to Freedom",
+    "authors": [
+      "Nelson Mandela"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
     "id": "bk_surely-you-re-joking-mr-feynman",
     "title": "Surely You're Joking Mr Feynman",
     "authors": [
@@ -6336,7 +795,29 @@
     "newlyAdded": true
   },
   {
-    "id": "bk__3",
+    "id": "bk_the-three-body-problem",
+    "title": "THE THREE-BODY PROBLEM",
+    "authors": [
+      "Cixin Liu, Ken Liu"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-millionaire-fastlane",
+    "title": "THE MILLIONAIRE FASTLANE",
+    "authors": [
+      "MJ DeMarco"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk__2",
     "title": "ಮಲೆನಾಡಿನ ಚಿತ್ರಗಳು",
     "authors": [
       "Shivaram Karanth"
@@ -6358,10 +839,32 @@
     "newlyAdded": true
   },
   {
-    "id": "bk_rich-dad-poor-dad_2",
+    "id": "bk_rich-dad-poor-dad",
     "title": "Rich Dad Poor Dad",
     "authors": [
       "Robert Kiyosaki and Sharon Lechter"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_flow-the-psychology-of-happiness",
+    "title": "FLOW: THE PSYCHOLOGY OF HAPPINESS",
+    "authors": [
+      "Mihaly Csikszentmihalyi"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_ikigai",
+    "title": "Ikigai",
+    "authors": [
+      "Hector Garcia"
     ],
     "year": null,
     "pages": null,
@@ -6391,6 +894,17 @@
     "newlyAdded": true
   },
   {
+    "id": "bk_don-t-lose-your-mind-lose-your-weight",
+    "title": "DON'T LOSE YOUR MIND, LOSE YOUR WEIGHT",
+    "authors": [
+      "Rujuta Diwekar"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
     "id": "bk_elon-musk",
     "title": "Elon Musk",
     "authors": [
@@ -6402,7 +916,7 @@
     "newlyAdded": true
   },
   {
-    "id": "bk_the-lessons-of-history_2",
+    "id": "bk_the-lessons-of-history",
     "title": "The Lessons of History",
     "authors": [
       "Will and Ariel Durant"
@@ -6413,7 +927,7 @@
     "newlyAdded": true
   },
   {
-    "id": "bk_the-power-of-your-subconscious-mind_2",
+    "id": "bk_the-power-of-your-subconscious-mind",
     "title": "The Power of your Subconscious Mind",
     "authors": [
       "Dr. Joseph Murphy"
