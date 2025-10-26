@@ -1,0 +1,69 @@
+:root { color-scheme: light dark; --brand-start: #20c997; --brand-end: #0d6efd; }
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; line-height: 1.6; background: linear-gradient(180deg, #ffffff, #fbfdff 40%, #fffafc); }
+.site-header { padding: 1rem; border-bottom: 1px solid #ddd; }
+h1 { margin: 0 0 0.5rem 0; font-size: 1.5rem; }
+.tabs { display: flex; gap: 0.5rem; }
+.tab { cursor: pointer; }
+main { max-width: 920px; margin: 0 auto; padding: 0 1rem 2rem; }
+.tab-panel { padding: 0.5rem 0; }
+.quote-text { font-size: 1.15rem; margin: 0.75rem 0; }
+.quote-meta { color: #666; font-size: 0.95rem; }
+.browse-controls { display: flex; gap: 0.5rem; margin: 0.5rem 0; }
+button { font: inherit; padding: 0.4rem 0.75rem; border-radius: 0.4rem; border: 1px solid #bbb; background: #fff; cursor: pointer; }
+button:hover { background: #f3f3f3; }
+.filters { display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; margin: 0.5rem 0; }
+.filters label { display: flex; gap: 0.5rem; align-items: center; }
+select, input[type="search"] { padding: 0.35rem 0.5rem; border: 1px solid #bbb; border-radius: 0.35rem; }
+.small-muted { color: #666; font-size: 0.9rem; margin-top: 0.25rem; }
+.insight-block { margin: 1rem 0; }
+.insight-block h3 { margin-bottom: 0.35rem; }
+table { border-collapse: collapse; margin-top: 0.5rem; }
+td, th { border: 1px solid #ddd; padding: 0.3rem 0.5rem; }
+
+/* Charts */
+.chart-box { position: relative; height: 220px; }
+.chart-box.chart-sm { height: 160px; }
+.chart-box canvas { width: 100% !important; height: 100% !important; display: block; }
+
+/* Hero daily quote */
+.hero {
+  position: relative;
+  min-height: calc(100vh - 90px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 1rem;
+  margin: 0 -1rem 1rem;
+  /* Improved layered gradient: subtle radial highlight over brand sweep */
+  background:
+    radial-gradient(1200px 600px at 15% 20%, rgba(255,255,255,0.35), rgba(255,255,255,0) 60%),
+    linear-gradient(120deg, var(--brand-start) 0%, #4bd2c1 45%, var(--brand-end) 100%);
+  color: #06283d;
+}
+.hero-inner { max-width: 900px; text-align: center; }
+.hero-quote { font-family: Literata, Georgia, serif; font-size: clamp(1.9rem, 4vw, 3rem); line-height: 1.2; font-weight: 700; }
+.hero-meta { margin-top: 0.75rem; color: #11344f; font-size: 1rem; }
+
+/* Refresh button bottom-center, subtle */
+.refresh-btn {
+  position: absolute;
+  left: 50%;
+  bottom: 16px;
+  transform: translateX(-50%);
+  background: rgba(255, 255, 255, 0.9);
+  border-color: rgba(0,0,0,0.05);
+  color: #0d6efd;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+.refresh-btn:hover { background: #fff; }
+
+/* Quote card */
+.quote-card { background: linear-gradient(180deg, #fff, #fafafa); border: 1px solid #eee; border-radius: 0.6rem; }
+
+/* Mobile tweaks */
+@media (max-width: 640px) {
+  .site-header { padding: 0.8rem; }
+  .tab { padding: 0.4rem 0.6rem; }
+  .filters { gap: 0.6rem; }
+}

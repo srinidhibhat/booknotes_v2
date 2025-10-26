@@ -1,0 +1,74 @@
+RANGE: HOW GENERALISTS TRIUMPH IN A SPECIALIZED WORLD
+by (Journalist) David Epstein
+- Kasparov did figure out a way to beat the computer: by outsourcing tactics, the part of human expertise that is most easily replaced, the part that he and the Polgar prodigies spent years honing.
+- Our greatest strength is the exact opposite of narrow specialization. It is the ability to integrate broadly.
+- The world is not golf, and most of it isn’t even tennis. As Robin Hogarth put it, much of the world is “Martian tennis.” You can see the players on a court with balls and rackets, but nobody has shared the rules. It is up to you to derive them, and they are subject to change without notice.
+- In the wicked world, with ill-defined challenges and few rigid rules, range can be a life hack.
+- “Everyone is so busy doing research they don’t have time to stop and think about the way they’re doing it.”
+- After a plague in 1630 wiped out one-third of the population, Venetians found themselves in an especially “penitential mood,” as one historian put it. The musicians suddenly became more important.
+- “There are eight million places on the guitar to play the same notes,” he said. “I was just trying to find solutions to problems, and you start to learn the fingerboard.”
+- “It’s easier for a jazz musician to learn to play classical literature than for a classical player to learn how to play jazz,” he said. “The jazz musician is a creative artist, the classical musician is a re-creative artist.”
+- Breadth of training predicts breadth of transfer. That is, the more contexts in which something is learned, the more the learner creates abstract models, and the less they rely on any particular example. Learners become better at applying their knowledge to a situation they’ve never seen before, which is the essence of creativity.
+- Creativity may be difficult to nurture, but it is easy to thwart.
+- “I could show somebody in two minutes what would take them years of screwing around on the fingerboard like I did to find it. You don’t know what’s right or what’s wrong. You don’t have that in your head. You’re just trying to find a solution to problems, and after fifty lifetimes, it starts to come together for you. It’s slow,” he told me, “but at the same time, there’s something to learning that way.”
+- Socrates was apparently on to something when he forced pupils to generate answers rather than bestowing them. It requires the learner to intentionally sacrifice current performance for future benefit.
+- Tolerating big mistakes can create the best learning opportunities.
+- “Like life,” Kornell and team wrote, “retrieval is all about the journey.”
+- For a given amount of material, learning is most efficient in the long run when it is really inefficient in the short run. If you are doing too well when you test yourself, the simple antidote is to wait longer before practicing the same material again, so that the test will be more difficult when you do. Frustration is not a sign you are not learning, but ease is.
+- Unquestionably, students today have mastery of basic skills that is superior to students of the past. School has not gotten worse. The goals of education have just become loftier.
+- Whether the task is mental or physical, interleaving improves the ability to match the right strategy to a problem.
+- Kind learning environment experts choose a strategy and then evaluate; experts in less repetitive environments evaluate and then choose.
+- Desirable difficulties like testing and spacing make knowledge stick. It becomes durable. Desirable difficulties like making connections and interleaving make knowledge flexible, useful for problems that never appeared in training. All slow down learning and make performance suffer, in the short term.
+- The motor-skill equivalent would be teaching a kid to walk a little early. Everyone is going to learn it anyway, and while it might be temporarily impressive, there is no evidence that rushing it matters.
+- Teaching kids to read a little early is not a lasting advantage. Teaching them how to hunt for and connect contextual clues to understand what they read can be.
+- Light “makes its nest in the sun,” Kepler wrote, and yet appears not to exist between its source and an object it lights up. If light can do it, so could some other physical entity. He began using the words “power” or “force” instead of “soul” and “spirit.” Kepler’s “moving power” was a precursor to gravity, an astounding mental leap because it came before science embraced the notion of physical forces that act throughout the universe.
+- “If you need a large force to accomplish some purpose, but are prevented from applying such a force directly, many smaller forces applied simultaneously from different directions may work just as well.”
+- In a wicked world, relying upon experience from a single domain is not only limiting, it can be disastrous.
+- Netflix came to a similar conclusion for improving its recommendation algorithm. Decoding movies’ traits to figure out what you like was very complex and less accurate than simply analogizing you to many other customers with similar viewing histories. Instead of predicting what you might like, they examine who you are like, and the complexity is captured therein.
+- Evaluating an array of options before letting intuition reign is a trick for the wicked world.
+- Successful problem solvers are more able to determine the deep structure of a problem before they proceed to match a strategy to it.
+- “What matters to me,” Kepler wrote, “is not merely to impart to the reader what I have to say, but above all to convey to him the reasons, subterfuges, and lucky hazards which led me to my discoveries.”
+- In the face of the unexpected, the range of available analogies helped determine who learned something new.
+- He likened himself to a caged bird in spring who feels deeply that it is time for him to do something important but cannot recall what it is, and so “bangs his head against the bars of his cage. And then the cage stays there and the bird is mad with suffering.
+- Learning stuff was less important than learning about oneself. Exploration is not just a whimsical luxury of education; it is a central benefit.
+- If we treated careers more like dating, nobody would settle down so quickly.
+- Winston Churchill’s “never give in, never, never, never, never” is an oft-quoted trope. The end of the sentence is always left out: “except to convictions of honor and good sense.”
+- Switchers are winners. It seems to fly in the face of hoary adages about quitting, and of far newer concepts in modern psychology.
+- In the wider world of work, finding a goal with high match quality in the first place is the greater challenge, and persistence for the sake of persistence can get in the way.
+- “I was unaware that I was being prepared,” she told me. “I did not intend to become a leader, I just learned by doing what was needed at the time.”
+- “You have to carry a big basket to bring something home.” She repeats that phrase today, to mean that a mind kept wide open will take something from every new experience.
+- Career goals that once felt safe and certain can appear ludicrous, to use Darwin’s adjective, when examined in the light of more self-knowledge. Our work preferences and our life preferences do not stay the same, because we do not stay the same.
+- From teenagers to senior citizens, we recognize that our desires and motivations sure changed a lot in the past (see: your old hairstyle), but believe they will not change much in the future.
+- The most momentous personality changes occur between age eighteen and one’s late twenties, so specializing early is a task of predicting match quality for a person who does not yet exist.
+- Because personality changes more than we expect with time, experience, and different contexts, we are ill-equipped to make ironclad long-term goals when our past consists of little time, few experiences, and a narrow range of contexts. Each “story of me” continues to evolve. We should all heed the wisdom of Alice, who, when asked by the Gryphon in Wonderland to share her story, decided she had to start with the beginning of her adventure that very morning. “It’s no use going back to yesterday,” she said, “because I was a different person then.” Alice captured a grain of truth, one that has profound consequences for the best way to maximize match quality.
+- We learn who we are only by living, and not before.
+- We learn who we are in practice, not in theory.
+- Rather than expecting an ironclad a priori answer to “Who do I really want to become?,” their work indicated that it is better to be a scientist of yourself, asking smaller questions that can actually be tested—“Which among my various possible selves should I start to explore now? How can I do that?” Be a flirt with your possible selves.* Rather than a grand plan, find experiments that can be undertaken quickly. “ Test-and-learn,” Ibarra told me, “not plan-and-implement.”
+- “It gave me this template for seeing my career. Virtually every good thing in my life I can trace back to a misfortune, so my feeling is you don’t know what’s good and what’s bad when things happen. You do not know. You have to wait to find out.”
+- “Big innovation most often happens when an outsider who may be far away from the surface of the problem reframes the problem in a way that unlocks the solution.”
+- “Knowledge is a double-edged sword. It allows you to do some things, but it also makes you blind to other things that you could do.”
+- The more information specialists create, the more opportunity exists for curious dilettantes to contribute by merging strands of widely available but disparate information—undiscovered public knowledge,
+- The larger and more easily accessible the library of human knowledge, the more chances for inquisitive patrons to make connections at the cutting edge.
+- “When information became more widely disseminated,” Ouderkirk told me, “it became a lot easier to be broader than a specialist, to start combining things in new ways.”
+- She is a “T-shaped person,” she said, one who has breadth, compared to an “I-shaped person,” who only goes deep, an analog to Dyson’s birds and frogs. “T-people like myself can happily go to the I-people with questions to create the trunk for the T,” she told me. “My inclination is to attack a problem by building a narrative. I figure out the fundamental questions to ask, and if you ask those questions of the people who actually do know their stuff, you are still exactly where you would be if you had all this other knowledge inherently.
+- “individuals are capable of more creative integration of diverse experiences than teams are.”
+- In kind environments, where the goal is to re-create prior performance with as little deviation as possible, teams of specialists work superbly. Surgical teams work faster and make fewer mistakes as they repeat specific procedures, and specialized surgeons get better outcomes even independent of repetitions.
+- Facing uncertain environments and wicked problems, breadth of experience is invaluable. Facing kind problems, narrow specialization can be remarkably efficient. The problem is that we often expect the hyperspecialist, because of their expertise in a narrow area, to magically be able to extend their skill to wicked problems. The results can be disastrous.
+- Often if you’re too much of an insider, it’s hard to get good perspective.”
+- Reason without numbers was not accepted. In the face of an unfamiliar challenge, NASA managers failed to drop their familiar tools.
+- “Dropping one’s tools is a proxy for unlearning, for adaptation, for flexibility,” Weick wrote. “It is the very unwillingness of people to drop their tools that turns some of these dramas into tragedies.”
+- “When you don’t have any data,” Feynman said, “you have to use reason.”
+- When all you have is a volcanologist, I learned, every extinction looks like a volcano.
+- Seeing small pieces of a larger jigsaw puzzle in isolation, no matter how hi-def the picture, is insufficient to grapple with humanity’s greatest challenges. We have long known the laws of thermodynamics, but struggle to predict the spread of a forest fire. We know how cells work, but can’t predict the poetry that will be written by a human made up of them. The frog’s-eye view of individual parts is not enough. A healthy ecosystem needs biodiversity.
+- A 2016 analysis of ten thousand researchers’ careers determined that there is no standard relationship between experience and contribution; an individual’s most impactful paper was as likely to be their first as their second, their tenth, or their last.
+- New collaborations allow creators “to take ideas that are conventions in one area and bring them into a new area, where they’re suddenly seen as invention,” said sociologist Brian Uzzi, Amaral’s collaborator. Human creativity, he said, is basically an “import/ export business of ideas.”
+- Bring new skills to an old problem, or a new problem to old skills.
+- Work that builds bridges between disparate pieces of knowledge is less likely to be funded, less likely to appear in famous journals, more likely to be ignored upon publication, and then more likely in the long run to be a smash hit in the library of human knowledge.
+- “I always advise my people to read outside your field, everyday something. And most people say, ‘Well, I don’t have time to read outside my field.’ I say, ‘No, you do have time, it’s far more important.’ Your world becomes a bigger world, and maybe there’s a moment in which you make connections.”
+- At its core, all hyperspecialization is a well-meaning drive for efficiency—the most efficient way to develop a sports skill, assemble a product, learn to play an instrument, or work on a new technology. But inefficiency needs cultivating too.
+- Compare yourself to yourself yesterday, not to younger people who aren’t you. Everyone progresses at a different rate, so don’t let anyone else make you feel behind. You probably don’t even know where exactly you’re going, so feeling behind doesn’t help.
+- “It is an experiment, as all life is an experiment.”
+- “A jack of all trades is a master of none, but oftentimes better than a master of one.”
+- Rather than hiding diverse experience, explain it.
+- “For me, it’s all about trying new things,” he said. “If you’re going to write, you want to read a lot before you write, without any purpose.”
+- Of course, the purpose is to find something that stimulates you but that you couldn’t have known to look for—an interest you didn’t know you had.

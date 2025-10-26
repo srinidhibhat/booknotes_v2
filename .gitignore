@@ -1,0 +1,39 @@
+# General
+.DS_Store
+Thumbs.db
+desktop.ini
+.env
+.env.*
+.venv/
+venv/
+.python-version
+.coverage
+coverage/
+.cache/
+.pytest_cache/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+build/
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# Project-specific junk
+# Windows alternate data stream sidecars occasionally appear as separate files
+*Zone.Identifier
+*Zone.Identifier
+
+# Goodreads export raw dump (user-provided data)
+data/goodreads/export.csv
+
+# Raw CSV highlights (prefer converted .txt)
+data/raw/*.csv
+
+# Git internals (normally not needed, but kept explicit per request)
+.git/
+
