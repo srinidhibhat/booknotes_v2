@@ -42,8 +42,10 @@ td, th { border: 1px solid #ddd; padding: 0.3rem 0.5rem; }
   color: #06283d;
 }
 .hero-inner { max-width: 900px; text-align: center; }
-.hero-quote { font-family: Literata, Georgia, serif; font-size: clamp(1.9rem, 4vw, 3rem); line-height: 1.2; font-weight: 700; }
+.hero-quote { font-family: Literata, Georgia, serif; font-size: clamp(1.6rem, 4vw, 3rem); line-height: 1.2; font-weight: 700; }
 .hero-meta { margin-top: 0.75rem; color: #11344f; font-size: 1rem; }
+.hero-meta .hero-title { font-weight: 600; }
+.hero-meta .hero-author { opacity: 0.9; }
 
 /* Refresh button bottom-center, subtle */
 .refresh-btn {

@@ -36,17 +36,9 @@
         <div class="browse" id="browse">
           <h2 class="h4 mt-4">Browse Quotes</h2>
           <div class="filters row g-3 align-items-center">
-            <div class="col-12 col-md-5">
+            <div class="col-12">
               <label class="form-label mb-1" for="filter-book">Book</label>
               <select id="filter-book" class="form-select"></select>
-            </div>
-            <div class="col-12 col-md-5">
-              <label class="form-label mb-1" for="filter-search">Search</label>
-              <input id="filter-search" class="form-control" type="search" placeholder="text or author" />
-            </div>
-            <div class="col-12 col-md-2 d-flex gap-2 justify-content-md-end">
-              <button id="prev-quote" type="button" class="btn btn-secondary">Previous</button>
-              <button id="next-quote" type="button" class="btn btn-primary">Next</button>
             </div>
           </div>
           <!-- Single-quote card (used when viewing All Books) -->
@@ -58,10 +50,9 @@
           </div>
           <!-- Paginated list (used when a specific book is selected) -->
           <div id="browse-list" class="mt-3" hidden></div>
-          <div id="browse-pager" class="d-flex align-items-center gap-2 mt-2" hidden>
-            <button id="prev-page" type="button" class="btn btn-sm btn-outline-secondary">Prev Page</button>
-            <div id="page-indicator" class="small text-muted"></div>
-            <button id="next-page" type="button" class="btn btn-sm btn-outline-primary">Next Page</button>
+          <div id="browse-controls" class="d-flex gap-2 justify-content-center mt-3">
+            <button id="prev-quote" type="button" class="btn btn-secondary">Prev</button>
+            <button id="next-quote" type="button" class="btn btn-primary">Next</button>
           </div>
           <div id="browse-count" class="small-muted mt-1"></div>
         </div>

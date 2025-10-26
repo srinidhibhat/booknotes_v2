@@ -10,7 +10,6 @@
   let browseIndex = 0
   let filteredQuotes = []
   let currentBookFilter = 'all'
-  let currentSearch = ''
   let pageIndex = 0
   const pageSize = 10
 
@@ -83,18 +82,60 @@
     const title = toTitleCase(titleRaw)
     const authors = Data.authorsList(byBook).join(', ')
     const loc = q.location?.page || q.location?.raw || ''
-    const bits = [title, authors && `by ${authors}`, loc && `@ ${loc}`].filter(Boolean)
-    metaEl.textContent = bits.join(' • ')
+    if (targetPrefix === 'daily') {
+      // Daily hero: title on one line, author below (no "by"). Omit location for hero.
+      const titleHTML = `<div class="hero-title">${escapeHTML(title)}</div>`
+      const authorHTML = authors ? `<div class="hero-author">${escapeHTML(authors)}</div>` : ''
+      metaEl.innerHTML = titleHTML + authorHTML
+    } else {
+      // Browse: keep compact meta line with title • by authors • @ loc
+      const bits = [title, authors && `by ${authors}`, loc && `@ ${loc}`].filter(Boolean)
+      metaEl.textContent = bits.join(' • ')
+    }
+
+    // After render, adjust font size if needed to fit container
+    requestAnimationFrame(() => {
+      try {
+        fitQuoteToContainer(targetPrefix)
+      } catch {}
+    })
   }
 
   function renderDaily() {
     renderQuote('daily', pickDaily(quotes))
   }
 
+  function fitQuoteToContainer(prefix) {
+    const textEl = document.getElementById(`${prefix}-quote-text`)
+    const metaEl = document.getElementById(`${prefix}-quote-meta`)
+    if (!textEl) return
+    const isDaily = prefix === 'daily'
+    const container = isDaily
+      ? document.querySelector('#daily-quote .hero-inner') || textEl.parentElement
+      : document.querySelector('#browse-single .card-body') || textEl.parentElement
+    if (!container) return
+    // Reset to computed size first
+    const computed = parseFloat(getComputedStyle(textEl).fontSize || '20')
+    textEl.style.fontSize = computed + 'px'
+    const minPx = isDaily ? 16 : 12
+    const pad = 24
+    const avail = container.clientHeight - (metaEl ? metaEl.clientHeight : 0) - pad
+    let size = computed
+    let attempts = 0
+    while (attempts < 10) {
+      const rect = textEl.getBoundingClientRect()
+      const h = rect.height
+      if (h <= avail || size <= minPx) break
+      size = Math.max(minPx, Math.floor(size * 0.9))
+      textEl.style.fontSize = size + 'px'
+      attempts += 1
+    }
+  }
+
   function renderBrowse() {
     const singleWrap = document.getElementById('browse-single')
     const listWrap = document.getElementById('browse-list')
-    const pager = document.getElementById('browse-pager')
+    const controls = document.getElementById('browse-controls')
     const countEl = document.getElementById('browse-count')
     const prevBtn = document.getElementById('prev-quote')
     const nextBtn = document.getElementById('next-quote')
@@ -108,9 +149,9 @@
     if (!filteredQuotes.length) {
       setShown(singleWrap, true)
       if (listWrap) { setShown(listWrap, false); listWrap.innerHTML = '' }
-      setShown(pager, false)
       renderQuote('browse', null)
       if (countEl) countEl.textContent = '0 results'
+      if (controls) controls.hidden = true
       return
     }
 
@@ -119,10 +160,10 @@
     if (isSpecificBook) {
       setShown(singleWrap, false)
       setShown(listWrap, true)
-      // Pager should be flex when visible
-      setShown(pager, true, 'flex')
-      if (prevBtn) prevBtn.hidden = true
-      if (nextBtn) nextBtn.hidden = true
+      if (controls) { controls.hidden = false }
+      // Switch the two buttons to page navigation labels
+      if (prevBtn) prevBtn.textContent = 'Prev Page'
+      if (nextBtn) nextBtn.textContent = 'Next Page'
 
       const total = filteredQuotes.length
       const totalPages = Math.max(1, Math.ceil(total / pageSize))
@@ -156,33 +197,36 @@
         listWrap.appendChild(card)
       }
 
-      // Update count and page indicator
-      if (countEl) countEl.textContent = `${total} result${total === 1 ? '' : 's'} • ${totalPages} page${totalPages === 1 ? '' : 's'}`
-      const pageInd = document.getElementById('page-indicator')
-      if (pageInd) pageInd.textContent = `Page ${pageIndex + 1} of ${totalPages}`
+      // Update count with page indicator
+      if (countEl) countEl.textContent = `${total} result${total === 1 ? '' : 's'} • Page ${pageIndex + 1} of ${totalPages}`
       return
     }
 
     // Otherwise (All Books), keep single-quote browse with prev/next
     setShown(singleWrap, true)
     if (listWrap) { setShown(listWrap, false); listWrap.innerHTML = '' }
-    setShown(pager, false)
-    if (prevBtn) prevBtn.hidden = false
-    if (nextBtn) nextBtn.hidden = false
+    if (controls) { controls.hidden = false }
+    if (prevBtn) prevBtn.textContent = 'Prev'
+    if (nextBtn) nextBtn.textContent = 'Next'
     if (browseIndex < 0) browseIndex = filteredQuotes.length - 1
     if (browseIndex >= filteredQuotes.length) browseIndex = 0
     renderQuote('browse', filteredQuotes[browseIndex])
     if (countEl) countEl.textContent = `${filteredQuotes.length} result${filteredQuotes.length === 1 ? '' : 's'}`
   }
 
+  function escapeHTML(s) {
+    return String(s)
+      .replaceAll('&', '&amp;')
+      .replaceAll('<', '&lt;')
+      .replaceAll('>', '&gt;')
+      .replaceAll('"', '&quot;')
+      .replaceAll("'", '&#39;')
+  }
+
   function applyFilters() {
-    const search = currentSearch.toLowerCase()
     filteredQuotes = quotes.filter((q) => {
       if (currentBookFilter !== 'all' && q.bookId !== currentBookFilter) return false
-      if (!search) return true
-      const byBook = bookLookup().get(q.bookId)
-      const hay = [q.text, byBook?.title, (Data.authorsList(byBook) || []).join(' ')].join(' ').toLowerCase()
-      return hay.includes(search)
+      return true
     })
     browseIndex = 0
     pageIndex = 0
@@ -320,14 +364,15 @@
         btn.addEventListener('click', () => showTab(btn.dataset.tab))
       })
       const prevBtn = document.getElementById('prev-quote')
-      if (prevBtn) prevBtn.addEventListener('click', () => { browseIndex -= 1; renderBrowse() })
+      if (prevBtn) prevBtn.addEventListener('click', () => {
+        if (currentBookFilter !== 'all') { pageIndex -= 1 } else { browseIndex -= 1 }
+        renderBrowse()
+      })
       const nextBtn = document.getElementById('next-quote')
-      if (nextBtn) nextBtn.addEventListener('click', () => { browseIndex += 1; renderBrowse() })
-      // Pager for selected-book view
-      const prevPage = document.getElementById('prev-page')
-      if (prevPage) prevPage.addEventListener('click', () => { pageIndex -= 1; renderBrowse() })
-      const nextPage = document.getElementById('next-page')
-      if (nextPage) nextPage.addEventListener('click', () => { pageIndex += 1; renderBrowse() })
+      if (nextBtn) nextBtn.addEventListener('click', () => {
+        if (currentBookFilter !== 'all') { pageIndex += 1 } else { browseIndex += 1 }
+        renderBrowse()
+      })
       const refreshBtn = document.getElementById('refresh-quote')
       if (refreshBtn) refreshBtn.addEventListener('click', () => {
         if (!quotes.length) return
@@ -336,8 +381,7 @@
       })
       const filterBook = document.getElementById('filter-book')
       if (filterBook) filterBook.addEventListener('change', (e) => { currentBookFilter = e.target.value; applyFilters() })
-      const filterSearch = document.getElementById('filter-search')
-      if (filterSearch) filterSearch.addEventListener('input', (e) => { currentSearch = e.target.value || ''; applyFilters() })
+      // Search removed per request
 
       // Insights date range
       const startEl = document.getElementById('insights-start')
@@ -390,6 +434,12 @@
     console.info('[App] DOM already loaded, running init')
     init()
   }
+
+  // Re-fit quotes on resize for better responsiveness
+  window.addEventListener('resize', () => {
+    try { fitQuoteToContainer('daily') } catch {}
+    try { fitQuoteToContainer('browse') } catch {}
+  })
 
   window.addEventListener('error', (e) => {
     console.error('[App] Uncaught error', e.error || e.message || e)
