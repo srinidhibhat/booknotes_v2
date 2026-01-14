@@ -8,7 +8,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-beginning-of-infinity",
@@ -19,7 +19,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_rework",
@@ -30,7 +30,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_walden",
@@ -41,11 +41,11 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
-    "id": "bk_the-pshychology-of-money",
-    "title": "The Pshychology of Money",
+    "id": "bk_the-psychology-of-money",
+    "title": "The Psychology of Money",
     "authors": [
       "Morgan Housel"
     ],
@@ -63,7 +63,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_how-to-skillfully-agree-with-people",
@@ -72,7 +72,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_guns-germs-steel",
@@ -83,7 +83,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-dark-forest-the-three-body-problem-book-2",
@@ -94,7 +94,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_quiet",
@@ -105,7 +105,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_siddhartha",
@@ -116,7 +116,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_59-seconds-think-a-little-change-a-lot",
@@ -127,7 +127,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_cloud-atlas",
@@ -138,7 +138,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-4-hour-workweek",
@@ -149,7 +149,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_mindset",
@@ -160,7 +160,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-war-of-art",
@@ -171,7 +171,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-great-gatsby",
@@ -182,7 +182,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-overstory",
@@ -193,7 +193,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_sapiens-a-brief-history-of-humankind",
@@ -204,7 +204,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_for-one-more-day",
@@ -215,7 +215,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-almanack-of-naval-ravikant-a-guide-to-wealth-and-happiness",
@@ -226,7 +226,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_twelve-years-a-slave",
@@ -237,7 +237,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_death-s-end-the-three-body-problem-book-3",
@@ -248,7 +248,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_fooled-by-randomness",
@@ -259,7 +259,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_man-s-search-for-meaning",
@@ -270,7 +270,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_tejo-tungabhadra",
@@ -281,7 +281,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-selfish-gene",
@@ -292,7 +292,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-richest-man-in-babylon",
@@ -303,7 +303,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_inner-engineering",
@@ -314,7 +314,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-headspace-guide-to-meditation-and-mindfulness",
@@ -325,7 +325,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_fahrenheit-451",
@@ -336,7 +336,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-tipping-point",
@@ -347,7 +347,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_tuesdays-with-morrie",
@@ -358,7 +358,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_excellent-advice-for-living",
@@ -369,7 +369,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_educated",
@@ -380,7 +380,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_think-on-these-things",
@@ -391,7 +391,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_all-the-light-we-cannot-see",
@@ -402,7 +402,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-art-of-thinking-clearly",
@@ -413,7 +413,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_a-gentleman-in-moscow",
@@ -424,7 +424,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_atomic-habits",
@@ -435,7 +435,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_range",
@@ -446,7 +446,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_six-easy-pieces",
@@ -457,7 +457,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-7-habits-of-highly-effective-people",
@@ -466,7 +466,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_a-thousand-splendid-suns",
@@ -477,7 +477,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_eat-that-frog",
@@ -488,7 +488,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_when-breath-becomes-air",
@@ -499,7 +499,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_mostly-harmless",
@@ -510,7 +510,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-prophet",
@@ -519,7 +519,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_antifragile-things-that-gain-from-disorder",
@@ -530,7 +530,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_crime-and-punishment",
@@ -541,7 +541,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_soundtracks",
@@ -552,7 +552,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_on-the-shortness-of-life",
@@ -563,7 +563,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_freakonomics",
@@ -574,7 +574,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_i-will-teach-you-to-be-rich",
@@ -585,7 +585,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_secret-life-of-groceries",
@@ -594,7 +594,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-little-prince-df-children-s-classics-book-4",
@@ -605,7 +605,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_one-minute-manager",
@@ -616,7 +616,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_to-kill-a-mockingbird",
@@ -627,7 +627,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_why-we-sleep",
@@ -638,7 +638,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_as-a-man-thinketh",
@@ -649,7 +649,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_steve-jobs",
@@ -660,7 +660,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_can-t-hurt-me",
@@ -671,7 +671,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_chanakya-s-chant",
@@ -682,7 +682,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-defining-decade",
@@ -693,7 +693,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_how-to-win-friends-and-influence-people",
@@ -704,7 +704,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_deep-work",
@@ -715,7 +715,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_",
@@ -726,7 +726,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-power-of-now-a-guide-to-spiritual-enlightenment",
@@ -737,7 +737,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_astrophysics-for-people-in-a-hurry",
@@ -748,7 +748,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_zero-to-one",
@@ -759,7 +759,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-gene",
@@ -770,7 +770,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_long-walk-to-freedom",
@@ -781,7 +781,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_surely-you-re-joking-mr-feynman",
@@ -792,7 +792,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-three-body-problem",
@@ -803,7 +803,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-millionaire-fastlane",
@@ -814,7 +814,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk__2",
@@ -825,7 +825,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_so-long-and-thanks-for-all-the-fish",
@@ -836,7 +836,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_rich-dad-poor-dad",
@@ -847,7 +847,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_flow-the-psychology-of-happiness",
@@ -858,7 +858,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_ikigai",
@@ -869,7 +869,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_four-thousand-weeks",
@@ -880,7 +880,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_life-the-universe-and-everything",
@@ -891,7 +891,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_don-t-lose-your-mind-lose-your-weight",
@@ -902,7 +902,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_elon-musk",
@@ -913,7 +913,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-lessons-of-history",
@@ -924,13 +924,24 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_the-power-of-your-subconscious-mind",
     "title": "The Power of your Subconscious Mind",
     "authors": [
       "Dr. Joseph Murphy"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": false
+  },
+  {
+    "id": "bk_the-psychology-of-money",
+    "title": "The Psychology of Money",
+    "authors": [
+      "Morgan Housel"
     ],
     "year": null,
     "pages": null,

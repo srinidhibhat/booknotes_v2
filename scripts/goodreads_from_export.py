@@ -7,7 +7,7 @@ Process Goodreads export CSV into:
 Usage:
   python3 scripts/goodreads_from_export.py [--merge]
 
-Requires: data/goodreads/export.csv
+Requires: data/goodreads/export.csv (get the export file from: https://www.goodreads.com/review/import)
 """
 from __future__ import annotations
 import csv

@@ -1,24 +1,67 @@
 {
   "books": [
     {
-      "goodreadsId": "43264830",
-      "title": "The School of Life: An Emotional Education",
+      "goodreadsId": "200962529",
+      "title": "ಸರಿಗನ್ನಡಂ ಗೆಲ್ಗೆ [sarigannadam gelge]",
       "authors": [
-        "Alain de Botton"
+        "ಅಪಾರ [apara]"
       ],
-      "isbn": "0241382327",
-      "isbn13": "9780241382325",
-      "pages": 310,
-      "year": 2019,
-      "publisher": "Hamish Hamilton",
+      "isbn": "8196464169",
+      "isbn13": "9788196464165",
+      "pages": 332,
+      "year": 2023,
+      "publisher": "Chanda Pustaka",
       "binding": "Paperback",
+      "rating": 4,
+      "averageRating": 4.67,
+      "shelves": [
+        "read"
+      ],
+      "dateRead": "2025-12-24",
+      "dateAdded": "2025-12-21"
+    },
+    {
+      "goodreadsId": "74841232",
+      "title": "Outlive: The Science and Art of Longevity: The Million-Copy Bestseller",
+      "authors": [
+        "Peter Attia",
+        "Bill Gifford"
+      ],
+      "isbn": "1529910897",
+      "isbn13": "9781529910896",
+      "pages": 482,
+      "year": 2023,
+      "publisher": "Ebury Digital",
+      "binding": "Kindle Edition",
       "rating": 0,
-      "averageRating": 4.24,
+      "averageRating": 4.33,
       "shelves": [
         "currently-reading"
       ],
       "dateRead": null,
-      "dateAdded": "2025-09-15"
+      "dateAdded": "2025-08-24"
+    },
+    {
+      "goodreadsId": "905",
+      "title": "The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance",
+      "authors": [
+        "W. Timothy Gallwey",
+        "Pete Carroll",
+        "Zach Kleiman"
+      ],
+      "isbn": "0679778314",
+      "isbn13": "9780679778318",
+      "pages": 134,
+      "year": 1974,
+      "publisher": "Random House Trade Paperbacks",
+      "binding": "Paperback",
+      "rating": 4,
+      "averageRating": 4.19,
+      "shelves": [
+        "read"
+      ],
+      "dateRead": "2025-12-21",
+      "dateAdded": "2025-11-28"
     },
     {
       "goodreadsId": "222686558",
@@ -32,33 +75,77 @@
       "year": 2025,
       "publisher": "Hachette India",
       "binding": "Kindle Edition",
-      "rating": 0,
-      "averageRating": 4.55,
+      "rating": 5,
+      "averageRating": 4.45,
       "shelves": [
-        "currently-reading"
+        "read"
       ],
-      "dateRead": null,
+      "dateRead": "2025-12-21",
       "dateAdded": "2025-08-24"
     },
     {
-      "goodreadsId": "33844107",
-      "title": "80,000 Hours",
+      "goodreadsId": "4099",
+      "title": "The Pragmatic Programmer: From Journeyman to Master",
       "authors": [
-        "Benjamin Todd"
+        "Andy   Hunt",
+        "Dave         Thomas",
+        "Ward Cunningham"
+      ],
+      "isbn": "020161622X",
+      "isbn13": "9780201616224",
+      "pages": 321,
+      "year": 1999,
+      "publisher": "Addison-Wesley Professional",
+      "binding": "Paperback",
+      "rating": 0,
+      "averageRating": 4.33,
+      "shelves": [
+        "currently-reading",
+        "work"
+      ],
+      "dateRead": null,
+      "dateAdded": "2021-12-02"
+    },
+    {
+      "goodreadsId": "2767793",
+      "title": "The Hero of Ages (Mistborn, #3)",
+      "authors": [
+        "Brandon Sanderson"
+      ],
+      "isbn": "0765316897",
+      "isbn13": "9780765316899",
+      "pages": 572,
+      "year": 2008,
+      "publisher": "Tor Books",
+      "binding": "Hardcover",
+      "rating": 5,
+      "averageRating": 4.56,
+      "shelves": [
+        "read"
+      ],
+      "dateRead": "2025-11-28",
+      "dateAdded": "2022-07-23"
+    },
+    {
+      "goodreadsId": "46220398",
+      "title": "The School of Life: An Emotional Education",
+      "authors": [
+        "The School of Life",
+        "Alain de Botton"
       ],
       "isbn": null,
       "isbn13": null,
-      "pages": 342,
-      "year": 2016,
-      "publisher": "CreateSpace Independent Publishing Platform",
-      "binding": "ebook",
-      "rating": 0,
-      "averageRating": 3.94,
+      "pages": 306,
+      "year": 2019,
+      "publisher": "Penguin",
+      "binding": "Kindle Edition",
+      "rating": 4,
+      "averageRating": 4.23,
       "shelves": [
-        "to-read"
+        "read"
       ],
-      "dateRead": null,
-      "dateAdded": "2024-04-07"
+      "dateRead": "2025-11-06",
+      "dateAdded": "2025-09-15"
     },
     {
       "goodreadsId": "63697",
@@ -81,45 +168,24 @@
       "dateAdded": "2025-08-24"
     },
     {
-      "goodreadsId": "74841232",
-      "title": "Outlive: The Science and Art of Longevity: The Million-Copy Bestseller",
+      "goodreadsId": "33844107",
+      "title": "80,000 Hours",
       "authors": [
-        "Peter Attia",
-        "Bill Gifford"
+        "Benjamin Todd"
       ],
-      "isbn": "1529910897",
-      "isbn13": "9781529910896",
-      "pages": 482,
-      "year": 2023,
-      "publisher": "Ebury Digital",
-      "binding": "Kindle Edition",
+      "isbn": null,
+      "isbn13": null,
+      "pages": 342,
+      "year": 2016,
+      "publisher": "CreateSpace Independent Publishing Platform",
+      "binding": "ebook",
       "rating": 0,
-      "averageRating": 4.33,
+      "averageRating": 3.94,
       "shelves": [
         "to-read"
       ],
       "dateRead": null,
-      "dateAdded": "2025-08-24"
-    },
-    {
-      "goodreadsId": "40601527",
-      "title": "Do It Today: Overcome Procrastination, Improve Productivity, and Achieve More Meaningful Things",
-      "authors": [
-        "Darius Foroux"
-      ],
-      "isbn": null,
-      "isbn13": null,
-      "pages": 171,
-      "year": 2018,
-      "publisher": "North Eagle Publishing",
-      "binding": "Kindle Edition",
-      "rating": 0,
-      "averageRating": 4.1,
-      "shelves": [
-        "currently-reading"
-      ],
-      "dateRead": null,
-      "dateAdded": "2025-08-24"
+      "dateAdded": "2024-04-07"
     },
     {
       "goodreadsId": "4069",
@@ -294,7 +360,7 @@
       ],
       "isbn": "0593135202",
       "isbn13": "9780593135204",
-      "pages": 496,
+      "pages": 476,
       "year": 2021,
       "publisher": "Ballantine Books",
       "binding": "Hardcover",
@@ -340,7 +406,7 @@
       "publisher": "TOTAL KANNADA",
       "binding": "Paperback",
       "rating": 4,
-      "averageRating": 4.27,
+      "averageRating": 4.28,
       "shelves": [
         "read"
       ],
@@ -380,7 +446,7 @@
       "publisher": null,
       "binding": "Paperback",
       "rating": 4,
-      "averageRating": 4.32,
+      "averageRating": 4.31,
       "shelves": [
         "read"
       ],
@@ -435,12 +501,12 @@
       ],
       "isbn": "0312577222",
       "isbn13": "9780312577223",
-      "pages": 440,
+      "pages": 564,
       "year": 2015,
       "publisher": "St. Martin's Press",
       "binding": "Hardcover",
       "rating": 0,
-      "averageRating": 4.64,
+      "averageRating": 4.65,
       "shelves": [
         "to-read"
       ],
@@ -501,7 +567,7 @@
       "publisher": "Penguin Press",
       "binding": "Hardcover",
       "rating": 0,
-      "averageRating": 4.02,
+      "averageRating": 4.01,
       "shelves": [
         "to-read"
       ],
@@ -666,7 +732,7 @@
       "publisher": null,
       "binding": "Paperback",
       "rating": 0,
-      "averageRating": 4.08,
+      "averageRating": 4.07,
       "shelves": [
         "to-read"
       ],
@@ -738,7 +804,7 @@
       "goodreadsId": "130669387",
       "title": "Pet Sematary",
       "authors": [
-        "Stephen King"
+        "Stephen  King"
       ],
       "isbn": null,
       "isbn13": null,
@@ -762,7 +828,7 @@
       ],
       "isbn": "0060929871",
       "isbn13": "9780060929879",
-      "pages": 268,
+      "pages": 288,
       "year": 1932,
       "publisher": "HarperPerennial / Perennial Classics",
       "binding": "Paperback",
@@ -847,7 +913,7 @@
       "publisher": "Farrar, Straus and Giroux",
       "binding": "Hardcover",
       "rating": 4,
-      "averageRating": 4.18,
+      "averageRating": 4.17,
       "shelves": [
         "read"
       ],
@@ -909,7 +975,7 @@
       "publisher": "Penguin",
       "binding": "Paperback",
       "rating": 3,
-      "averageRating": 4.28,
+      "averageRating": 4.29,
       "shelves": [
         "read"
       ],
@@ -1029,7 +1095,7 @@
       "publisher": "Simon & Schuster",
       "binding": "Hardcover",
       "rating": 4,
-      "averageRating": 4.15,
+      "averageRating": 4.16,
       "shelves": [
         "read"
       ],
@@ -1091,7 +1157,7 @@
       "publisher": "Fine Communications",
       "binding": "Hardcover",
       "rating": 4,
-      "averageRating": 4.06,
+      "averageRating": 4.05,
       "shelves": [
         "read"
       ],
@@ -1333,7 +1399,7 @@
       "publisher": "Saga Press",
       "binding": "ebook",
       "rating": 0,
-      "averageRating": 3.85,
+      "averageRating": 3.84,
       "shelves": [
         "to-read"
       ],
@@ -1417,7 +1483,7 @@
       "publisher": "Penguin Group",
       "binding": "Paperback",
       "rating": 0,
-      "averageRating": 3.94,
+      "averageRating": 3.93,
       "shelves": [
         "to-read"
       ],
@@ -1458,7 +1524,7 @@
       "publisher": "Harper Business",
       "binding": "Paperback",
       "rating": 0,
-      "averageRating": 4.22,
+      "averageRating": 4.21,
       "shelves": [
         "to-read"
       ],
@@ -1478,7 +1544,7 @@
       "publisher": "New Harbinger Publications",
       "binding": "Paperback",
       "rating": 0,
-      "averageRating": 4.21,
+      "averageRating": 4.2,
       "shelves": [
         "to-read"
       ],
@@ -1518,7 +1584,7 @@
       "publisher": "Random House",
       "binding": "Hardcover",
       "rating": 0,
-      "averageRating": 4.16,
+      "averageRating": 4.15,
       "shelves": [
         "to-read"
       ],
@@ -1539,7 +1605,7 @@
       "publisher": "New Directions",
       "binding": "Paperback",
       "rating": 0,
-      "averageRating": 3.95,
+      "averageRating": 3.94,
       "shelves": [
         "to-read"
       ],
@@ -1704,7 +1770,7 @@
       "publisher": "Signet Classics",
       "binding": "Mass Market Paperback",
       "rating": 4,
-      "averageRating": 4.01,
+      "averageRating": 4.02,
       "shelves": [
         "read"
       ],
@@ -1713,18 +1779,18 @@
     },
     {
       "goodreadsId": "41881472",
-      "title": "The Psychology of Money",
+      "title": "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness",
       "authors": [
         "Morgan Housel"
       ],
-      "isbn": "0857197681",
-      "isbn13": "9780857197689",
+      "isbn": null,
+      "isbn13": null,
       "pages": 242,
       "year": 2020,
       "publisher": "Harriman House",
       "binding": "Paperback",
       "rating": 4,
-      "averageRating": 4.29,
+      "averageRating": 4.28,
       "shelves": [
         "read"
       ],
@@ -1805,32 +1871,12 @@
       "publisher": "Cryptid Press",
       "binding": "Kindle Edition",
       "rating": 0,
-      "averageRating": 4.05,
+      "averageRating": 4.04,
       "shelves": [
         "to-read"
       ],
       "dateRead": null,
       "dateAdded": "2022-09-27"
-    },
-    {
-      "goodreadsId": "2767793",
-      "title": "The Hero of Ages (Mistborn, #3)",
-      "authors": [
-        "Brandon Sanderson"
-      ],
-      "isbn": "0765316897",
-      "isbn13": "9780765316899",
-      "pages": 572,
-      "year": 2008,
-      "publisher": "Tor Books",
-      "binding": "Hardcover",
-      "rating": 0,
-      "averageRating": 4.56,
-      "shelves": [
-        "to-read"
-      ],
-      "dateRead": null,
-      "dateAdded": "2022-07-23"
     },
     {
       "goodreadsId": "43124137",
@@ -1947,7 +1993,7 @@
       "publisher": "Amazon Digital Services",
       "binding": "Kindle Edition",
       "rating": 0,
-      "averageRating": 4.45,
+      "averageRating": 4.44,
       "shelves": [
         "to-read"
       ],
@@ -2148,7 +2194,7 @@
       "publisher": "Random House Canada",
       "binding": "Hardcover",
       "rating": 3,
-      "averageRating": 3.91,
+      "averageRating": 3.9,
       "shelves": [
         "read"
       ],
@@ -2290,7 +2336,7 @@
       "publisher": "Viking",
       "binding": "Hardcover",
       "rating": 4,
-      "averageRating": 4.36,
+      "averageRating": 4.35,
       "shelves": [
         "read"
       ],
@@ -2339,29 +2385,6 @@
       "binding": "Hardcover",
       "rating": 0,
       "averageRating": 4.2,
-      "shelves": [
-        "to-read",
-        "work"
-      ],
-      "dateRead": null,
-      "dateAdded": "2021-12-02"
-    },
-    {
-      "goodreadsId": "4099",
-      "title": "The Pragmatic Programmer: From Journeyman to Master",
-      "authors": [
-        "Andy   Hunt",
-        "Dave         Thomas",
-        "Ward Cunningham"
-      ],
-      "isbn": "020161622X",
-      "isbn13": "9780201616224",
-      "pages": 321,
-      "year": 1999,
-      "publisher": "Addison-Wesley Professional",
-      "binding": "Paperback",
-      "rating": 0,
-      "averageRating": 4.33,
       "shelves": [
         "to-read",
         "work"
@@ -2427,7 +2450,7 @@
       "publisher": "Pearson",
       "binding": "Paperback",
       "rating": 0,
-      "averageRating": 4.36,
+      "averageRating": 4.35,
       "shelves": [
         "to-read",
         "work"
@@ -2490,7 +2513,7 @@
       "publisher": "Magrathea Publishing",
       "binding": "Kindle Edition",
       "rating": 5,
-      "averageRating": 4.39,
+      "averageRating": 4.38,
       "shelves": [
         "read"
       ],
@@ -2510,7 +2533,7 @@
       "publisher": "Warner",
       "binding": "Paperback",
       "rating": 5,
-      "averageRating": 4.2,
+      "averageRating": 4.21,
       "shelves": [
         "favorites",
         "read"
@@ -2553,7 +2576,7 @@
       "publisher": "W. W. Norton & Company",
       "binding": "Paperback",
       "rating": 4,
-      "averageRating": 4.27,
+      "averageRating": 4.26,
       "shelves": [
         "read"
       ],
@@ -2649,7 +2672,7 @@
       ],
       "isbn": null,
       "isbn13": null,
-      "pages": 462,
+      "pages": 495,
       "year": 2016,
       "publisher": "Penguin Books",
       "binding": "Paperback",
@@ -2796,7 +2819,7 @@
       "publisher": "Time Warner Books UK",
       "binding": "Paperback",
       "rating": 4,
-      "averageRating": 4.1,
+      "averageRating": 4.09,
       "shelves": [
         "read"
       ],
@@ -2836,11 +2859,11 @@
       "isbn": null,
       "isbn13": null,
       "pages": 233,
-      "year": 2016,
+      "year": 2014,
       "publisher": null,
       "binding": "Paperback",
       "rating": 0,
-      "averageRating": 4.17,
+      "averageRating": 4.16,
       "shelves": [
         "to-read"
       ],
@@ -2880,7 +2903,7 @@
       "publisher": "Rupa Publications",
       "binding": "Paperback",
       "rating": 3,
-      "averageRating": 3.11,
+      "averageRating": 3.12,
       "shelves": [
         "read"
       ],
@@ -3050,7 +3073,7 @@
     },
     {
       "goodreadsId": "52578297",
-      "title": "The Midnight Library",
+      "title": "The Midnight Library (The Midnight World, #1)",
       "authors": [
         "Matt Haig"
       ],
@@ -3182,7 +3205,7 @@
       "publisher": "Penguin",
       "binding": "Kindle Edition",
       "rating": 4,
-      "averageRating": 4.09,
+      "averageRating": 4.1,
       "shelves": [
         "read"
       ],
@@ -3197,7 +3220,7 @@
       ],
       "isbn": "1542099617",
       "isbn13": "9781542099615",
-      "pages": 209,
+      "pages": 110,
       "year": 1853,
       "publisher": "AmazonClassics",
       "binding": "Kindle Edition",
@@ -3344,7 +3367,7 @@
       "publisher": "Ecco",
       "binding": "Hardcover",
       "rating": 4,
-      "averageRating": 4.13,
+      "averageRating": 4.12,
       "shelves": [
         "read"
       ],
@@ -3583,7 +3606,7 @@
       "isbn": "0091883768",
       "isbn13": "9780091883768",
       "pages": 98,
-      "year": 1999,
+      "year": 1998,
       "publisher": "Vermilion",
       "binding": "Hardcover",
       "rating": 1,
@@ -3688,7 +3711,7 @@
       "publisher": "Penguin Random House",
       "binding": "Paperback",
       "rating": 2,
-      "averageRating": 3.43,
+      "averageRating": 3.42,
       "shelves": [
         "read"
       ],
@@ -3877,7 +3900,7 @@
       "publisher": "Avery",
       "binding": "Kindle Edition",
       "rating": 4,
-      "averageRating": 4.33,
+      "averageRating": 4.32,
       "shelves": [
         "read"
       ],
@@ -4179,7 +4202,7 @@
       "publisher": "Harper",
       "binding": "ebook",
       "rating": 4,
-      "averageRating": 4.19,
+      "averageRating": 4.18,
       "shelves": [
         "read"
       ],
@@ -4191,12 +4214,12 @@
       "title": "The Diary of a Young Girl",
       "authors": [
         "Anne Frank",
-        "Eleanor Roosevelt",
         "Otto H. Frank",
         "Mirjam Pressler",
-        "Susan Massotty",
         "Barbara Mooyaart-Doubleday",
-        "Γιάννης Θωμόπουλος"
+        "Eleanor Roosevelt",
+        "Γιάννης Θωμόπουλος",
+        "Susan Massotty"
       ],
       "isbn": null,
       "isbn13": null,
@@ -4347,7 +4370,7 @@
       "publisher": "Vintage",
       "binding": "Paperback",
       "rating": 5,
-      "averageRating": 4.34,
+      "averageRating": 4.33,
       "shelves": [
         "read"
       ],
@@ -4473,7 +4496,7 @@
       "publisher": "Plume",
       "binding": "Paperback",
       "rating": 3,
-      "averageRating": 4.01,
+      "averageRating": 4.02,
       "shelves": [
         "read"
       ],
@@ -4493,7 +4516,7 @@
       "publisher": "Riverhead Books",
       "binding": "Paperback",
       "rating": 5,
-      "averageRating": 4.35,
+      "averageRating": 4.36,
       "shelves": [
         "read"
       ],
@@ -4547,8 +4570,8 @@
         "Paulo Coelho",
         "Margaret Jull Costa"
       ],
-      "isbn": "0060589280",
-      "isbn13": "9780060589288",
+      "isbn": null,
+      "isbn13": null,
       "pages": 273,
       "year": 2003,
       "publisher": "HarperOne",
@@ -4615,7 +4638,7 @@
       "publisher": "Vintage",
       "binding": "Paperback",
       "rating": 0,
-      "averageRating": 3.98,
+      "averageRating": 3.97,
       "shelves": [
         "to-read"
       ],
@@ -4687,7 +4710,7 @@
       "goodreadsId": "3869",
       "title": "A Brief History of Time",
       "authors": [
-        "Stephen Hawking"
+        "Stephen W. Hawking"
       ],
       "isbn": "0553380168",
       "isbn13": "9780553380163",
@@ -4771,7 +4794,7 @@
       ],
       "isbn": "1401303277",
       "isbn13": "9781401303273",
-      "pages": 208,
+      "pages": 197,
       "year": 2006,
       "publisher": "Hyperion",
       "binding": "Hardcover",
@@ -4816,7 +4839,7 @@
       "publisher": "Pusthaka Prakashana",
       "binding": "Hardcover",
       "rating": 4,
-      "averageRating": 4.18,
+      "averageRating": 4.19,
       "shelves": [
         "read"
       ],
@@ -4836,7 +4859,7 @@
       "publisher": "Ankita Pustaka",
       "binding": "Paperback",
       "rating": 3,
-      "averageRating": 4.11,
+      "averageRating": 4.12,
       "shelves": [
         "read"
       ],
@@ -4857,7 +4880,7 @@
       "publisher": "Bantam",
       "binding": "Mass Market Paperback",
       "rating": 4,
-      "averageRating": 4.07,
+      "averageRating": 4.06,
       "shelves": [
         "read"
       ],
@@ -4910,8 +4933,8 @@
       "authors": [
         "Malcolm Gladwell"
       ],
-      "isbn": "0316346624",
-      "isbn13": "9780316346627",
+      "isbn": null,
+      "isbn13": null,
       "pages": 301,
       "year": 2000,
       "publisher": "Time Warner Book Group",
@@ -4995,7 +5018,7 @@
       "isbn13": "9780307352149",
       "pages": 333,
       "year": 2012,
-      "publisher": "Crown Publishing Group/Random House, Inc.",
+      "publisher": "Crown Publishers",
       "binding": "Hardcover",
       "rating": 4,
       "averageRating": 4.08,
@@ -5241,7 +5264,7 @@
       "publisher": "Portfolio",
       "binding": "Hardcover",
       "rating": 0,
-      "averageRating": 3.79,
+      "averageRating": 3.78,
       "shelves": [
         "to-read"
       ],
@@ -5382,7 +5405,7 @@
       "publisher": "Eklavya Education Foundation",
       "binding": "Paperback",
       "rating": 0,
-      "averageRating": 3.76,
+      "averageRating": 3.77,
       "shelves": [
         "to-read"
       ],
@@ -5715,9 +5738,9 @@
       "authors": [
         "Victor Hugo",
         "Isabel Florence Hapgood",
-        "Charles E. Wilbour",
+        "Lee Fahnestock",
         "Norman MacAfee",
-        "Lee Fahnestock"
+        "Charles E. Wilbour"
       ],
       "isbn": "0451525264",
       "isbn13": "9780451525260",
