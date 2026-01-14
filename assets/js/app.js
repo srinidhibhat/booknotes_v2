@@ -1,12 +1,14 @@
 ;(function () {
   console.info('[App] script evaluating')
   const tabs = {
-    quotes: document.getElementById('tab-quotes'),
+    daily: document.getElementById('tab-daily'),
+    browse: document.getElementById('tab-browse'),
     insights: document.getElementById('tab-insights')
   }
 
   let quotes = []
   let books = []
+  let goodreadsBooks = []
   let browseIndex = 0
   let filteredQuotes = []
   let currentBookFilter = 'all'
@@ -42,6 +44,8 @@
   }
 
   function showTab(name) {
+    // Fallback to first known tab when a bad name is provided
+    if (!tabs[name]) name = Object.keys(tabs).find((k) => tabs[k]) || name
     for (const btn of document.querySelectorAll('.tab')) {
       const active = btn.dataset.tab === name
       btn.classList.toggle('active', active)
@@ -262,7 +266,10 @@
     sel.innerHTML = ''
     // Only include books that have at least one quote
     const hasQuotes = new Set(quotes.map((q) => q.bookId))
-    const booksWithQuotes = books.filter((b) => hasQuotes.has(b.id))
+    const booksWithQuotes = books
+      .filter((b) => hasQuotes.has(b.id))
+      .slice()
+      .sort((a, b) => toTitleCase(a.title || a.id).localeCompare(toTitleCase(b.title || b.id)))
     const optAll = document.createElement('option')
     optAll.value = 'all'
     optAll.textContent = `All Books (${booksWithQuotes.length})`
@@ -280,12 +287,9 @@
   }
 
   function renderInsights() {
-    // Only consider: books with shelf 'read' OR books present in quotes
-    const hasQuotes = new Set(quotes.map((q) => q.bookId))
-    let considered = books.filter((b) => {
-      const shelves = (b.shelves || [])
-      return (shelves.includes('read')) || hasQuotes.has(b.id)
-    })
+    // Insights are powered by Goodreads export (authoritative for pages/year/shelves/dateRead)
+    // Only consider books marked as 'read'. Date range further filters based on dateRead.
+    let considered = (goodreadsBooks || []).filter((b) => (b?.shelves || []).includes('read'))
     // Apply date range filter if provided (based on dateRead)
     try {
       const startVal = document.getElementById('insights-start')?.value || ''
@@ -315,13 +319,79 @@
       }
     } catch {}
 
-    const bpy = Insights.booksPerYear(considered).sort((a, b) => String(a.year).localeCompare(String(b.year)))
-    const ppy = Insights.pagesPerYear(considered).sort((a, b) => String(a.year).localeCompare(String(b.year)))
-    const gd = Insights.genreDistribution(considered)
-    const rd = Insights.ratingsDistribution(considered)
-    const sh = Insights.shelvesDistribution(considered)
-    const ad = Insights.authorsDistribution(considered, 8)
-    const qb = Insights.quotesByBookDistribution(quotes, considered)
+    // Exclude missing-year entries from per-year charts
+    const withYear = considered.filter((b) => b && b.year)
+    const bpy = Insights.booksPerYear(withYear).sort((a, b) => String(a.year).localeCompare(String(b.year)))
+    const ppy = Insights.pagesPerYear(withYear).sort((a, b) => String(a.year).localeCompare(String(b.year)))
+
+    const topRated = considered
+      .filter((b) => (b?.rating || 0) > 0)
+      .slice()
+      .sort((a, b) => (b.rating - a.rating) || (b.averageRating - a.averageRating) || String(a.title || '').localeCompare(String(b.title || '')))
+      .slice(0, 10)
+
+    const recentReads = considered
+      .filter((b) => b?.dateRead)
+      .slice()
+      .sort((a, b) => String(b.dateRead).localeCompare(String(a.dateRead)))
+      .slice(0, 10)
+
+    // Stat cards
+    try {
+      const statBooks = document.getElementById('insights-stat-books')
+      const statPages = document.getElementById('insights-stat-pages')
+      const statQuotes = document.getElementById('insights-stat-quotes')
+      const statAuthors = document.getElementById('insights-stat-authors')
+      if (statBooks) statBooks.textContent = String(considered.length)
+      if (statPages) statPages.textContent = String(considered.reduce((sum, b) => sum + (b.pages || 0), 0))
+      if (statQuotes) statQuotes.textContent = String((quotes || []).length)
+      if (statAuthors) {
+        const authorsSet = new Set()
+        for (const b of considered) {
+          for (const a of (window.Data?.authorsList(b) || [])) authorsSet.add(a)
+        }
+        statAuthors.textContent = String(authorsSet.size)
+      }
+    } catch {}
+
+    // Tables
+    try {
+      const topRatedBody = document.getElementById('insights-top-rated-body')
+      if (topRatedBody) {
+        topRatedBody.innerHTML = ''
+        for (const b of topRated) {
+          const tr = document.createElement('tr')
+          const title = toTitleCase(b.title || '')
+          const authors = (window.Data?.authorsList(b) || []).join(', ')
+          tr.innerHTML = `<td><div>${escapeHTML(title)}</div><div class="text-muted small">${escapeHTML(authors)}</div></td><td>${escapeHTML(String(b.rating || 0))}</td><td>${escapeHTML(String(b.year || ''))}</td>`
+          topRatedBody.appendChild(tr)
+        }
+        if (!topRated.length) {
+          const tr = document.createElement('tr')
+          tr.innerHTML = `<td colspan="3" class="text-muted">No rated read books found (My Rating &gt; 0).</td>`
+          topRatedBody.appendChild(tr)
+        }
+      }
+    } catch {}
+
+    try {
+      const recentReadsBody = document.getElementById('insights-recent-reads-body')
+      if (recentReadsBody) {
+        recentReadsBody.innerHTML = ''
+        for (const b of recentReads) {
+          const tr = document.createElement('tr')
+          const title = toTitleCase(b.title || '')
+          const authors = (window.Data?.authorsList(b) || []).join(', ')
+          tr.innerHTML = `<td>${escapeHTML(title)}</td><td>${escapeHTML(String(b.dateRead || ''))}</td><td class="text-muted">${escapeHTML(authors)}</td>`
+          recentReadsBody.appendChild(tr)
+        }
+        if (!recentReads.length) {
+          const tr = document.createElement('tr')
+          tr.innerHTML = `<td colspan="3" class="text-muted">No recent reads found (missing dateRead).</td>`
+          recentReadsBody.appendChild(tr)
+        }
+      }
+    } catch {}
 
     // Tables removed per request
 
@@ -334,25 +404,14 @@
       window.AppCharts = []
       const brandStart = getComputedStyle(document.documentElement).getPropertyValue('--brand-start').trim() || '#20c997'
       const brandEnd = getComputedStyle(document.documentElement).getPropertyValue('--brand-end').trim() || '#0d6efd'
-      const palette = [brandStart, brandEnd, '#17a2b8', '#66d9e8', '#228be6', '#63e6be', '#329af0']
+
+      const titleCaseLabels = (arr) => arr.map((s) => toTitleCase(String(s || '')))
 
       const ctx1 = document.getElementById('chart-books-per-year')
       if (ctx1) window.AppCharts.push(new Chart(ctx1, { type: 'bar', data: { labels: bpy.map((r) => r.year), datasets: [{ label: 'Books', data: bpy.map((r) => r.count), backgroundColor: brandEnd, borderRadius: 6 }] }, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true } } } }))
 
       const ctx2 = document.getElementById('chart-pages-per-year')
       if (ctx2) window.AppCharts.push(new Chart(ctx2, { type: 'bar', data: { labels: ppy.map((r) => r.year), datasets: [{ label: 'Pages', data: ppy.map((r) => r.pages), backgroundColor: brandStart, borderRadius: 6 }] }, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true } } } }))
-
-      const ctxShelves = document.getElementById('chart-shelves')
-      if (ctxShelves) window.AppCharts.push(new Chart(ctxShelves, { type: 'doughnut', data: { labels: sh.map((r) => r.shelf), datasets: [{ label: 'Books', data: sh.map((r) => r.count), backgroundColor: sh.map((_, i) => palette[i % palette.length]) }] }, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' } } } }))
-
-      const ctxRatings = document.getElementById('chart-ratings')
-      if (ctxRatings) window.AppCharts.push(new Chart(ctxRatings, { type: 'pie', data: { labels: rd.map((r) => String(r.rating)), datasets: [{ label: 'Books', data: rd.map((r) => r.count), backgroundColor: rd.map((_, i) => palette[i % palette.length]) }] }, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' }, tooltip: { callbacks: { label: (ctx) => { const total = ctx.dataset.data.reduce((a,b)=>a+b,0); const val = ctx.parsed; const pct = total ? Math.round(val*100/total) : 0; return `${ctx.label}: ${val} (${pct}%)` } } } } } }))
-
-      const ctxAuthors = document.getElementById('chart-authors')
-      if (ctxAuthors) window.AppCharts.push(new Chart(ctxAuthors, { type: 'pie', data: { labels: ad.map((r) => r.author), datasets: [{ label: 'Books', data: ad.map((r) => r.count), backgroundColor: ad.map((_, i) => palette[i % palette.length]) }] }, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' } } } }))
-
-      const ctxQuotes = document.getElementById('chart-quotes')
-      if (ctxQuotes) window.AppCharts.push(new Chart(ctxQuotes, { type: 'pie', data: { labels: qb.map((r) => r.title), datasets: [{ label: 'Quotes', data: qb.map((r) => r.count), backgroundColor: qb.map((_, i) => palette[i % palette.length]) }] }, options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom' } } } }))
     }
   }
 
@@ -362,6 +421,7 @@
   try {
       books = await Data.loadBooks()
       quotes = await Data.loadQuotes()
+      goodreadsBooks = await (Data.loadGoodreads ? Data.loadGoodreads() : [])
       console.info('[App] Loaded data:', { books: books.length, quotes: quotes.length })
     } catch (e) {
       console.error('[App] data load failed', e)
@@ -427,6 +487,9 @@
       populateFilters()
       applyFilters()
       renderInsights()
+
+      // Ensure default tab is visible after initial render
+      showTab('daily')
     } catch (e) {
       console.error('[App] render failed', e)
       showDevWarning('Render failed: ' + (e && e.message ? e.message : String(e)))

@@ -57,6 +57,12 @@
     return Array.isArray(quotes) ? quotes : []
   }
 
+  async function loadGoodreads() {
+    const gr = await fetchJSON('data/goodreads/goodreads.json')
+    if (gr && typeof gr === 'object' && Array.isArray(gr.books)) return gr.books
+    return []
+  }
+
   function authorsList(book) {
     const a = book?.authors
     if (!a) return []
@@ -70,5 +76,5 @@
     return []
   }
 
-  window.Data = { fetchJSON, loadBooks, loadQuotes, normalizeAuthor, byId, authorsList }
+  window.Data = { fetchJSON, loadBooks, loadQuotes, loadGoodreads, normalizeAuthor, byId, authorsList }
 })()
