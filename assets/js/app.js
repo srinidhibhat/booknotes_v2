@@ -120,9 +120,14 @@
       ? document.querySelector('#daily-quote .hero-inner') || textEl.parentElement
       : document.querySelector('#browse-single .card-body') || textEl.parentElement
     if (!container) return
-    // Reset to computed size first
-    const computed = parseFloat(getComputedStyle(textEl).fontSize || '20')
-    textEl.style.fontSize = computed + 'px'
+    // Always reset from the original (CSS) font size to avoid cumulative drift
+    // from repeated resize calls on mobile browsers.
+    if (!textEl.dataset.baseFontSize) {
+      textEl.style.fontSize = ''
+      textEl.dataset.baseFontSize = getComputedStyle(textEl).fontSize || '20px'
+    }
+    const computed = parseFloat(textEl.dataset.baseFontSize || '20')
+    textEl.style.fontSize = textEl.dataset.baseFontSize
     const minPx = isDaily ? 16 : 12
     const pad = 24
     // Available vertical space inside the container; for browse we rely on max-height in CSS
@@ -524,7 +529,13 @@
 
   // Re-fit quotes on resize for better responsiveness (debounced)
   let _resizeTimer = null
+  let _lastResizeWidth = window.innerWidth
   window.addEventListener('resize', () => {
+    const currentWidth = window.innerWidth
+    // Mobile browsers fire resize while scrolling as browser chrome shows/hides.
+    // Ignore height-only resizes so typography doesn't constantly recompute.
+    if (Math.abs(currentWidth - _lastResizeWidth) < 2) return
+    _lastResizeWidth = currentWidth
     if (_resizeTimer) clearTimeout(_resizeTimer)
     _resizeTimer = setTimeout(() => {
       try { fitQuoteToContainer('daily') } catch {}
