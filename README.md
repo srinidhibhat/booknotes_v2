@@ -6,7 +6,7 @@ Static site + scripts to collect and visualize book highlights/quotes.
 - Outputs: Normalized JSON in `data/books.json` and `data/quotes.json`, rendered by `index.html` + `assets/`.
 - Runtimes: Python 3.9+ (no third‑party deps) and optional Node.js 16+ (no deps) for the JS ingest.
 
-## Repo Layout
+## Repo Layout 
 - `index.html` and `assets/`: front-end for browsing notes.
 - `data/`: persistent data store (JSON plus source CSV/TXT under `raw/` and `goodreads/`).
 - `scripts/`: import utilities:
