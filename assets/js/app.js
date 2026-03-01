@@ -128,14 +128,37 @@
     }
     const computed = parseFloat(textEl.dataset.baseFontSize || '20')
     textEl.style.fontSize = textEl.dataset.baseFontSize
-    const minPx = isDaily ? 16 : 12
-    const pad = 24
-    // Available vertical space inside the container; for browse we rely on max-height in CSS
-    let avail = container.clientHeight - (metaEl ? metaEl.clientHeight : 0) - pad
-    // Fallback if container isn't sized yet
+    const minPx = isDaily ? 14 : 12
+    const pad = isDaily ? 16 : 24
+    let avail = 0
+
+    if (isDaily) {
+      // For the hero, derive available height from the viewport budget instead of
+      // container.clientHeight. The container expands with content, so using its
+      // height would incorrectly make very long quotes look like they already fit.
+      const hero = document.getElementById('daily-quote')
+      const header = document.querySelector('.site-header')
+      const viewportH = window.visualViewport?.height || window.innerHeight
+      const heroStyles = hero ? getComputedStyle(hero) : null
+      const innerStyles = getComputedStyle(container)
+      const heroPadY = heroStyles
+        ? (parseFloat(heroStyles.paddingTop) || 0) + (parseFloat(heroStyles.paddingBottom) || 0)
+        : 0
+      const innerPadY = (parseFloat(innerStyles.paddingTop) || 0) + (parseFloat(innerStyles.paddingBottom) || 0)
+      const refreshBudget = 52
+      const pageChrome = (header?.offsetHeight || 0) + 12
+      const heroBudget = viewportH - pageChrome
+
+      avail = heroBudget - heroPadY - innerPadY - (metaEl ? metaEl.clientHeight : 0) - refreshBudget - pad
+    } else {
+      // Browse single-card quote uses the card body's max-height style.
+      avail = container.clientHeight - (metaEl ? metaEl.clientHeight : 0) - pad
+    }
+
+    // Fallback if a section isn't sized yet.
     if (!Number.isFinite(avail) || avail <= 0) {
-      const frac = isDaily ? 0.6 : 0.55
-      avail = Math.max(120, Math.floor(window.innerHeight * frac))
+      const frac = isDaily ? 0.55 : 0.5
+      avail = Math.max(110, Math.floor(window.innerHeight * frac))
     }
     let size = computed
     let attempts = 0
@@ -543,6 +566,19 @@
       _resizeTimer = null
     }, 120)
   })
+
+  // Mobile browsers frequently change the visual viewport height as URL/tool bars
+  // appear and disappear. Re-fit only the daily quote text for those updates.
+  if (window.visualViewport) {
+    let _vvTimer = null
+    window.visualViewport.addEventListener('resize', () => {
+      if (_vvTimer) clearTimeout(_vvTimer)
+      _vvTimer = setTimeout(() => {
+        try { fitQuoteToContainer('daily') } catch {}
+        _vvTimer = null
+      }, 120)
+    })
+  }
 
   window.addEventListener('error', (e) => {
     console.error('[App] Uncaught error', e.error || e.message || e)
