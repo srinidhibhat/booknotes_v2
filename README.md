@@ -6,7 +6,7 @@ Static site + scripts to collect and visualize book highlights/quotes.
 - Outputs: Normalized JSON in `data/books.json` and `data/quotes.json`, rendered by `index.html` + `assets/`.
 - Runtimes: Python 3.9+ (no third‑party deps) and optional Node.js 16+ (no deps) for the JS ingest.
 
-## Repo Layout
+## Repo Layout 
 - `index.html` and `assets/`: front-end for browsing notes.
 - `data/`: persistent data store (JSON plus source CSV/TXT under `raw/` and `goodreads/`).
 - `scripts/`: import utilities:
@@ -35,7 +35,7 @@ Static site + scripts to collect and visualize book highlights/quotes.
   - `python scripts/ingest.py` (updates `data/books.json` and `data/quotes.json`)
 
 2) Goodreads export (Python)
-- Place your Goodreads `export.csv` at `data/goodreads/export.csv`.
+- Place your Goodreads `export.csv` at `data/goodreads/export.csv`. ([link](https://www.goodreads.com/review/import) to download export)
 - Build normalized JSON:
   - `python scripts/goodreads_from_export.py`
 - Optionally merge Goodreads metadata into `data/books.json`:
