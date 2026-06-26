@@ -955,7 +955,7 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_only-dull-people-are-brilliant-at-breakfast",
@@ -964,11 +964,60 @@
     "year": null,
     "pages": null,
     "genres": [],
-    "newlyAdded": true
+    "newlyAdded": false
   },
   {
     "id": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
     "title": "Outlive: The Science and Art of Longevity (Peter Attia MD, Bill Gifford)",
+    "authors": [],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": false
+  },
+  {
+    "id": "bk_project-hail-mary",
+    "title": "Project Hail Mary",
+    "authors": [],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-hero-of-ages-mistborn-book-three",
+    "title": "The Hero of Ages: Mistborn Book Three",
+    "authors": [
+      "Brandon Sanderson"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-inner-game-of-tennis",
+    "title": "The Inner Game of Tennis",
+    "authors": [
+      "W. Timothy Gallwey"
+    ],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-man-who-mistook-his-wife-for-a-hat",
+    "title": "The Man Who Mistook His Wife for a Hat",
+    "authors": [],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_the-school-of-life-an-emotional-education",
+    "title": "The School of Life: An Emotional Education",
     "authors": [],
     "year": null,
     "pages": null,
