@@ -946,6 +946,33 @@
     "year": null,
     "pages": null,
     "genres": [],
+    "newlyAdded": false
+  },
+  {
+    "id": "bk_behave",
+    "title": "Behave",
+    "authors": [],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_only-dull-people-are-brilliant-at-breakfast",
+    "title": "Only Dull People Are Brilliant at Breakfast",
+    "authors": [],
+    "year": null,
+    "pages": null,
+    "genres": [],
+    "newlyAdded": true
+  },
+  {
+    "id": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "title": "Outlive: The Science and Art of Longevity (Peter Attia MD, Bill Gifford)",
+    "authors": [],
+    "year": null,
+    "pages": null,
+    "genres": [],
     "newlyAdded": true
   }
 ]

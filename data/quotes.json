@@ -18270,5 +18270,1117 @@
     "location": {},
     "tags": [],
     "addedAt": "2026-01-14"
+  },
+  {
+    "id": "q_eef1643418d0",
+    "bookId": "bk_behave",
+    "text": "Emotions filter the nature and accuracy of what is remembered.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_05867b3cf96c",
+    "bookId": "bk_behave",
+    "text": "We don’t passively forget that something is scary. We actively learn that it isn’t anymore.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_a0b03da049bb",
+    "bookId": "bk_behave",
+    "text": "In other words, the default state is to trust, and what the amygdala does is learn vigilance and distrust.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_d6f2b8f6678d",
+    "bookId": "bk_behave",
+    "text": "typically the amygdala learns fear and the hippocampus learns detached, dispassionate facts.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_5a72a62cfa78",
+    "bookId": "bk_behave",
+    "text": "the frontal cortex makes you do the harder thing when it’s the right thing to do.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_53523cc1170b",
+    "bookId": "bk_behave",
+    "text": "Willpower is more than just a metaphor; self-control is a finite resource. Frontal neurons are expensive cells, and expensive cells are vulnerable cells.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_3f680cc9d690",
+    "bookId": "bk_behave",
+    "text": "The chance that you will do precisely the wrong thing rises not despite your best efforts but because of a stress-boggled version of them.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_e4e1cb756e5b",
+    "bookId": "bk_behave",
+    "text": "Once, during a concert of cathedral organ music, as I sat getting gooseflesh amid that tsunami of sound, I was struck with a thought: for a medieval peasant, this must have been the loudest human-made sound they ever experienced, awe-inspiring in now-unimaginable ways. No wonder they signed up for the religion being proffered. And now we are constantly pummeled with sounds that dwarf quaint organs. Once, hunter- gatherers might chance upon honey from a beehive and thus briefly satisfy a hardwired food craving. And now we have hundreds of carefully designed commercial foods that supply a burst of sensation unmatched by some lowly natural food. Once, we had lives that, amid considerable privation, also offered numerous subtle, hard-won pleasures. And now we have drugs that cause spasms of pleasure and dopamine release a thousandfold higher than anything stimulated in our old drug-free world.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_d010b5d9cbf1",
+    "bookId": "bk_behave",
+    "text": "The two classes of fibers can interact, and we often intentionally force them to. Suppose that you have some sort of continuous, throbbing pain—say, an insect bite. How can you stop the throbbing? Briefly stimulate the fast fiber. This adds to the pain for an instant, but by stimulating neuron C, you shut the system down for a while. And that is precisely what we often do in such circumstances. An insect bite throbs unbearably, we scratch hard right around it to dull the pain, and the slow, chronic pain pathway is shut down for up to a few minutes.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_8bb9777ece8f",
+    "bookId": "bk_behave",
+    "text": "If we were designed by engineers, as we consumed more, we’d desire less. But our frequent human tragedy is that the more we consume, the hungrier we get. More and faster and stronger. What was an unexpected pleasure yesterday is what we feel entitled to today, and what won’t be enough tomorrow.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_f010415f736c",
+    "bookId": "bk_behave",
+    "text": "anticipatory dopamine release peaks with the greatest uncertainty as to whether a reward will occur.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_59fe7fbaecae",
+    "bookId": "bk_behave",
+    "text": "In other words, dopamine is not about the happiness of reward. It’s about the happiness of pursuit of reward that has a decent chance of occurring.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_10876f96b93e",
+    "bookId": "bk_behave",
+    "text": "While this neurobiology is mighty impressive, the brain is not where a behavior “begins.” It’s merely the final common pathway by which all the factors in the chapters to come converge and create behavior.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_0a474927462c",
+    "bookId": "bk_behave",
+    "text": "over the course of seconds to minutes, the amount of energy reaching the brain and the amount of energy",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_61fc147c6d6c",
+    "bookId": "bk_behave",
+    "text": "the frontal cortex needs have something to do with whether the harder, more correct thing happens.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_296d653e8783",
+    "bookId": "bk_behave",
+    "text": "During acute stress, all of our sensory systems become more sensitive. More selectively, if you’re hungry, you become more sensitive to the smell of food. How does something like this work? A priori, it seems as if all sensory roads lead to the brain. But the brain also sends neuronal projections to sensory organs. For example, low blood sugar might activate particular hypothalamic neurons. These, in turn, project to and stimulate receptor neurons in the nose that respond to food smells. The stimulation isn’t enough to give those receptor neurons action potentials, but it now takes fewer food odorant molecules to trigger one. Something along these lines explains how the brain alters the selective sensitivity of sensory systems.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_de3e3ee63645",
+    "bookId": "bk_behave",
+    "text": "NO BRAIN OPERATES in a vacuum, and over the course of seconds to minutes, the wealth of information streaming into the brain influences the likelihood of pro- or antisocial acts. As we’ve seen, pertinent information ranges from something as simple and unidimensional as shirt color to things as complex and subtle as cues about ideology. Moreover, the brain also constantly receives interoceptive information. And most important, much of these varied types of information is subliminal. Ultimately, the most important point of this chapter is that in the moments just before we decide upon some of our most consequential acts, we are less rational and autonomous decision makers than we like to think.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_010dc0a3a02f",
+    "bookId": "bk_behave",
+    "text": "Testosterone makes us more willing to do what it takes to attain and maintain status. And the key point is what it takes. Engineer social circumstances right, and boosting testosterone levels during a challenge would make people compete like crazy to do the most acts of random kindness. In our world riddled with male violence, the problem isn’t that testosterone can increase levels of aggression. The problem is the frequency with which we reward aggression.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_a2b8918b5654",
+    "bookId": "bk_behave",
+    "text": "Oxytocin, the luv hormone, makes us more prosocial to Us and worse to everyone else. That’s not generic prosociality. That’s ethnocentrism and xenophobia. In other words, the actions of these neuropeptides depend dramatically on context—who you are, your environment, and who that person is.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_67ee6eb52489",
+    "bookId": "bk_behave",
+    "text": "Mobilizing energy while sprinting for your life helps save you. Do the same thing chronically because of a stressful thirty-year mortgage, and you’re at risk for various metabolic problems, including adult-onset diabetes.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_b25e4e66368f",
+    "bookId": "bk_behave",
+    "text": "the rise in testosterone during a status challenge does not necessarily increase aggression; it increases whatever is needed to maintain status. In a world in which status is awarded for the best of our behaviors, testosterone would be the most prosocial hormone in existence.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_96ea3a5a9c2b",
+    "bookId": "bk_behave",
+    "text": "Hormones don’t determine, command, cause, or invent behaviors. Instead they make us more sensitive to the social triggers of emotionally laden behaviors and exaggerate our preexisting tendencies in those domains.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_f8f30c81860b",
+    "bookId": "bk_behave",
+    "text": "This is the essence of learning. The lecturer says something, and it goes in one ear and out the other. The factoid is repeated; same thing. It’s repeated enough times and—aha!—the lightbulb goes on and suddenly you get it. At a synaptic level, the axon terminal having to repeatedly release glutamate is the lecturer droning on repetitively; the moment when the postsynaptic threshold is passed and the NMDA receptors first activate is the dendritic spine finally getting",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_5eb7b7710a03",
+    "bookId": "bk_behave",
+    "text": "Basically, most anything you can measure in the nervous system can change in response to a sustained stimulus. And importantly, these changes are often reversible in a different environment.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_928a5fcbb791",
+    "bookId": "bk_behave",
+    "text": "There is an age difference in the sensations sought—adolescents are tempted to bungee jump; adults are tempted to cheat on their low-salt diet. Adolescence is characterized not only by more risking but by more novelty seeking as well.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_b0de1f880605",
+    "bookId": "bk_behave",
+    "text": "the greatest crime-fighting tool is a thirtieth birthday.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_680f733eebc4",
+    "bookId": "bk_behave",
+    "text": "THIS chapter’s dominant fact has been the delayed maturation of the frontal cortex. Why should the delay occur? Is it because the frontal cortex is the brain’s most complicated construction project?",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_e42c80b67f0e",
+    "bookId": "bk_behave",
+    "text": "Probably not.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_f28f01106f5b",
+    "bookId": "bk_behave",
+    "text": "If the frontal cortex matured as fast as the rest of the brain, there’d be none of the adolescent turbulence, none of the antsy, itchy exploration and creativity, none of the long line of pimply adolescent geniuses who dropped out of school and worked away in their garages to invent fire, cave painting, and the wheel.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_94933a31f043",
+    "bookId": "bk_behave",
+    "text": "the brain is heavily influenced by genes. But from birth through young adulthood, the part of the human brain that most defines us is less a product of the genes with which you started life than of what life has thrown at you. Because it is the last to mature, by definition the frontal cortex is the brain region least constrained by genes and most sculpted by experience. This must be so, to be the supremely complex social species that we are. Ironically, it seems that the genetic program of human brain development has evolved to, as much as possible, free the frontal cortex from genes.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_ea6f6ce857f4",
+    "bookId": "bk_behave",
+    "text": "Glucocorticoids have so many adverse effects on brain development (stay tuned) that the SHRP represents a gamble—“I won’t secrete glucocorticoids in response to stress, so that I develop optimally; if something stressful happens, Mom will handle it for me.” Accordingly, deprive infant rats of their mothers, and within hours their adrenals expand and regain the ability to secrete plenty of glucocorticoids.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_8c29286f66fe",
+    "bookId": "bk_behave",
+    "text": "“attachment [by such an infant] to the caretaker has evolved to ensure that the infant forms a bond to that caregiver regardless of the quality of care received.” Any kind of mother in a storm.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_e056b332fc39",
+    "bookId": "bk_behave",
+    "text": "participating in violent video games. A summary: Exposing children to a violent TV or film clip increases their odds of aggression soon after.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_ccd9abfc926c",
+    "bookId": "bk_behave",
+    "text": "A child deprived of or disinterested in play rarely has a socially fulfilling adult life.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_34a715de71bc",
+    "bookId": "bk_behave",
+    "text": "While little in childhood determines an adult behavior, virtually everything in childhood changes propensities toward some adult behavior.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_c2644767b3c0",
+    "bookId": "bk_behave",
+    "text": "Saying that a gene “decides” when it is transcribed is like saying that a recipe decides when a cake is baked. Thus transcription factors regulate genes. What regulates transcription factors? The answer devastates the concept of genetic determinism: the environment.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_de0dbd2129f9",
+    "bookId": "bk_behave",
+    "text": "Genes are not autonomous agents commanding biological events. b. Instead, genes are regulated by the environment, with “environment” consisting of everything from events inside the cell to the universe. c. Much of your DNA turns environmental influences into gene transcription, rather than coding for genes themselves; moreover, evolution is heavily about changing regulation of gene transcription, rather than genes themselves.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_b8a13f1c93d8",
+    "bookId": "bk_behave",
+    "text": "Study a gene in only one environment and, by definition, you’ve eliminated the ability to see if it works differently in other environments (in other words, if other environments regulate the gene differently). And thus you’ve artificially inflated the importance of the genetic contribution. The more environments in which you study a genetic trait, the more novel environmental effects will be revealed, decreasing the heritability score.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_2b149180d7a9",
+    "bookId": "bk_behave",
+    "text": "it’s not meaningful to ask what a gene does, just what it does in a particular environment.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_4f89d26f46e9",
+    "bookId": "bk_behave",
+    "text": "in unstable environments stratified societies are “better able to survive resource shortages [than egalitarian cultures] by sequestering mortality in the lower classes.” In other words, when times are tough, the unequal access to wealth becomes the unequal distribution of misery and death.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_566ac5940801",
+    "bookId": "bk_behave",
+    "text": "High-density living doesn’t make rats more aggressive. Instead it makes aggressive rats more aggressive. (This echoes the findings that neither testosterone, nor alcohol, nor media violence uniformly increases violence. Instead they make violent individuals more sensitive to violence-evoking social cues.) In contrast, crowding makes unaggressive individuals more timid. In other words, it exaggerates preexisting social tendencies.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_5a91ee705118",
+    "bookId": "bk_behave",
+    "text": "“Peace does not depend on integrated coexistence, but rather on well defined topographical and political boundaries separating groups, allowing for partial autonomy within a single country,”",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_0064b2ef1872",
+    "bookId": "bk_behave",
+    "text": "Which brings us to agriculture. I won’t pull any punches—I think that its invention was one of the all-time human blunders, up there with, say, the New Coke debacle and the Edsel. Agriculture makes people dependent on a few domesticated crops and animals instead of hundreds of wild food sources, creating vulnerability to droughts and blights and zoonotic diseases. Agriculture makes for sedentary living, leading humans to do something that no primate with a concern for hygiene and public health would ever do, namely living in close proximity to their feces. Agriculture makes for surplus and thus almost inevitably the unequal distribution of surplus, generating socioeconomic status differences that dwarf anything that other primates cook up with their hierarchies.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_1c9ab8b253d0",
+    "bookId": "bk_behave",
+    "text": "it doesn’t take a particularly fancy brain to learn how to motorically, say, throw a punch. But it takes a fancy, environmentally malleable frontal cortex to learn culture-specific rules about when it’s okay to throw punches.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_e1ca388c00d1",
+    "bookId": "bk_behave",
+    "text": "cultural differences manifest themselves in monumentally important, expected ways—say, whom it is okay to kill (an enemy soldier, a cheating spouse, a newborn of the “wrong” sex, an elderly parent too old to hunt, a teenage daughter who is absorbing the culture around her rather than the culture her parents departed). But the manifestations can occur in unlikely places—e.g., where your eyes look within milliseconds of seeing a picture, or whether thinking of a rabbit prompts you to think of other animals or of what rabbits eat.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_3e0dc6518d9c",
+    "bookId": "bk_behave",
+    "text": "EVOLUTION RESTS ON three steps: (a) certain biological traits are inherited by genetic means; (b) mutations and gene recombination produce variation in those traits; (c) some of those variants confer more “fitness” than others. Given those conditions, over time the frequency of more “fit” gene variants increases in a population.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_1b517931f44a",
+    "bookId": "bk_behave",
+    "text": "We start by trashing some common misconceptions. First, that evolution favors survival of the fittest. Instead evolution is about reproduction, passing on copies of genes. An organism living centuries but not reproducing is evolutionarily invisible.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_975e73cb22ed",
+    "bookId": "bk_behave",
+    "text": "“A chicken is an egg’s way of making another egg”—behavior is just an epiphenomenon, a means of getting",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_9b20c6c1922e",
+    "bookId": "bk_behave",
+    "text": "copies of genes into the next generation.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_2683cbb6552d",
+    "bookId": "bk_behave",
+    "text": "Dawkins introduced a great metaphor: a cake recipe is a genotype, and how the cake tastes is the phenotype. Genotype chauvinists emphasize that the recipe is what is passed on, the sequence of words that make for a stable replicator. But people select for taste, not recipe, say the phenotypists, and taste reflects more than just the recipe—after all, there are recipe/environment interactions where bakers differ in their skill levels, cakes bake differently at various altitudes, etc. The recipe-versus-taste question can be framed practically: Your cake company isn’t selling enough cakes. Do you change the recipe or the baker?",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_d4b4f3f10f3d",
+    "bookId": "bk_behave",
+    "text": "we are not descended from chimps. Or from any extant animal. We and chimps share a common ancestor from roughly five million years ago",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_e0e198bc3c87",
+    "bookId": "bk_behave",
+    "text": "we have multiple dichotomies in our heads, and ones that seem inevitable and crucial can, under the right circumstances, have their importance evaporate in an instant.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_1418f9514360",
+    "bookId": "bk_behave",
+    "text": "Thus, in order to lessen the adverse effects of Us/Them-ing, a shopping list would include emphasizing individuation and shared attributes, perspective taking, more benign dichotomies, lessening hierarchical differences, and bringing people together on equal terms with shared goals.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_f92e8ce53659",
+    "bookId": "bk_behave",
+    "text": "outdated primatology confused high rank with “leadership” in silly ways. An alpha male baboon is not a leader; he just gets the best stuff. And while everyone follows a knowledgeable old female when she chooses her foraging route in the morning, there is every indication that she is “going” rather than “leading.”",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_be6f83aedaac",
+    "bookId": "bk_behave",
+    "text": "Thus animals will perform one version of a behavior not because it is better but simply because everyone else does.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_efa2e4dd6e32",
+    "bookId": "bk_behave",
+    "text": "The depths of human conformity and obedience are shown by the speed with which they occur—it takes less than 200 milliseconds for your brain to register that the group has picked a different answer from yours, and less than 380 milliseconds for a profile of activation that predicts changing your opinion. Our brains are biased to get along by going along in less than a second.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_9a1a11895e5e",
+    "bookId": "bk_behave",
+    "text": "one must understand how some environments cause epidemics of evil, a “public health” approach. As he states: “Any deed, for good or evil, that any human being has ever done, you and I could also do—given the same situational forces.”",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_d5064d260063",
+    "bookId": "bk_behave",
+    "text": "When pressured to conform and obey, a far higher percentage of perfectly normal people than most would predict succumb and do awful things.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_9f3c29ddfb04",
+    "bookId": "bk_behave",
+    "text": "Going easy on ourselves also reflects a key cognitive fact: we judge ourselves by our internal motives and everyone else by their external actions.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_3361fe027880",
+    "bookId": "bk_behave",
+    "text": "Our overview of moral intuition versus moral reasoning has generated a dichotomy, something akin to how guys can’t have lots of blood flow to their crotch and their brain at the same time; they have to choose.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_c4b7ccd12b0e",
+    "bookId": "bk_behave",
+    "text": "In the West we nearly all have strong moral intuitions about the wrongness of slavery, child labor, or animal cruelty. But that sure didn’t used to be the case. Their wrongness has become an implicit moral intuition, a gut instinct concerning moral truth, only because of the fierce moral reasoning (and activism) of those who came before us, when the average person’s moral intuitions were unrecognizably different. Our guts learn their intuitions.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_24655a3c79a4",
+    "bookId": "bk_behave",
+    "text": "Feeling someone else’s pain can be more effective for learning than just knowing that they’re in pain.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_a91737eca861",
+    "bookId": "bk_behave",
+    "text": "cognitive processes serve as a gatekeeper, deciding whether a particular misfortune is worthy of empathy.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_d05e968e223c",
+    "bookId": "bk_behave",
+    "text": "there is a yawning gap between being in an empathic state and acting effectively in a way that is truly selfless.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_0762b619327e",
+    "bookId": "bk_behave",
+    "text": "Expose subjects to evidence of someone else in pain. If their heart rate increases a lot (a peripheral indicator of anxious, amygdaloid arousal), they are unlikely to act prosocially in the situation. The prosocial ones are those whose heart rates decrease; they can hear the sound of someone else’s need instead of the distressed pounding in their own chests.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_7aebd81d508a",
+    "bookId": "bk_behave",
+    "text": "A large piece of the training of health-care professionals is teaching them to keep empathy at bay. For example, the various behavioral and neurobiological responses to seeing someone poked with a needle do not occur in acupuncturists. As Jamison describes, when anxiously seeing a doctor about something worrisome, “I needed to look at him and see the opposite of my fear, not its echo.”",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_c3df6cfc5a79",
+    "bookId": "bk_behave",
+    "text": "the point is not whose pain pains us the most but who most needs our help.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_03a4e6527d8e",
+    "bookId": "bk_behave",
+    "text": "As emphasized by the twelfth-century philosopher Moses Maimonides, the purest form of charity, the most stripped of self-interest, is when both the giver and the recipient are anonymous.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_0b73903581c5",
+    "bookId": "bk_behave",
+    "text": "After all, we’re all searching for a sense of self, and better that particular sense than to assure yourself that you’re tough, scary, and not to be messed with.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_6beea89fb8b9",
+    "bookId": "bk_behave",
+    "text": "The key to evolution as an improviser rather than inventor is chapter 10’s concept of exaptation—some trait evolves for some purpose and is co-opted when it turns out to be useful for something else. And soon feathers are aiding flight, in addition to regulating body temperature,",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_6857aa0ad7f4",
+    "bookId": "bk_behave",
+    "text": "“In rational-choice models of decision-making, something as intangible as an apology [or getting the likes of the Protocols of the Elders of Zion out of school-books] could not stand in the way of peace.” Yet they do, because in recognizing the enemy’s sacred symbols, you are de facto recognizing their humanity, their capacity for pride, unity, and connection to their past and, probably most of all, their capacity for experiencing pain.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_14365c2a5906",
+    "bookId": "bk_behave",
+    "text": "I can’t really imagine how to live your life as if there is no free will. It may never be possible to view ourselves as the sum of our biology. Perhaps we’ll have to settle for making sure our homuncular myths are benign, and save the heavy lifting of truly thinking rationally for where it matters—when we judge others harshly.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_d05edd3fba9b",
+    "bookId": "bk_behave",
+    "text": "LET’S REVIEW SOME facts. The amygdala typically activates when seeing a face of another race. If you’re poor, by the time you’re five, your frontal cortical development probably lags behind average. Oxytocin makes us crappy to strangers. Empathy doesn’t particularly translate into compassionate acts, nor does refined moral",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_bfbdaf626f91",
+    "bookId": "bk_behave",
+    "text": "development translate into doing the harder, right thing. There are gene variants that, in particular settings, make you prone toward antisocial acts. And bonobos aren’t perfectly peaceful—they wouldn’t be masters of reconciliation if they didn’t have conflicts to reconcile.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_06301db7f774",
+    "bookId": "bk_behave",
+    "text": "Hatred is exhausting; forgiveness, or even just indifference, is freeing.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_0f5daa430d3b",
+    "bookId": "bk_behave",
+    "text": "in World War II only 15 to 20 percent of riflemen ever fired their guns. The rest? Running messages, helping people load ammunition, tending to buddies—but not aiming a rifle at someone nearby and pulling a trigger.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_a421d0facfaa",
+    "bookId": "bk_behave",
+    "text": "Psychologists of warfare emphasize how, in the heat of battle, people don’t shoot another human out of hatred or obedience, or even from knowing that this enemy is trying to kill them. Instead it’s the pseudokinship of bands of brothers—to protect your buddies, to not let the guys next to you down. But outside those motivations, humans show a strong natural aversion to killing at close range. The most resistance is against hand-to-hand combat with a knife or bayonet. Next comes short-range firing with a pistol, then long-range firing, all the way to the easiest, which is bombs and artillery.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_d9464e92d4d8",
+    "bookId": "bk_behave",
+    "text": "The deepest trauma is not the fear of being killed. It’s doing the close-up, individuated killing, watching someone for weeks and then turning him the color of the ground.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_0f287c624ea6",
+    "bookId": "bk_behave",
+    "text": "Childhood adversity can scar everything from our DNA to our cultures, and effects can be lifelong, even multigenerational. However, more adverse consequences can be reversed than used to be thought. But the longer you wait to intervene, the harder it will be.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_de0cff4aec6e",
+    "bookId": "bk_behave",
+    "text": "Biologically, intense love and intense hate aren’t opposites. The opposite of each is indifference.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_6bdade3dcb81",
+    "bookId": "bk_behave",
+    "text": "Adolescence shows us that the most interesting part of the brain evolved to be shaped minimally by genes and maximally by experience; that’s how we learn—context, context, context.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_99e4aa5854d6",
+    "bookId": "bk_behave",
+    "text": "Neither the capacity for fancy, rarefied moral reasoning nor for feeling great empathy necessarily translates into actually doing something difficult, brave, and compassionate.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_4c8b97fba467",
+    "bookId": "bk_behave",
+    "text": "If you had to boil this book down to a single phrase, it would be “It’s complicated.” Nothing seems to cause anything; instead everything just modulates something else. Scientists keep saying, “We used to think X, but now we realize that …” Fixing one thing often messes up ten more, as the law of unintended consequences reigns. On any big, important issue it seems like 51 percent of the scientific studies conclude one thing, and 49 percent conclude the opposite. And so on. Eventually it can seem hopeless that you can actually fix something, can make things better. But we have no choice but to try. And if you are reading this, you are probably ideally suited to do so. You’ve amply proven you have intellectual tenacity. You probably also have running water, a home, adequate calories, and low odds of festering with a bad parasitic disease. You probably don’t have to worry about Ebola virus, warlords, or being invisible in your world. And you’ve been educated. In other words, you’re one of the lucky humans. So try.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_02d44767d45b",
+    "bookId": "bk_behave",
+    "text": "Finally, you don’t have to choose between being scientific and being compassionate.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_77f6f2c0dc1e",
+    "bookId": "bk_only-dull-people-are-brilliant-at-breakfast",
+    "text": "I have always been of opinion that hard work is simply the refuge of people who have nothing whatever to do.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_cd6c85dd3e8b",
+    "bookId": "bk_only-dull-people-are-brilliant-at-breakfast",
+    "text": "Prayer must never be answered: if it is, it ceases to be prayer and becomes correspondence.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_23657133beb5",
+    "bookId": "bk_only-dull-people-are-brilliant-at-breakfast",
+    "text": "Education is an admirable thing. But it is well to remember from time to time that nothing that is worth knowing can be taught.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_ca21de0d45c6",
+    "bookId": "bk_only-dull-people-are-brilliant-at-breakfast",
+    "text": "Conversation should touch everything, but should concentrate itself on nothing.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_cb416353218c",
+    "bookId": "bk_only-dull-people-are-brilliant-at-breakfast",
+    "text": "The aim of art is simply to create a mood.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_46d0ff43eac7",
+    "bookId": "bk_only-dull-people-are-brilliant-at-breakfast",
+    "text": "There is no such thing as a moral or an immoral book. Books are well written, or badly written. That is all.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_ec17ecfc649d",
+    "bookId": "bk_only-dull-people-are-brilliant-at-breakfast",
+    "text": "Experience was of no ethical value. It was merely the name men gave to their mistakes.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_07212ac7417c",
+    "bookId": "bk_only-dull-people-are-brilliant-at-breakfast",
+    "text": "High hopes were once formed of democracy; but democracy means simply the bludgeoning of the people by the people for the people.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_911098a3342e",
+    "bookId": "bk_only-dull-people-are-brilliant-at-breakfast",
+    "text": "One should either be a work of art, or wear a work of art.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_c0afef970f50",
+    "bookId": "bk_only-dull-people-are-brilliant-at-breakfast",
+    "text": "Oh, it is indeed a burning shame that there would be one law for men and another law for women. I think that there should be no law for anybody.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_89d2e88ec51d",
+    "bookId": "bk_only-dull-people-are-brilliant-at-breakfast",
+    "text": "Ultimately the bond of all companionship, whether in marriage or in friendship, is conversation",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_fd4c8a3fea78",
+    "bookId": "bk_only-dull-people-are-brilliant-at-breakfast",
+    "text": "I love acting. It is so much more real than life.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_7dfd3b58173d",
+    "bookId": "bk_only-dull-people-are-brilliant-at-breakfast",
+    "text": "Being natural is simply a pose, and the most irritating pose I know.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_38a0c5697297",
+    "bookId": "bk_only-dull-people-are-brilliant-at-breakfast",
+    "text": "Perhaps one never seems so much at one’s ease as when one has to play a part.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_f42815afa26c",
+    "bookId": "bk_only-dull-people-are-brilliant-at-breakfast",
+    "text": "Nowadays most people die of a sort of creeping common sense, and discover, when it is too late, that the only thing one never regrets are one’s mistakes.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_350c00b2bc65",
+    "bookId": "bk_only-dull-people-are-brilliant-at-breakfast",
+    "text": "A sentimentalist is simply a man who desires to have the luxury of an emotion without paying for it.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_89d4e60315d1",
+    "bookId": "bk_only-dull-people-are-brilliant-at-breakfast",
+    "text": "The aim of life is self-development. To realize one’s nature perfectly – that is what each of us is here for.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_8dcd8939294d",
+    "bookId": "bk_only-dull-people-are-brilliant-at-breakfast",
+    "text": "To become the spectator of one’s own life is to escape the suffering of life.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_205736e0d170",
+    "bookId": "bk_only-dull-people-are-brilliant-at-breakfast",
+    "text": "We all look at Nature too much, and live with her too little.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_949484c2dc58",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "“Isn’t it ironic that your entire professional life is predicated around trying to make people live longer,” she mused, “yet you’re putting no energy into being less miserable, into suffering less emotionally?” She continued: “Why would you want to live longer if you’re so unhappy?” Part II",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_e437618c4fdd",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "This is what we want for ourselves: to live longer with good function and without chronic disease, and with a briefer period of morbidity at the end of our lives.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_40bfffdc043a",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "natural selection doesn’t care if we develop Alzheimer’s disease (or baldness) in old age. It doesn’t affect our reproductive fitness. By the time dementia would appear, we have likely already handed down our genes.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_4e1c502fb4d6",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "Even a relatively lean adult may carry ten kilograms of fat in their body, representing a whopping ninety thousand calories of stored energy.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_eca0a7e8ebc3",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "The reason they’re called high-and low-density lipoproteins (HDL and LDL, respectively) has to do with the amount of fat relative to protein that each one carries. LDLs carry more lipids, while HDLs carry more protein in relation to fat, and are therefore more dense.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_5b6ab2f70cc7",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "“There’s no connection whatsoever between cholesterol in food and cholesterol in blood,”",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_ac3f3062afbc",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "Globally, about 12 to 13 percent15 of all cancer cases are thought to be attributable to obesity. Obesity itself is strongly associated with thirteen different types of cancers,",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_652953c084bd",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "I’m not suggesting that it’s possible to “starve” cancer or that any particular diet will magically make cancer go away; cancer cells always seem to be able to obtain the energy supply they need. What I am saying is that we don’t want to be anywhere on that spectrum of insulin resistance to type 2 diabetes, where our cancer risk is clearly elevated. To me, this is the low-hanging fruit of cancer prevention, right up there with quitting smoking. Getting our metabolic health in order is essential to our anticancer strategy.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_c4c850aeca0f",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "the greater someone’s grip strength, the lower their risk of dementia.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_8240f8e9b5e1",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "I now tell patients that exercise is, full stop and hands down, the best tool we have in the neurodegeneration prevention tool kit. Part III",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_e150164b5c1c",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "“Being unfit carried a greater risk than any of the cardiac risk factors examined,”",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_5440e63211a2",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "My point is that if you really stop to consider the kind of aerobic fitness that most people actually need in the",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_8c82fe5d6fd1",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "course of their lives, it basically boils down to being really good at going slow for a long time, but also able to go hard and fast when needed. Training and maintaining a high level of aerobic fitness, and doing it now, is essential to preserving this range of function in your later years.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_558134fa2128",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "Grip strength is important at all ages. Every interaction that we have begins with our hands (or feet, as we’ll discuss later). Our grip is our primary point of contact in almost any physical task, from swinging a golf club to chopping wood; it is our interface with the world. If our grip is weak, then everything else is compromised.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_6d3b33f95aff",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "tear, are rarely sudden. While their onset may be rapid—instantaneous back or neck or knee pain—there was likely a chronic weakness or lack of stability at the foundation of the joint that was the true culprit. This is the real iceberg in the water. The “acute” injury is just the part you see, the manifestation of the underlying weakness.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_d3ce5dec5bc4",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "and try to balance. Now close your eyes and see how long you can hold the position. Ten seconds is a respectable time;8 in fact, the ability to balance on one leg at ages fifty and older has been correlated with future longevity, just like grip strength.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_f43f8c665496",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "Religion is a culture of faith; science is a culture of doubt. —RICHARD FEYNMAN",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_5c430c5e440b",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "Wearing a cast on a broken bone will allow it to heal. Wearing a cast on a perfectly normal arm will cause it to atrophy. While this example is obvious, it’s amazing how many people fail to translate it to nutrition. It seems quite clear that a nutritional intervention aimed at correcting a serious problem (e.g., highly restricted diets, even fasting, to treat obesity, NAFLD, and type 2 diabetes) might be different from a nutritional plan calibrated to maintain good health (e.g., balanced diets in metabolically healthy people).",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_c1a6aff7bb4a",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "Nutrition is relatively simple, actually. It boils down to a few basic rules: don’t eat too many calories, or too few; consume sufficient protein and essential fats; obtain the vitamins and minerals you need; and avoid pathogens like E. coli and toxins like mercury or lead. Beyond that, we know relatively little with complete certainty. Read that sentence again, please.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_b903c2b7b165",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "Avoiding diabetes and related metabolic dysfunction—especially by eliminating or reducing junk food—is very important to longevity.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_8d77926e1c41",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "There appears to be a strong link between calories and cancer,",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_8d193e0304ab",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "The quality of the food you eat could be as important as the quantity.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_e6b25c72b782",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "Conversely, if your diet is high quality to begin with, and you are metabolically healthy, then only a slight degree of caloric restriction—or simply not eating to excess—can still be beneficial.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_64fecbbd17e2",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "A 2011 study looking at twenty thousand people,14 mostly without type 2 diabetes, found that their risk of mortality increased monotonically with their average blood glucose levels (measured via HbA1c). The higher their blood glucose, the greater their risk of death—even in the nondiabetic range of blood glucose.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_f92f043813c1",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "I have become convinced that frequent, prolonged fasting may be neither necessary nor wise for most patients. The cost, in terms of lost lean mass (muscle) and reduced activity levels, simply does not justify whatever benefits it may bring. My rule of thumb for any eating pattern, in fact, is that you must eat enough to maintain lean mass (muscle) and long-term activity patterns. That is part of what makes any diet sustainable.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_567aab678264",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "Bad nutrition can hurt us more than good nutrition can help us. If you’re already metabolically healthy,",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_6dcd046cb6dc",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "nutritional interventions can only do so much.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_6882d6b5c423",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "If sleep is so unimportant, he asked, then why hasn’t evolution gotten rid of it?",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_a1bf57dd4723",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "Every man is a bridge, spanning the legacy he inherited and the legacy he passes on. —TERRENCE REAL",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_0e4362382a0c",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "Parts of my past may have been bad, but in a way they also ended up setting me on a course toward a better life.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_2f873c1b2710",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "So in a way, I said, my abuse may have actually saved my life—I don’t really even need to be here!",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_1b388b35dff4",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "she asked a simple question: “You were five years old when this first happened to you, right?” “That’s right,” I replied. “And your son Reese is almost five years old now, right?” I nodded. “So you’re saying it’s okay that this happened to you when you were his age—but would you be okay with people doing that to Reese now?”",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_72e11d451e69",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "“Family pathology rolls from generation to generation like a fire in the woods taking down everything in its path until one person, in one generation, has the courage to turn and face the flames. That person brings peace to his ancestors and spares the children that follow.”",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_7f5461ccea26",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "to notice something I had never experienced before: I found more joy in being than in doing. For the first time in my life, I felt that I could be a good father. I could be a good husband. I could be a good person. After all, this is the whole point of living. And the whole point of outliving.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_ed35ef6bc739",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "“Maybe the journey isn’t so much about becoming anything,” he writes. “Maybe it’s about unbecoming everything that isn’t really you, so you can be who you were meant to be in the first place.”",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
+  },
+  {
+    "id": "q_f771c972df2f",
+    "bookId": "bk_outlive-the-science-and-art-of-longevity-peter-attia-md-bill-gifford",
+    "text": "“I think people get old when they stop thinking about the future,” Ric told me. “If you want to find someone’s true age, listen to them. If they talk about the past and they talk about all the things that happened that they did, they’ve gotten old. If they think about their dreams, their aspirations, what they’re still looking forward to—they’re young.” Here’s to staying young, even as we grow older.",
+    "location": {},
+    "tags": [],
+    "addedAt": "2026-06-26"
   }
 ]
