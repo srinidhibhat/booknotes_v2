@@ -35,7 +35,7 @@ Static site + scripts to collect and visualize book highlights/quotes.
   - `python scripts/ingest.py` (updates `data/books.json` and `data/quotes.json`)
 
 2) Goodreads export (Python)
-- Place your Goodreads `export.csv` at `data/goodreads/export.csv`.
+- Place your Goodreads `export.csv` at `data/goodreads/export.csv`. ([link](https://www.goodreads.com/review/import) to download export)
 - Build normalized JSON:
   - `python scripts/goodreads_from_export.py`
 - Optionally merge Goodreads metadata into `data/books.json`:
